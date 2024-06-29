@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80ac3dfb2befb60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -161,13 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2daf64524a7194a",
+  "active": "80ac3dfb2befb60b",
   "lastOpenFiles": [
-    "Universes/UniDark/Locations of UniDark.md",
     "Locations.md",
+    "conflict-files-obsidian-git.md",
+    "Universes/UniDark/Locations of UniDark.md",
     "Universes/UniLuck/Locations of UniLuck.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "Universes/Main.md",
     "Universes/FILENAME00/FILENAME00.md",
     "Universes/UniDark/UniDark.md",
