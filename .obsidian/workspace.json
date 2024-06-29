@@ -10,31 +10,16 @@
           {
             "id": "db1c40530cfed4ea",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e2daf64524a7194a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations.md",
+                "file": "Characters/All Characters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations.md",
+                "file": "Characters/All Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations.md",
+                "file": "Characters/All Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations.md"
+                "file": "Characters/All Characters.md"
               }
             }
           }
@@ -161,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2daf64524a7194a",
+  "active": "db1c40530cfed4ea",
   "lastOpenFiles": [
+    "Locations.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Universes/Main.md",
-    "Locations.md",
     "Universes/UniDark/Locations of UniDark.md",
     "Universes/FILENAME00/FILENAME00.md",
+    "Universes/Main.md",
     "Universes/UniDark/UniDark.md",
     "Universes/UniLuck/UniLuck.md",
     "Universes/FILENAME00",
