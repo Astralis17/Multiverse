@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md",
-                "mode": "source",
+                "file": "Characters/All Characters.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Universes/UniLuck/The Dojo.md",
+            "file": "Characters/All Characters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Universes/UniLuck/The Dojo.md",
+            "file": "Characters/All Characters.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Universes/UniLuck/The Dojo.md"
+            "file": "Characters/All Characters.md"
           }
         }
       }
@@ -131,16 +131,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18587218d15d266e",
+  "active": "df635db95b10e41c",
   "lastOpenFiles": [
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/All Characters.md",
+    "Universes/UniLuck/The Dojo.md",
     "Factions",
     "Locations.md",
     "Universes/UniLuck/UniLuck.md",
     "Universes/UniLuck/Locations of UniLuck.md",
-    "Universes/UniLuck/The Dojo.md",
     "Hello world.md",
     "Characters/Character Files (To Be Digitised)",
-    "/Hello world.md",
-    "Characters/All Characters.md"
+    "/Hello world.md"
   ]
 }
