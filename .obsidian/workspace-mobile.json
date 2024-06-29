@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac3de41404bf20cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/All Characters.md",
+            "file": "Hello world.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/All Characters.md",
+            "file": "Hello world.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/All Characters.md"
+            "file": "Hello world.md"
           }
         }
       }
@@ -131,6 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbd66d58a0dcc82b",
-  "lastOpenFiles": []
+  "active": "ac3de41404bf20cc",
+  "lastOpenFiles": [
+    "Characters/All Characters.md",
+    "Hello world.md"
+  ]
 }
