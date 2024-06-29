@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Characters/All Characters.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Characters/All Characters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Characters/All Characters.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Characters/All Characters.md"
           }
         }
       }
@@ -133,15 +133,16 @@
   },
   "active": "4faaaf9ef1c16848",
   "lastOpenFiles": [
-    "/README.md",
-    "README.md",
     "Locations.md",
+    "Characters/All Characters.md",
+    "README.md",
+    "/Locations.md",
+    "/Characters/All Characters.md",
+    "/README.md",
     "Universes/UniLuck/Locations of UniLuck.md",
     "Universes/FILENAME00/Locations of FILENAME00.md",
     "Universes/UniDark/Locations of UniDark.md",
     "Universes/UniLuck/UniLuck.md",
-    "Characters/All Characters.md",
-    "/Characters/All Characters.md",
     "Characters",
     "/Characters",
     "Universes/UniDark/UniDark.md",
