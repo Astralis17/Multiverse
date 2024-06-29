@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d66b2d4359b8689e",
+        "id": "3cd32057b07a9b99",
         "type": "tabs",
         "children": [
           {
-            "id": "a1cb40c736d77541",
+            "id": "df635db95b10e41c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Locations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Locations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Locations.md"
+          }
         }
       }
     ],
@@ -123,9 +131,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1cb40c736d77541",
+  "active": "df635db95b10e41c",
   "lastOpenFiles": [
+    "Universes/UniLuck/UniLuck.md",
+    "Universes/UniLuck/Locations of UniLuck.md",
+    "Universes/UniLuck/The Slaughter Ace.md",
+    "Locations.md",
     "Hello world.md",
+    "Characters/Character Files (To Be Digitised)",
+    "/Hello world.md",
     "Characters/All Characters.md"
   ]
 }
