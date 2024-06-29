@@ -1,6 +1,28 @@
 This is a list of all characters that have been revealed to everyone who is playing currently
 
-- Belle Riddle
-- Xes
-- Tula Ossa
-- Hellice 
+- [[Abbie]]
+- [[Belle Riddle]]
+- [[Cappy]]
+- [[Captain]]
+- [[Cassidy]]
+- [[Catti]]
+- [[Del]]
+- [[Demon Of Space]]
+- [[Fox]]
+- [[Garcello Golden]]
+- [[Hellice]] 
+- [[Kit]]
+- [[Link Henderson]]
+- [[Mari]] 
+- [[Millie]]
+- [[Mori]]
+- [[Nightmare]]
+- [[Sev]]
+- [[Shadow Colton]]
+- [[Simon]]
+- [[Sketch]]
+- [[Skye]]
+- [[Teddy]]
+- [[Thomas Riddle]]
+- [[Tula Ossa]]
+- [[Xes]]
