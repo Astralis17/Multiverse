@@ -11,8 +11,12 @@
             "id": "db1c40530cfed4ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,12 +148,12 @@
   },
   "active": "db1c40530cfed4ea",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Locations.md",
+    "Universes/Main.md",
     "README.md",
+    "Locations.md",
+    "conflict-files-obsidian-git.md",
     "Universes/UniDark/Locations of UniDark.md",
     "Universes/FILENAME00/FILENAME00.md",
-    "Universes/Main.md",
     "Universes/UniDark/UniDark.md",
     "Universes/UniLuck/UniLuck.md",
     "Universes/FILENAME00",
