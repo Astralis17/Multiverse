@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2731c34a98c2f487",
+        "id": "3a763789ab513972",
         "type": "tabs",
         "children": [
           {
-            "id": "17eb9d33f672ac91",
+            "id": "595d827b24292bd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,10 +130,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17eb9d33f672ac91",
+  "active": "595d827b24292bd2",
   "lastOpenFiles": [
+    "Universes/FILENAME00/FILENAME00.md",
+    "Universes/Main.md",
     "Universes/UniDark/UniDark.md",
     "Universes/UniLuck/UniLuck.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Universes/FILENAME00",
     "Universes/UniDark",
