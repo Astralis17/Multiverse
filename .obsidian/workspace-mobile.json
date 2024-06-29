@@ -14,17 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "6f7aaa3d63183829",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -141,6 +133,7 @@
   },
   "active": "4faaaf9ef1c16848",
   "lastOpenFiles": [
+    "README.md",
     "Locations.md",
     "Universes/UniLuck/Locations of UniLuck.md",
     "Universes/FILENAME00/Locations of FILENAME00.md",
