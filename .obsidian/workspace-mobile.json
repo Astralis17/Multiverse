@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -133,6 +133,7 @@
   },
   "active": "4faaaf9ef1c16848",
   "lastOpenFiles": [
+    "/README.md",
     "README.md",
     "Locations.md",
     "Universes/UniLuck/Locations of UniLuck.md",
