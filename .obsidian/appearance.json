@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Royal Velvet"
+  "accentColor": "#864ffe",
+  "cssTheme": "Things",
+  "theme": "system"
 }
