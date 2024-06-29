@@ -1,44 +1,35 @@
 {
   "main": {
-    "id": "f66e843152cba69d",
+    "id": "e3d7f760d792ac18",
     "type": "split",
     "children": [
       {
-        "id": "b5ea74afd95aa50c",
+        "id": "2731c34a98c2f487",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa85b3519ee2f3e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "18dde93540c08ac7",
+            "id": "6adc50d0e9276f9f",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "590c1eec1a88c5a6",
+    "id": "1788b9803408a115",
     "type": "split",
     "children": [
       {
-        "id": "7b4d4119eb639af2",
+        "id": "a8fc4e58d82294c9",
         "type": "tabs",
         "children": [
           {
-            "id": "39949776427c6ba9",
+            "id": "39b0ccb19eb891f5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +39,7 @@
             }
           },
           {
-            "id": "5aa87a1ee590cc3c",
+            "id": "e3d5b07e4b1f7c21",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,14 +52,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "a1cc8aecdbd359e9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
@@ -77,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "0d4372431eff986c",
+    "id": "91c635afa523e4c8",
     "type": "split",
     "children": [
       {
-        "id": "14793eaeeed05d66",
+        "id": "652916bef0f63969",
         "type": "tabs",
         "children": [
           {
-            "id": "96f53450e2905588",
+            "id": "2ad7bb42f68e7d7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -101,7 +84,7 @@
             }
           },
           {
-            "id": "07c8b3363601dd01",
+            "id": "7ac133fe1fdf932e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,7 +95,7 @@
             }
           },
           {
-            "id": "2f6b987a72b0e0b0",
+            "id": "b8dd5b0038c61065",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,7 +106,7 @@
             }
           },
           {
-            "id": "e7dbdcdb107a287e",
+            "id": "6088bc5c80877e90",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -147,14 +130,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18dde93540c08ac7",
+  "active": "6adc50d0e9276f9f",
   "lastOpenFiles": [
-    "Universes/Master.md",
-    "Universes/Uniluck.md",
-    "Locations.md",
-    "README.md",
-    "Universes",
-    "Multiverse/README.md",
-    "Multiverse"
+    "conflict-files-obsidian-git.md"
   ]
 }
