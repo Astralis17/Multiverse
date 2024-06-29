@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations.md",
+                "file": "Universes/UniLuck/The Dojo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Locations.md",
+            "file": "Universes/UniLuck/The Dojo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Locations.md",
+            "file": "Universes/UniLuck/The Dojo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Locations.md"
+            "file": "Universes/UniLuck/The Dojo.md"
           }
         }
       }
@@ -131,12 +131,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df635db95b10e41c",
+  "active": "18587218d15d266e",
   "lastOpenFiles": [
+    "Factions",
+    "Locations.md",
     "Universes/UniLuck/UniLuck.md",
     "Universes/UniLuck/Locations of UniLuck.md",
-    "Universes/UniLuck/The Slaughter Ace.md",
-    "Locations.md",
+    "Universes/UniLuck/The Dojo.md",
     "Hello world.md",
     "Characters/Character Files (To Be Digitised)",
     "/Hello world.md",

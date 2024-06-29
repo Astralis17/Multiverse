@@ -7,5 +7,5 @@ In this is file there is [[#Locations Per Universe]] and [[#List of all Location
 - [[Locations of UniDark|UniDark]] 
 - [[Locations of UniLuck|UniLuck]]
 ## List of all Locations
-- [[The Slaughter Ace|The Slaughter Ace/The Dojo]]
+- [[The Dojo|The Slaughter Ace/The Dojo]]
 - 
