@@ -11,11 +11,28 @@
             "id": "6adc50d0e9276f9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Universes/UniLuck/UniLuck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17eb9d33f672ac91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universes/UniDark/UniDark.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universes/UniDark/UniDark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Universes/UniDark/UniDark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Universes/UniDark/UniDark.md"
+              }
             }
           }
         ]
@@ -130,8 +151,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6adc50d0e9276f9f",
+  "active": "17eb9d33f672ac91",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md"
+    "Universes/UniLuck/UniLuck.md",
+    "Universes/UniDark/UniDark.md",
+    "conflict-files-obsidian-git.md",
+    "Universes/FILENAME00",
+    "Universes/UniDark",
+    "Universes/UniLuck",
+    "Universes",
+    "Test.md"
   ]
 }
