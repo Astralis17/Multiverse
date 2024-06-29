@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "35e396685d4d2503",
+    "id": "553bf9e235153e70",
     "type": "split",
     "children": [
       {
-        "id": "e23088457f76895d",
+        "id": "072ae7e85f19954b",
         "type": "tabs",
         "children": [
           {
-            "id": "4faaaf9ef1c16848",
+            "id": "8ba6d421becf5c46",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "245d1e420d654bcf",
+    "id": "f659ef40cfbcd6c1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "15fbfe5eeeca4319",
+        "id": "95ee97e30e975492",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "4627636f68944c7d",
+        "id": "c915132dce659510",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "a281a8dab4560038",
+        "id": "7b4cd7d68f3571f5",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "59c31383a255a607",
+        "id": "0cde593eb8dcaa8b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "23acae5964d3aad4",
+    "id": "daadb4a90c8ae306",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9e4bd972f6183af6",
+        "id": "80928347280fabb2",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "1bf1fc71978203ea",
+        "id": "226531c4ad685914",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -103,7 +103,7 @@
         }
       },
       {
-        "id": "91ef7e788bb95395",
+        "id": "c449508dbcba282d",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,12 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15fbfe5eeeca4319",
-  "lastOpenFiles": [
-    "Universes/UniLuck",
-    "Universes/UniDark",
-    "Universes/Uniluck",
-    "Universe/Untitled.md",
-    "Universes"
-  ]
+  "active": "8ba6d421becf5c46",
+  "lastOpenFiles": []
 }
