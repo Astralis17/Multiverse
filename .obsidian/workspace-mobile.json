@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "553bf9e235153e70",
+    "id": "35e396685d4d2503",
     "type": "split",
     "children": [
       {
-        "id": "072ae7e85f19954b",
+        "id": "e23088457f76895d",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba6d421becf5c46",
+            "id": "4faaaf9ef1c16848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universes/UniLuck/UniLuck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f7aaa3d63183829",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,11 +33,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f659ef40cfbcd6c1",
+    "id": "245d1e420d654bcf",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "95ee97e30e975492",
+        "id": "15fbfe5eeeca4319",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +47,7 @@
         }
       },
       {
-        "id": "c915132dce659510",
+        "id": "4627636f68944c7d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +62,7 @@
         }
       },
       {
-        "id": "7b4cd7d68f3571f5",
+        "id": "a281a8dab4560038",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +73,7 @@
         }
       },
       {
-        "id": "0cde593eb8dcaa8b",
+        "id": "59c31383a255a607",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,15 +84,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "daadb4a90c8ae306",
+    "id": "23acae5964d3aad4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "80928347280fabb2",
+        "id": "9e4bd972f6183af6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Universes/UniLuck/UniLuck.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,22 +105,25 @@
         }
       },
       {
-        "id": "226531c4ad685914",
+        "id": "1bf1fc71978203ea",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Universes/UniLuck/UniLuck.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "c449508dbcba282d",
+        "id": "91ef7e788bb95395",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Universes/UniLuck/UniLuck.md"
+          }
         }
       }
     ],
@@ -123,24 +139,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ba6d421becf5c46",
+  "active": "4faaaf9ef1c16848",
   "lastOpenFiles": [
-    "Test.md",
-    "Universes/FILENAME00",
-    "Universes/Main.md",
-    "Universes",
-    "Universes/FILENAME00/FILENAME00.md",
-    "Universes/UniLuck",
     "Universes/UniLuck/UniLuck.md",
     "Universes/UniDark/UniDark.md",
-    "Universes/UniDark",
+    "Universes/FILENAME00/FILENAME00.md",
+    "Universes/Main.md",
     "/Universes/UniLuck/UniLuck.md",
     "/Universes/UniDark/UniDark.md",
     "/Universes/Main.md",
     "/Universes/FILENAME00/FILENAME00.md",
+    "Universes/UniLuck",
+    "Universes/UniDark",
+    "Universes/FILENAME00",
+    "Universes",
     "/Universes/UniLuck",
     "/Universes/UniDark",
     "/Universes/FILENAME00",
-    "/Universes"
+    "/Universes",
+    "Test.md",
+    "/Test.md",
+    "/Universes/UniLuck/Main.md",
+    "Universes/Uniluck",
+    "Universe/Untitled.md"
   ]
 }
