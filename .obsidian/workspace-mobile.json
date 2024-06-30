@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c55cd1713a591f01",
+        "id": "6c9c6488219b692e",
         "type": "tabs",
         "children": [
           {
-            "id": "61fc9ac20ff393de",
+            "id": "053b69a840b083ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/{Character File Template}.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Characters/Character Files/{Character File Template}.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Characters/Character Files/{Character File Template}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Characters/Character Files/{Character File Template}.md"
+          }
         }
       }
     ],
@@ -123,10 +131,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61fc9ac20ff393de",
+  "active": "053b69a840b083ad",
   "lastOpenFiles": [
-    "Factions/Hyrulian Kingdom.md",
+    "Characters/Character Files/Abbie.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Hyrule.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
+    "Locations.md",
+    "Universes/Pocket Dimensions/The Mindscape",
+    "Factions/Hyrulian Kingdom.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/Pocket Dimensions",
     "/Locations.md",
@@ -151,10 +164,6 @@
     "/Characters/Character Files/Thomas Riddle.md",
     "/Characters/Character Files/Teddy.md",
     "/Characters/Character Files/Simon.md",
-    "/Characters/Character Files/Shadow Colton.md",
-    "/Characters/Character Files/Sev.md",
-    "/Characters/Character Files/Nightmare.md",
-    "/Characters/Character Files/Mori.md",
     "Untitled.canvas",
     "/Untitled.canvas",
     "Factions",

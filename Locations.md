@@ -7,11 +7,8 @@ In this is file there is [[#Locations Per Universe]] and [[#List of all Location
 - [[Locations of UniDark|UniDark]] 
 - [[Locations of UniLuck|UniLuck]]
 ## List of all Locations
-<<<<<<< HEAD
 - [[The Dojo|The Slaughter Ace/The Dojo]]
 - [[Hyrule]]
-- [[Universes/Pocket Dimensions/Hell's Pockets/Mind Scape]]cket Dimensions/Hell's Pockets/Mind Scape]]
-=======
-- [[The Dojo]]
->>>>>>> origin/main
+- [[Universes/Pocket Dimensions/Hell's Pockets/Mind Scape]]
+- [[The Dojo]] 
 - 
