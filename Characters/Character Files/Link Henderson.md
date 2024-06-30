@@ -1,3 +1,3 @@
-[[Hyrule]]
+[[Hyrulian Kingdom]]
 [[The Slaughter Ace]]
 [[UniLuck]]

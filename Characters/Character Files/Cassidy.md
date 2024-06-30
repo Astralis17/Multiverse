@@ -1,2 +1,2 @@
 [[UniLuck]]
-[[Elemental]]
+[[Elementals]]

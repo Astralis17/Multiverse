@@ -1,3 +1,3 @@
 [[Dead]]
-ex fire [[Elemental]]
+ex fire [[Elementals]]
 [[UniLuck]]
