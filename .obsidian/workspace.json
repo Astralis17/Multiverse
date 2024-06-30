@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf16598e2f8329cf",
+            "id": "30252c06cbd5f747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/Ganon.md",
+                "file": "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad4168a2e79382a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/Ganon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/Ganon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Character Files/Ganon.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +151,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf16598e2f8329cf",
+  "active": "ad4168a2e79382a6",
   "lastOpenFiles": [
-    "Characters/All Characters.md",
+    "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
+    "Locations.md",
+    "Universes/Pocket Dimensions/Hell's Pocket",
+    "Universes/Pocket Dimensions/Untitled.md",
+    "Universes/Pocket Dimensions",
     "Characters/Character Files/Ganon.md",
+    "Characters/All Characters.md",
     "Characters/Character Files/Hellice Hellsing.md",
     "Characters/Dead.md",
     "Universes/UniLuck/UniLuck.md",
@@ -171,10 +181,7 @@
     "Characters/Character Files/Fox.md",
     "Characters/Character Files/Demon Of Space.md",
     "Characters/Character Files/Del.md",
-    "Characters/Character Files/Cassidy.md",
-    "README.md",
     "Untitled.canvas",
-    "Characters/Character Files/Xes.md",
     "Factions/Untitled",
     "Files (To Be Digitised)",
     "Factions",

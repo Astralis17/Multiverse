@@ -8,4 +8,6 @@ In this is file there is [[#Locations Per Universe]] and [[#List of all Location
 - [[Locations of UniLuck|UniLuck]]
 ## List of all Locations
 - [[The Dojo|The Slaughter Ace/The Dojo]]
+- [[Hyrule]]
+- [[Mind Scape]]
 - 
