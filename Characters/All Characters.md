@@ -10,7 +10,6 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Demon Of Space]]
 - [[Fox]]
 - [[Garcello Golden]]
-- [[Ganon]]
 - [[Hellice Hellsing]] 
 - [[Ignite ]]
 - [[Kit]]

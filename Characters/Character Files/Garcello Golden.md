@@ -1,3 +1,3 @@
 [[UniLuck]]
-[[Elemental]]
+[[Elementals]]
 persumed [[Dead]]

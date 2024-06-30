@@ -1,2 +1,2 @@
-garden of the [[Elemental]]
-[[Chaotic]]
+garden of the [[Elementals]]
+[[Chaosics]]
