@@ -11,8 +11,12 @@
             "id": "93fd9141eae1d5bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "README.md"
+          }
         }
       }
     ],
@@ -126,6 +134,12 @@
   "active": "93fd9141eae1d5bb",
   "lastOpenFiles": [
     "Files (To Be Digitised)/Instructions.md",
+    "Untitled.canvas",
+    "Factions/Hellsing Family.md",
+    "/README.md",
+    "/Characters/All Characters.md",
+    "/Untitled.canvas",
+    "/Factions/Hellsing Family.md",
     "Factions/The Slaughter Ace.md",
     "Universes/UniLuck/The Dojo.md",
     "Factions",
