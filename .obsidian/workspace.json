@@ -10,13 +10,15 @@
           {
             "id": "db1c40530cfed4ea",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/All Characters.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -65,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/All Characters.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/All Characters.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/All Characters.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,18 +151,21 @@
   },
   "active": "db1c40530cfed4ea",
   "lastOpenFiles": [
-    "Factions/Hellsing Family.md",
+    "Untitled.canvas",
+    "README.md",
     "Characters/All Characters.md",
-    "Files (To Be Digitised)/Instructions.md",
-    "Files (To Be Digitised)",
     "Factions/The Slaughter Ace.md",
+    "Factions/Hellsing Family.md",
+    "Files (To Be Digitised)/Instructions.md",
+    "Universes/FILENAME00/FILENAME00.md",
+    "Universes/FILENAME00/Locations of FILENAME00.md",
+    "Universes/UniLuck/UniLuck.md",
+    "Universes/UniLuck/The Dojo.md",
+    "Universes/UniLuck/Locations of UniLuck.md",
+    "Files (To Be Digitised)",
     "Factions",
     "Characters/Character Files/Lou Riddle.md",
     "Characters/Character Files/Hellice Hellsing.md",
-    "Universes/UniLuck/The Slaughter Ace.md",
-    "Universes/UniLuck/The Dojo.md",
-    "Characters/Character Files/Cappy.md",
-    "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Tula Ossa.md",
     "Characters/Character Files/Thomas Riddle.md",
@@ -173,9 +179,6 @@
     "Characters/Character Files/Mori.md",
     "Characters/Character Files/Millie.md",
     "Characters/Character Files/Mari.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit.md",
-    "Characters/Character Files/Hellice.md",
     "Characters/Character Files",
     "Universes/FILENAME00",
     "Universes/UniDark",
