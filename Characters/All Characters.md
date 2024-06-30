@@ -18,7 +18,7 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Millie]]
 - [[Mori]]
 - [[Nightmare]]
-- [[Sev]]
+- [[Sev]]  
 - [[Shadow Colton]]
 - [[Simon]]
 - [[Sketch]]
