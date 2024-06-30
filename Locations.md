@@ -10,7 +10,7 @@ In this is file there is [[#Locations Per Universe]] and [[#List of all Location
 <<<<<<< HEAD
 - [[The Dojo|The Slaughter Ace/The Dojo]]
 - [[Hyrule]]
-- [[Mind Scape]]
+- [[Universes/Pocket Dimensions/Hell's Pockets/Mind Scape]]cket Dimensions/Hell's Pockets/Mind Scape]]
 =======
 - [[The Dojo]]
 >>>>>>> origin/main
