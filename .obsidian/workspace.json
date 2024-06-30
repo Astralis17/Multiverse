@@ -8,20 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db1c40530cfed4ea",
+            "id": "42e6075a65751ce7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Dead.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "39c8bd4226bd7bca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,23 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db1c40530cfed4ea",
+  "active": "39c8bd4226bd7bca",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md",
+    "Characters/Dead.md",
     "Characters/All Characters.md",
-    "Factions/The Slaughter Ace.md",
-    "Factions/Hellsing Family.md",
-    "Files (To Be Digitised)/Instructions.md",
-    "Universes/FILENAME00/FILENAME00.md",
-    "Universes/FILENAME00/Locations of FILENAME00.md",
-    "Universes/UniLuck/UniLuck.md",
-    "Universes/UniLuck/The Dojo.md",
-    "Universes/UniLuck/Locations of UniLuck.md",
-    "Files (To Be Digitised)",
-    "Factions",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Hellice Hellsing.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Tula Ossa.md",
     "Characters/Character Files/Thomas Riddle.md",
@@ -179,6 +168,21 @@
     "Characters/Character Files/Mori.md",
     "Characters/Character Files/Millie.md",
     "Characters/Character Files/Mari.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Kit.md",
+    "Characters/Character Files/Ignite.md",
+    "Characters/Character Files/Hellice Hellsing.md",
+    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Fox.md",
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Del.md",
+    "Characters/Character Files/Catti.md",
+    "Characters/Character Files/Cassidy.md",
+    "Factions/Untitled",
+    "Untitled.canvas",
+    "Files (To Be Digitised)",
+    "Factions",
     "Characters/Character Files",
     "Universes/FILENAME00",
     "Universes/UniDark",

@@ -11,6 +11,7 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Fox]]
 - [[Garcello Golden]]
 - [[Hellice Hellsing]] 
+- [[Ignite ]]
 - [[Kit]]
 - [[Link Henderson]]
 - [[Lou Riddle]]
