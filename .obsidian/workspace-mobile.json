@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd32057b07a9b99",
+        "id": "c9a1cfac7b320a70",
         "type": "tabs",
         "children": [
           {
-            "id": "df635db95b10e41c",
+            "id": "93fd9141eae1d5bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Files (To Be Digitised)/Instructions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Files (To Be Digitised)/Instructions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Files (To Be Digitised)/Instructions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Files (To Be Digitised)/Instructions.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,10 +123,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18587218d15d266e",
+  "active": "93fd9141eae1d5bb",
   "lastOpenFiles": [
-    "Factions/The Slaughter Ace.md",
     "Files (To Be Digitised)/Instructions.md",
+    "Factions/The Slaughter Ace.md",
     "Universes/UniLuck/The Dojo.md",
     "Factions",
     "Characters/All Characters.md",
