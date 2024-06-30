@@ -23,8 +23,12 @@
             "id": "39c8bd4226bd7bca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -153,6 +161,7 @@
   },
   "active": "39c8bd4226bd7bca",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Characters/Dead.md",
     "Characters/All Characters.md",
     "Characters/Character Files/Xes.md",
@@ -178,9 +187,7 @@
     "Characters/Character Files/Demon Of Space.md",
     "Characters/Character Files/Del.md",
     "Characters/Character Files/Catti.md",
-    "Characters/Character Files/Cassidy.md",
     "Factions/Untitled",
-    "Untitled.canvas",
     "Files (To Be Digitised)",
     "Factions",
     "Characters/Character Files",
