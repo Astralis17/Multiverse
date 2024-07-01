@@ -1,2 +1,0 @@
-[[UniLuck]]
-[[The Slaughter Ace]]
