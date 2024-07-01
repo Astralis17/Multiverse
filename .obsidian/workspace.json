@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03ae9b52f6c31fdd",
+        "id": "ba11e44a3fc3e86d",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd5def80a290bee",
+            "id": "b227ff50ad8f8870",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/All Characters.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,9 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "b227ff50ad8f8870",
   "lastOpenFiles": [
+    "Family/Vanater.md",
+    "Factions/Chaosics.md",
+    "Family/Riddle.md",
+    "Family/Golden.md",
+    "Factions/Elementals.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/The Slaughter Ace.md",
+    "Factions/Crystal Guards.md",
     "Characters/Character Files/{Character File Template}.md",
+    "Characters/All Characters.md",
     "Characters/Character Files/Sketchpad Carpenter.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Windsor Vanater.md",
@@ -158,16 +166,6 @@
     "Characters/Character Files/Nightmare.md",
     "Characters/Character Files/Mori Carney.md",
     "Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "Characters/Character Files/Mari Golden.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit Mcguire.md",
-    "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/John Golden.md",
-    "Characters/Character Files/Ignite Vanater.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Foxer Vanater.md",
-    "Characters/Character Files/Fox Byrne.md",
     "Characters/Character Files",
     "Characters",
     "Family",
