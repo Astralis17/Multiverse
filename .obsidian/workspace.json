@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5607e9f15a7ffb38",
+        "id": "8f57fe66565ac604",
         "type": "tabs",
         "children": [
           {
-            "id": "30252c06cbd5f747",
+            "id": "b5085315b070d2bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
+                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad4168a2e79382a6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md"
+              }
             }
           }
         ]
@@ -151,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad4168a2e79382a6",
+  "active": "b5085315b070d2bd",
   "lastOpenFiles": [
+    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
+    "Universes/Pocket Dimensions/Hell's Pockets",
+    "Characters/Character Files/{Character File Template}.md",
+    "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
     "conflict-files-obsidian-git.md",
     "Factions/Hyrulian Kingdom.md",
     "Factions/Elementals.md",
     "Factions/Crystal Guards.md",
     "Factions/Chaosics.md",
-    "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
     "Locations.md",
     "Universes/Pocket Dimensions/Hell's Pocket",
     "Universes/Pocket Dimensions/Untitled.md",
@@ -179,8 +177,6 @@
     "Characters/Character Files/Mori.md",
     "Characters/Character Files/Millie.md",
     "Characters/Character Files/Mari.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit.md",
     "Untitled.canvas",
     "Factions/Untitled",
     "Files (To Be Digitised)",
@@ -188,7 +184,6 @@
     "Characters/Character Files",
     "Universes/FILENAME00",
     "Universes/UniDark",
-    "Universes/UniLuck",
-    "Universes"
+    "Universes/UniLuck"
   ]
 }
