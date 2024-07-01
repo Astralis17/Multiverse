@@ -3,7 +3,7 @@ formatting character files
 After the [[#~~~~~~~~~~~~~~~~~~~~~~~~~|line]] is where the template begins
 There will be {} to signify character specific information, I will also be using they/them pronouns in the template but change them to suit the character 
 # =========================
-{Character} is {Age} years old, they are from {Universe} and they use {Pronouns} pronouns and they are {Gender}
+{Character}/{all known alies} is {Age} years old, they are from {Universe} and they use {Pronouns} pronouns and they are {Gender}
 #### Contents
 - [[#Related Groups]]
 - [[#Early Life]]
