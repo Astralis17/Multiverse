@@ -13,4 +13,4 @@ There will be {} to signify character specific information, I will also be using
 - [[#Family]]
 
 ##### Related Groups
-{Character} is part of {Current Affiliated Groups}, they used to be part of {Past Affiliated Groups}, they are no longer part of this group because {}j89
+{Character} is part of {Current Affiliated Groups}, they used to be part of {Past Affiliated Groups}, they are no longer part of this group because {Insert reason for leaving specific group}

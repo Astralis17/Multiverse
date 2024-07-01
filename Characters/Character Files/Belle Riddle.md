@@ -1,1 +1,3 @@
-#Incomplete
+[[UniLuck]]
+[[Elementals]]
+[[The Slaughter Ace]]
