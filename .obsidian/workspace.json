@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "807822ef5894abb7",
+        "id": "4769f93f8c83a03d",
         "type": "tabs",
         "children": [
           {
-            "id": "cdc6be7eea39a40f",
+            "id": "23726b2013aa4f5b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "aacf078606f9e1c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdc6be7eea39a40f",
+  "active": "aacf078606f9e1c1",
   "lastOpenFiles": [
     "Locations.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
