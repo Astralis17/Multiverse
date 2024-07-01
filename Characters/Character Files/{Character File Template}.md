@@ -14,4 +14,3 @@ They are known as {Aliases}
 - [[#Family]]
 - 
 ##### Related Groups
-{Character} is part of {Current Affiliated Groups}, they used to be part of {Past Affiliated Groups}, they are no longer part of this group because {Insert Reason for Leaving Group}
