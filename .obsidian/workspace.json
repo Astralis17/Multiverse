@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7cfd0175b03bb5e2",
+        "id": "89592a0f5df9bf6e",
         "type": "tabs",
         "children": [
           {
-            "id": "13732569aaa00ccc",
+            "id": "a94ef48feed3af29",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13732569aaa00ccc",
+  "active": "a94ef48feed3af29",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Locations.md",
