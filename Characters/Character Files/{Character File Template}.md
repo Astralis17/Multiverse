@@ -15,9 +15,8 @@ They are known as {Aliases} (Optional)
 - 
 ##### Related Groups
 {Character} is part of {Current Affiliated Groups}, they used to be part of {Past Affiliated Groups}, they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
-
 ##### Early Life
-
+{Character} was born/created in {Place of Birth/Creation}
 ##### Family
 
 ##### Physical Description/Attributes
