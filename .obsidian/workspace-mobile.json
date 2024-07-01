@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Factions/The Slaughter Ace.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Character Files/{Character File Template}.md",
+            "file": "Factions/The Slaughter Ace.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/Character Files/{Character File Template}.md",
+            "file": "Factions/The Slaughter Ace.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/Character Files/{Character File Template}.md"
+            "file": "Factions/The Slaughter Ace.md"
           }
         }
       }
@@ -133,22 +133,25 @@
   },
   "active": "053b69a840b083ad",
   "lastOpenFiles": [
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Elementals.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Chaosics.md",
     "Characters/Character Files/Abbie.md",
     "Characters/Character Files/{Character File Template}.md",
+    "Characters/All Characters.md",
+    "/Characters/Character Files/{Character File Template}.md",
     "Hyrule.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
     "Locations.md",
     "Universes/Pocket Dimensions/The Mindscape",
-    "Factions/Hyrulian Kingdom.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/Pocket Dimensions",
     "/Locations.md",
     "/Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
     "/Universes/Pocket Dimensions/Hell's Pocket",
     "/Universes/Pocket Dimensions",
-    "Factions/Elementals.md",
-    "Factions/Crystal Guards.md",
-    "Factions/Chaosics.md",
     "Characters/Character Files/Catti.md",
     "Characters/Character Files/Cassidy.md",
     "Characters/Character Files/Captain.md",
@@ -161,9 +164,6 @@
     "/Factions/The Slaughter Ace.md",
     "/Factions/Hellsing Family.md",
     "/Characters/Character Files/Tula Ossa.md",
-    "/Characters/Character Files/Thomas Riddle.md",
-    "/Characters/Character Files/Teddy.md",
-    "/Characters/Character Files/Simon.md",
     "Untitled.canvas",
     "/Untitled.canvas",
     "Factions",
