@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba11e44a3fc3e86d",
+        "id": "1be060da35de9c69",
         "type": "tabs",
         "children": [
           {
-            "id": "b227ff50ad8f8870",
+            "id": "db4b9c9d55fa83d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/Foxer Vanater.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Character Files/Foxer Vanater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Character Files/Foxer Vanater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Character Files/Foxer Vanater.md"
+              }
             }
           }
         ]
@@ -138,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b227ff50ad8f8870",
+  "active": "db4b9c9d55fa83d6",
   "lastOpenFiles": [
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Abbie Riddle.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Characters/Character Files/Ignite Vanater.md",
     "Family/Vanater.md",
     "Factions/Chaosics.md",
     "Family/Riddle.md",
@@ -149,7 +162,6 @@
     "Factions/Hyrulian Kingdom.md",
     "Factions/The Slaughter Ace.md",
     "Factions/Crystal Guards.md",
-    "Characters/Character Files/{Character File Template}.md",
     "Characters/All Characters.md",
     "Characters/Character Files/Sketchpad Carpenter.md",
     "Characters/Character Files/Xes.md",
@@ -162,10 +174,6 @@
     "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files/Simon Drew.md",
     "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Sev Wood.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Mori Carney.md",
-    "Characters/Character Files/Millie Fitzsimmons Afton.md",
     "Characters/Character Files",
     "Characters",
     "Family",
