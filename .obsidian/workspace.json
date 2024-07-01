@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md",
+                "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +149,9 @@
   },
   "active": "f58164327e82c759",
   "lastOpenFiles": [
+    "Locations.md",
+    "Universes/UniLuck/Locations of UniLuck.md",
+    "Universes/UniLuck/The Dojo.md",
     "Characters/Character Files/John Golden.md",
     "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Hellice Hellsing.md",
@@ -171,9 +175,6 @@
     "Characters/Character Files/Nightmare.md",
     "Characters/Character Files/Sev Wood.md",
     "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Characters/Character Files/Sketchpad Carpenter.md",
-    "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files",
     "Characters",
     "Family",
