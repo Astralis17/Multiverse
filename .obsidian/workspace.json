@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "321f07ed72ae47de",
+        "id": "53ccc4221debcfbf",
         "type": "tabs",
         "children": [
           {
-            "id": "40010a8396383b26",
+            "id": "d08ba7b33f1ff7af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Character Files/The Ostrich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Character Files/The Ostrich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Character Files/The Ostrich.md"
+              }
             }
           }
         ]
@@ -138,13 +142,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40010a8396383b26",
+  "active": "39b0ccb19eb891f5",
   "lastOpenFiles": [
+    "Characters/Character Files/The Ostrich.md",
+    "Characters/Character Files/Windsor Vanatier.md",
+    "Characters/All Characters.md",
     "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
     "Characters/Character Files/{Character File Template}.md",
     "Universes/Pocket Dimensions/Mindscape/TMindscape.md",
-    "Characters/All Characters.md",
     "Characters/Character Files/Tula Ossa.md",
     "Characters/Character Files/Sketchpad Carpenter.md",
     "Characters/Character Files/Mid.md",
@@ -157,7 +163,6 @@
     "Characters/Character Files/Mori Carney.md",
     "Characters/Character Files/Millie Fitzsimmons Afton.md",
     "Characters/Character Files/Kit Mcguire.md",
-    "Characters/Character Files/Windsor Vanatier.md",
     "Characters/Character Files/Foxer Vanatier.md",
     "Characters/Character Files/Del Riddle.md",
     "Characters/Character Files/Cassidy Mcguire.md",
@@ -166,7 +171,6 @@
     "Characters/Character Files/Abbie Riddle.md",
     "Family",
     "Characters/Character Files/Susie Golden.md",
-    "Characters/Character Files/Skye Golden.md",
     "Universes/Pocket Dimensions/Mindscape",
     "Characters/Character Files",
     "Universes/Pocket Dimensions/Mindscape",
