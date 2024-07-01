@@ -11,8 +11,12 @@
             "id": "d08ba7b33f1ff7af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/{Character File Template}.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/The Ostrich.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/The Ostrich.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/The Ostrich.md"
+                "file": "Characters/Character Files/{Character File Template}.md"
               }
             }
           }
@@ -142,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "d08ba7b33f1ff7af",
   "lastOpenFiles": [
+    "Factions/Elementals.md",
     "Characters/Character Files/The Ostrich.md",
     "Characters/Character Files/Windsor Vanatier.md",
     "Characters/All Characters.md",
@@ -166,11 +171,10 @@
     "Characters/Character Files/Foxer Vanatier.md",
     "Characters/Character Files/Del Riddle.md",
     "Characters/Character Files/Cassidy Mcguire.md",
-    "Family/Golden.md",
-    "Family/Riddle.md",
+    "Families/Golden.md",
+    "Families/Riddle.md",
     "Characters/Character Files/Abbie Riddle.md",
-    "Family",
-    "Characters/Character Files/Susie Golden.md",
+    "Families",
     "Universes/Pocket Dimensions/Mindscape",
     "Characters/Character Files",
     "Universes/Pocket Dimensions/Mindscape",
