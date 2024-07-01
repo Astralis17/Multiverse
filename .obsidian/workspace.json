@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e82f79074f45e735",
+        "id": "13a34bdb4aa7a447",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1410caa660b734",
+            "id": "5c5d48dc4dad36d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/Sev.md",
+                "file": "Family/Golden.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/Sev.md",
+                "file": "Family/Golden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/Sev.md",
+                "file": "Family/Golden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/Sev.md"
+                "file": "Family/Golden.md"
               }
             }
           }
@@ -146,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b1410caa660b734",
+  "active": "39b0ccb19eb891f5",
   "lastOpenFiles": [
-    "Characters/Character Files/Shadow Colton.md",
+    "Family/Riddle.md",
+    "Family/Golden.md",
+    "Characters/Character Files/Abbie Riddle.md",
+    "Family",
+    "Characters/Character Files/Susie Golden.md",
+    "Characters/Character Files/Skye Golden.md",
+    "Characters/Character Files/Mari Golden.md",
     "Characters/Character Files/John Golden.md",
+    "Universes/UniLuck/UniLuck.md",
+    "Characters/Character Files/Foxer.md",
+    "Characters/Character Files/Fox.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Characters/Character Files/Del.md",
+    "Characters/Character Files/Ignite Vanatier.md",
+    "Characters/Character Files/Sev.md",
+    "Characters/Character Files/Shadow Colton.md",
     "Characters/Character Files/Catti Golden.md",
     "Characters/All Characters.md",
-    "Characters/Character Files/Foxer.md",
     "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
     "Universes/Pocket Dimensions/Mindscape",
     "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
     "conflict-files-obsidian-git.md",
-    "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Tula Ossa.md",
     "Characters/Character Files/Thomas Riddle.md",
     "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/Skye.md",
-    "Characters/Character Files/Sketch.md",
-    "Characters/Character Files/Simon.md",
-    "Characters/Character Files/Sev.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Mori.md",
-    "Characters/Character Files/Millie.md",
-    "Characters/Character Files/Mari.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit.md",
-    "Characters/Character Files/Ignite.md",
     "Characters/Character Files",
     "Universes/Pocket Dimensions/Mindscape",
     "Universes/Pocket Dimensions/Hell's Pockets",
@@ -182,7 +183,6 @@
     "Files (To Be Digitised)",
     "Factions",
     "Universes/FILENAME00",
-    "Universes/UniDark",
-    "Universes/UniLuck"
+    "Universes/UniDark"
   ]
 }
