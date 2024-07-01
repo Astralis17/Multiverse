@@ -11,8 +11,12 @@
             "id": "6c8b519619b3f0c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,40 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c8b519619b3f0c1",
+  "active": "39b0ccb19eb891f5",
   "lastOpenFiles": [
-    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
     "Characters/Character Files/Xes.md",
+    "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Tula Ossa.md",
     "Characters/Character Files/Thomas Riddle.md",
     "Characters/Character Files/Teddy.md",
     "Characters/Character Files/Skye.md",
     "Characters/Character Files/Sketch.md",
-    "Characters/Character Files/Simon.md",
     "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Sev.md",
+    "Characters/Character Files/Simon.md",
     "Characters/Character Files/Nightmare.md",
+    "Characters/Character Files/Sev.md",
     "Characters/Character Files/Mori.md",
-    "Characters/Character Files/Millie.md",
     "Characters/Character Files/Mari.md",
-    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Millie.md",
     "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Lou Riddle.md",
     "Characters/Character Files/Kit.md",
+    "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Ignite.md",
     "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Fox.md",
     "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Fox.md",
     "Characters/Character Files/Del.md",
     "Characters/Character Files/Catti.md",
     "Characters/Character Files/Cassidy.md",
-    "Characters/Character Files/Captain.md",
+    "Characters/Character Files/Cappy.md",
+    "Characters/Character Files",
     "Universes/Pocket Dimensions/Mindscape",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/Pocket Dimensions",
     "Files (To Be Digitised)",
     "Factions",
-    "Characters/Character Files",
     "Universes/FILENAME00",
     "Universes/UniDark",
     "Universes/UniLuck",
