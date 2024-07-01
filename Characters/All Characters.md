@@ -9,10 +9,9 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Del]]
 - [[Demon Of Space]]
 - [[Fox]]
-- [[Foxer]]
 - [[Garcello Golden]]
 - [[Hellice Hellsing]] 
-- [[Ignite]]
+- [[Ignite ]]
 - [[Kit]]
 - [[Link Henderson]]
 - [[Lou Riddle]]
@@ -29,5 +28,3 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Thomas Riddle]]
 - [[Tula Ossa]]
 - [[Xes]]
-
-

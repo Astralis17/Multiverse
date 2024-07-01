@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4f0f550366f3ad95",
+    "id": "144158775e71cad4",
     "type": "split",
     "children": [
       {
-        "id": "03378f257b2e2b56",
+        "id": "c7663f8ac512bd3c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd3cac8bd5dbef8",
+            "id": "99419b7c8d117cb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/All Characters.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "521d658a7727db6b",
+    "id": "7552583d039df125",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2eeef9704bc52823",
+        "id": "a38fbdb8e856b796",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "0713510e633f2b6b",
+        "id": "76508b34f43e38ca",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "af7042ab9bc19182",
+        "id": "6596e653ad785b88",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "f1540930a93a5c02",
+        "id": "4985d36eac8c1bb0",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "29fb8611a50f9ad2",
+    "id": "ea2ad27b22317195",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bdd71b65d8281773",
+        "id": "8cf240e12b78f048",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/All Characters.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "261cd9f0f8b34bfb",
+        "id": "5a20ee2f3fd4622a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/All Characters.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "1799eab82e96ee3c",
+        "id": "b5fc04dbf906d915",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/All Characters.md"
+            "file": "README.md"
           }
         }
       }
@@ -131,21 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fd3cac8bd5dbef8",
+  "active": "99419b7c8d117cb1",
   "lastOpenFiles": [
-    "Characters/Foxer.md",
-    "Characters/All Characters.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "README.md",
-    "Files (To Be Digitised)/Instructions.md",
-    "Factions/The Slaughter Ace.md",
-    "Factions/Hyrulian Kingdom.md",
-    "Factions/Hellsing Family.md",
-    "Factions/Elementals.md",
-    "Factions/Crystal Guards.md",
-    "Factions/Chaosics.md",
+    "Locations.md",
+    "Hyrule.md",
     "Folder.md",
-    "Characters/Character Files/Cappy.md",
     "Universes/UniLuck/UniLuck.md",
     "Universes/UniLuck/The Dojo.md",
     "Universes/UniLuck/Locations of UniLuck.md",
@@ -155,10 +145,20 @@
     "Universes/Main.md",
     "Universes/FILENAME00/Locations of FILENAME00.md",
     "Universes/FILENAME00/FILENAME00.md",
-    "Locations.md",
+    "README.md",
+    "Files (To Be Digitised)/Instructions.md",
+    "Factions/The Slaughter Ace.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Elementals.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Chaosics.md",
+    "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Tula Ossa.md",
     "Characters/Character Files/Thomas Riddle.md",
+    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files/Skye.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/UniLuck",
     "Universes/UniDark",
