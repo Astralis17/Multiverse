@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1be060da35de9c69",
+        "id": "fe6abe347442dd43",
         "type": "tabs",
         "children": [
           {
-            "id": "db4b9c9d55fa83d6",
+            "id": "7a68d8427f2d7f71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character Files/Foxer Vanater.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/Foxer Vanater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/Foxer Vanater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Character Files/Foxer Vanater.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db4b9c9d55fa83d6",
+  "active": "39b0ccb19eb891f5",
   "lastOpenFiles": [
+    "Family/Vanater.md",
+    "Characters/Character Files/Foxer Vanater.md",
     "Characters/Character Files/Fox Byrne.md",
     "Characters/Character Files/Belle Riddle.md",
     "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Ignite Vanater.md",
-    "Family/Vanater.md",
     "Factions/Chaosics.md",
     "Family/Riddle.md",
     "Family/Golden.md",
@@ -173,7 +166,6 @@
     "Characters/Character Files/Susie Golden.md",
     "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files/Simon Drew.md",
-    "Characters/Character Files/Shadow Colton.md",
     "Characters/Character Files",
     "Characters",
     "Family",
