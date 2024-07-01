@@ -11,7 +11,7 @@
             "id": "7a68d8427f2d7f71",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "7a68d8427f2d7f71",
   "lastOpenFiles": [
+    "Factions/Elementals.md",
     "Family/Vanater.md",
     "Characters/Character Files/Foxer Vanater.md",
     "Characters/Character Files/Fox Byrne.md",
@@ -150,7 +151,6 @@
     "Factions/Chaosics.md",
     "Family/Riddle.md",
     "Family/Golden.md",
-    "Factions/Elementals.md",
     "Factions/Hellsing Family.md",
     "Factions/Hyrulian Kingdom.md",
     "Factions/The Slaughter Ace.md",
