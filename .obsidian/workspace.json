@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/All Characters.md"
+              }
             }
           }
         ]
@@ -138,10 +140,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cd5def80a290bee",
+  "active": "39b0ccb19eb891f5",
   "lastOpenFiles": [
-    "Characters/All Characters.md",
-    "Characters",
     "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Windsor Vanater.md",
@@ -167,7 +167,9 @@
     "Characters/Character Files/Hellice Hellsing.md",
     "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Fox Byrne.md",
     "Characters/Character Files",
+    "Characters",
     "Family",
     "Families",
     "Factions",
