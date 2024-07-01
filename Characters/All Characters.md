@@ -1,4 +1,3 @@
-#Incomplete]
 This is a list of all characters that have been revealed to everyone who is playing currently
 
 - [[Abbie Riddle]]
@@ -8,10 +7,10 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Del Riddle]]
 - [[Demon Of Space]]
 - [[Fox Byrne]]
-- [[Foxer Vanater]]
+- [[Foxer Vanatier]]
 - [[Garcello Golden]]
 - [[Hellice Hellsing]] 
-- [[Ignite Vanater]]
+- [[Ignite Vanatier]]
 - [[John Golden]]
 - [[Kit Mcguire]]
 - [[Link Henderson]]
@@ -29,7 +28,7 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Teddy]]
 - [[Thomas Riddle]]
 - [[Tula Ossa]]
-- [[Windsor Vanater]]
+- [[Windsor Vanatier]]
 - [[Xes]]
 
 
