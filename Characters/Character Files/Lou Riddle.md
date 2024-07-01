@@ -1,1 +1,3 @@
-#Incomplete
+[[Dead]]
+ex fire [[Elementals]]
+[[UniLuck]]

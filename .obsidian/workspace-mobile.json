@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "d37149633284f861",
+    "id": "4f0f550366f3ad95",
     "type": "split",
     "children": [
       {
-        "id": "6c9c6488219b692e",
+        "id": "03378f257b2e2b56",
         "type": "tabs",
         "children": [
           {
-            "id": "053b69a840b083ad",
+            "id": "9fd3cac8bd5dbef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/Foxer.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be255720bf16aec1",
+    "id": "521d658a7727db6b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "18587218d15d266e",
+        "id": "2eeef9704bc52823",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "0fd4141ed43731ff",
+        "id": "0713510e633f2b6b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "0c7d71cf820962be",
+        "id": "af7042ab9bc19182",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "970cf4a32ad93f97",
+        "id": "f1540930a93a5c02",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "5dacfb7c49965358",
+    "id": "29fb8611a50f9ad2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f1fcf175fccec0d3",
+        "id": "bdd71b65d8281773",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Character Files/Foxer.md",
+            "file": "Characters/Character Files/{Character File Template}.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "b82362721758baec",
+        "id": "261cd9f0f8b34bfb",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/Character Files/Foxer.md",
+            "file": "Characters/Character Files/{Character File Template}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "ea1196cd02e7b533",
+        "id": "1799eab82e96ee3c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/Character Files/Foxer.md"
+            "file": "Characters/Character Files/{Character File Template}.md"
           }
         }
       }
@@ -131,44 +131,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18587218d15d266e",
+  "active": "9fd3cac8bd5dbef8",
   "lastOpenFiles": [
-    "Universes/Pocket Dimensions/Mindscape",
-    "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
-    "/Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
-    "/Universes/Pocket Dimensions/Mindscape/Mindscape.md",
-    "/Universes/Pocket Dimensions/Mindscape",
     "Characters/All Characters.md",
-    "Characters/Character Files/Foxer.md",
+    "Files (To Be Digitised)/Instructions.md",
     "Characters/Character Files/{Character File Template}.md",
+    "Factions/Elementals.md",
     "Characters/Character Files/Cappy.md",
-    "/Characters/Character Files/Nightmare.md",
-    "/Characters/Character Files/Link Henderson.md",
-    "/Characters/Character Files/Ignite.md",
-    "/Characters/Character Files/{Character File Template}.md",
-    "/Characters/Character Files/Skye.md",
-    "/Characters/Character Files/Sketch.md",
-    "/Characters/Character Files/Simon.md",
-    "/Characters/Character Files/Shadow Colton.md",
-    "/Characters/Character Files/Sev.md",
-    "/Characters/Character Files/Mori.md",
-    "/Characters/Character Files/Millie.md",
-    "/Characters/Character Files/Mari.md",
-    "/Characters/Character Files/Lou Riddle.md",
-    "/Characters/Character Files/Kit.md",
-    "/Characters/Character Files/Hellice Hellsing.md",
-    "/Characters/Character Files/Garcello Golden.md",
-    "/Characters/Character Files/Captain.md",
-    "Universes/Pocket Dimensions/The Mindscape",
+    "Factions/The Slaughter Ace.md",
+    "Characters/Foxer.md",
+    "Characters/Character Files/Demon Of Space.md",
+    "README.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Chaosics.md",
+    "Folder.md",
+    "Universes/UniLuck/UniLuck.md",
+    "Universes/UniLuck/The Dojo.md",
+    "Universes/UniLuck/Locations of UniLuck.md",
+    "Universes/UniDark/UniDark.md",
+    "Universes/UniDark/Locations of UniDark.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
+    "Universes/Main.md",
+    "Universes/FILENAME00/Locations of FILENAME00.md",
+    "Universes/FILENAME00/FILENAME00.md",
+    "Locations.md",
+    "Characters/Character Files/Xes.md",
+    "Characters/Character Files/Tula Ossa.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
+    "Universes/UniLuck",
+    "Universes/UniDark",
     "Universes/Pocket Dimensions",
-    "/Universes/Pocket Dimensions/Hell's Pocket",
-    "/Universes/Pocket Dimensions",
-    "Untitled.canvas",
-    "/Untitled.canvas",
+    "Universes/FILENAME00",
+    "Universes",
+    "Files (To Be Digitised)",
     "Factions",
-    "Factions",
-    "Files (To Be Digitised)"
+    "Characters/Character Files",
+    "Characters"
   ]
 }
