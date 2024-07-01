@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5607e9f15a7ffb38",
+        "id": "8b33dc72dec11dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "db1c40530cfed4ea",
+            "id": "6c8b519619b3f0c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md"
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db1c40530cfed4ea",
+  "active": "6c8b519619b3f0c1",
   "lastOpenFiles": [
+    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
+    "Universes/Pocket Dimensions/Mindscape",
+    "Factions/Elementals.md",
+    "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Abbie.md",
     "Characters/Character Files/Belle Riddle.md",
     "Characters/Character Files/Cappy.md",
@@ -170,10 +175,6 @@
     "Characters/Character Files/Sev.md",
     "Characters/Character Files/Shadow Colton.md",
     "Characters/Character Files/Simon.md",
-    "Characters/Character Files/Sketch.md",
-    "Characters/Character Files/Skye.md",
-    "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/Thomas Riddle.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/Pocket Dimensions",
     "Files (To Be Digitised)",
