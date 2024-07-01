@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8f57fe66565ac604",
+        "id": "5607e9f15a7ffb38",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4f85c9f797d4ce",
+            "id": "30252c06cbd5f747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad4168a2e79382a6",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,37 +151,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c4f85c9f797d4ce",
+  "active": "ad4168a2e79382a6",
   "lastOpenFiles": [
-    "Characters/Character Files/Day Dream.md",
+    "conflict-files-obsidian-git.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/Elementals.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Chaosics.md",
+    "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
+    "Locations.md",
+    "Universes/Pocket Dimensions/Hell's Pocket",
+    "Universes/Pocket Dimensions/Untitled.md",
+    "Universes/Pocket Dimensions",
     "Characters/Character Files/Ganon.md",
     "Characters/All Characters.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Characters/Character Files/Abbie.md",
-    "Characters/Character Files/Belle Riddle.md",
-    "Characters/Character Files/Cappy.md",
-    "Characters/Character Files/Captain.md",
-    "Characters/Character Files/Cassidy.md",
-    "Characters/Character Files/Catti.md",
-    "Characters/Character Files/Dell.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Fox.md",
-    "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Ignite.md",
-    "Characters/Character Files/Kit.md",
-    "Characters/Character Files/Link Henderson.md",
+    "Characters/Dead.md",
+    "Universes/UniLuck/UniLuck.md",
     "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Mari.md",
-    "Characters/Character Files/Millie.md",
-    "Characters/Character Files/Mori.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Sev.md",
-    "Characters/Character Files/Shadow Colton.md",
+    "Characters/Character Files/Abbie.md",
+    "Characters/Character Files/Captain.md",
+    "Characters/Character Files/Cappy.md",
+    "Characters/Character Files/Belle Riddle.md",
     "Characters/Character Files/Simon.md",
-    "Universes/Pocket Dimensions/Hell's Pockets",
-    "Universes/Pocket Dimensions/Hell's Pocket",
-    "Universes/Pocket Dimensions",
+    "Characters/Character Files/Shadow Colton.md",
+    "Characters/Character Files/Sev.md",
+    "Characters/Character Files/Mori.md",
+    "Characters/Character Files/Millie.md",
+    "Characters/Character Files/Mari.md",
+    "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Kit.md",
     "Untitled.canvas",
     "Factions/Untitled",
     "Files (To Be Digitised)",
@@ -176,6 +188,7 @@
     "Characters/Character Files",
     "Universes/FILENAME00",
     "Universes/UniDark",
-    "Universes/UniLuck"
+    "Universes/UniLuck",
+    "Universes"
   ]
 }
