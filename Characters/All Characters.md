@@ -28,3 +28,6 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Thomas Riddle]]
 - [[Tula Ossa]]
 - [[Xes]]
+- [[Foxer]]
+
+
