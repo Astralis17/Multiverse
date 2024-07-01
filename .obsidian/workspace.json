@@ -11,8 +11,12 @@
             "id": "a666481a492d0503",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md"
               }
             }
           }
@@ -140,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "a666481a492d0503",
   "lastOpenFiles": [
+    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
+    "Universes/Pocket Dimensions/Mindscape",
+    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
+    "conflict-files-obsidian-git.md",
     "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Tula Ossa.md",
@@ -164,10 +175,6 @@
     "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Fox.md",
     "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Del.md",
-    "Characters/Character Files/Catti.md",
-    "Characters/Character Files/Cassidy.md",
-    "Characters/Character Files/Captain.md",
     "Characters/Character Files",
     "Universes/Pocket Dimensions/Mindscape",
     "Universes/Pocket Dimensions/Hell's Pockets",
@@ -176,7 +183,6 @@
     "Factions",
     "Universes/FILENAME00",
     "Universes/UniDark",
-    "Universes/UniLuck",
-    "Universes"
+    "Universes/UniLuck"
   ]
 }
