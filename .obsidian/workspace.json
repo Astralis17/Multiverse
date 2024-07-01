@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "e3d7f760d792ac18",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cfd0175b03bb5e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13732569aaa00ccc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1788b9803408a115",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8fc4e58d82294c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39b0ccb19eb891f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3d5b07e4b1f7c21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69c8684d443b4434",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "91c635afa523e4c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "652916bef0f63969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ad7bb42f68e7d7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ac133fe1fdf932e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8dd5b0038c61065",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6088bc5c80877e90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13732569aaa00ccc",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Locations.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
+    "Family/Vanater.md",
+    "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Abbie Riddle.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Characters/Character Files/Ignite Vanater.md",
+    "Factions/Chaosics.md",
+    "Family/Riddle.md",
+    "Family/Golden.md",
+    "Factions/Elementals.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/The Slaughter Ace.md",
+    "Factions/Crystal Guards.md",
+    "Characters/All Characters.md",
+    "Characters/Character Files/Sketchpad Carpenter.md",
+    "Characters/Character Files/Xes.md",
+    "Characters/Character Files/Windsor Vanater.md",
+    "Characters/Character Files/Tula Ossa.md",
+    "Characters/Character Files/Thomas Riddle.md",
+    "Characters/Character Files/The Ostrich.md",
+    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files",
+    "Characters",
+    "Family",
+    "Families",
+    "Factions",
+    "Universes/Pocket Dimensions/Hell's Pockets",
+    "Universes/UniLuck",
+    "Universes/UniDark",
+    "Universes/Pocket Dimensions",
+    "Universes/FILENAME00"
+  ]
+}
