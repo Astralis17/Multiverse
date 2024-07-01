@@ -19,8 +19,12 @@
             "id": "aacf078606f9e1c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -149,6 +157,7 @@
   },
   "active": "aacf078606f9e1c1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Locations.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
     "Family/Vanater.md",
@@ -174,7 +183,6 @@
     "Characters/Character Files/Thomas Riddle.md",
     "Characters/Character Files/The Ostrich.md",
     "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/Susie Golden.md",
     "Characters/Character Files",
     "Characters",
     "Family",
