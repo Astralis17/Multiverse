@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family/Golden.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "cb1c5163e81fbc8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
     "id": "91c635afa523e4c8",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Family/Golden.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Family/Golden.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Family/Golden.md"
+                "file": "Characters/Character Files/{Character File Template}.md"
               }
             }
           }
@@ -146,36 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "5c5d48dc4dad36d0",
   "lastOpenFiles": [
-    "Family/Riddle.md",
+    "Characters/All Characters.md",
+    "Characters/Character Files/Tula Ossa.md",
+    "Characters/Character Files/Sketchpad Carpenter.md",
+    "Characters/Character Files/Mid.md",
+    "Characters/Character Files/Simon Drew.md",
+    "Characters/Character Files/Shadow Colton.md",
+    "Characters/Character Files/Sev Wood.md",
+    "Characters/Character Files/John Golden.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Characters/Character Files/Nightmare.md",
+    "Characters/Character Files/Mori Carney.md",
+    "Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/Windsor Vanatier.md",
+    "Characters/Character Files/Foxer Vanatier.md",
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
     "Family/Golden.md",
+    "Family/Riddle.md",
     "Characters/Character Files/Abbie Riddle.md",
     "Family",
     "Characters/Character Files/Susie Golden.md",
     "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files/Mari Golden.md",
-    "Characters/Character Files/John Golden.md",
     "Universes/UniLuck/UniLuck.md",
-    "Characters/Character Files/Foxer.md",
-    "Characters/Character Files/Fox.md",
     "Characters/Character Files/Belle Riddle.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Characters/Character Files/Del.md",
-    "Characters/Character Files/Ignite Vanatier.md",
-    "Characters/Character Files/Sev.md",
-    "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Catti Golden.md",
-    "Characters/All Characters.md",
-    "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
     "Universes/Pocket Dimensions/Mindscape",
-    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
-    "conflict-files-obsidian-git.md",
-    "Characters/Character Files/Xes.md",
-    "Characters/Character Files/Tula Ossa.md",
-    "Characters/Character Files/Thomas Riddle.md",
-    "Characters/Character Files/Teddy.md",
     "Characters/Character Files",
     "Universes/Pocket Dimensions/Mindscape",
     "Universes/Pocket Dimensions/Hell's Pockets",
