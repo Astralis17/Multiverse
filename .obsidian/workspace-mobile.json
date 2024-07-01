@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "d37149633284f861",
+    "id": "4f0f550366f3ad95",
     "type": "split",
     "children": [
       {
-        "id": "fba6b11913341aa4",
+        "id": "03378f257b2e2b56",
         "type": "tabs",
         "children": [
           {
-            "id": "15c28ffddb8ab0e3",
+            "id": "9fd3cac8bd5dbef8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/All Characters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be255720bf16aec1",
+    "id": "521d658a7727db6b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "18587218d15d266e",
+        "id": "2eeef9704bc52823",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +39,7 @@
         }
       },
       {
-        "id": "0fd4141ed43731ff",
+        "id": "0713510e633f2b6b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +54,7 @@
         }
       },
       {
-        "id": "0c7d71cf820962be",
+        "id": "af7042ab9bc19182",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +65,7 @@
         }
       },
       {
-        "id": "970cf4a32ad93f97",
+        "id": "f1540930a93a5c02",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,15 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "5dacfb7c49965358",
+    "id": "29fb8611a50f9ad2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f1fcf175fccec0d3",
+        "id": "bdd71b65d8281773",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Characters/All Characters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,22 +97,25 @@
         }
       },
       {
-        "id": "b82362721758baec",
+        "id": "261cd9f0f8b34bfb",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Characters/All Characters.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "ea1196cd02e7b533",
+        "id": "1799eab82e96ee3c",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Characters/All Characters.md"
+          }
         }
       }
     ],
@@ -123,45 +131,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15c28ffddb8ab0e3",
+  "active": "9fd3cac8bd5dbef8",
   "lastOpenFiles": [
     "Characters/Character Files/Foxer Vanater.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "Factions/The Slaughter Aces.md",
+    "Universes/Main.md",
+    "Locations.md",
+    "Universes/UniLuck/Locations of UniLuck.md",
+    "Universes/FILENAME00/Locations of FILENAME00.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Mindscape.md",
+    "Characters/All Characters.md",
+    "Factions/Chaosics.md",
     "Characters/Character Files/Windsor Vanater.md",
+    "README.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Families/Golden.md",
+    "Families/Riddle.md",
     "Characters/Character Files/Ignite Vanater.md",
-    "/Characters/Character Files/Ignite Vanater.md",
-    "/Characters/Character Files/Foxer Vanater.md",
+    "Universes/UniLuck/The Dojo.md",
     "/Characters/Character Files/Xes.md",
     "/Characters/Character Files/Windsor Vanater.md",
     "/Characters/Character Files/Thomas Riddle.md",
     "/Characters/Character Files/Teddy.md",
-    "Characters/All Characters.md",
-    "Characters/Character Files/The Ostrich.md",
-    "/Characters/Character Files/The Ostrich.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "/Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "Characters/Character Files/Catti Golden.md",
     "Characters/Character Files/Skye Golden.md",
-    "Family",
-    "Characters/Character Files/Mari Golden.md",
-    "Characters/Character Files/Cassidy Mcguire.md",
-    "Characters/Character Files/Mori Carney.md",
-    "Characters/Character Files/Susie Golden.md",
-    "Characters/Character Files/Del Riddle.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Family/Riddle.md",
-    "Family/Golden.md",
-    "Characters/Character Files/Foxer Vanatier.md",
     "Characters/Character Files/Sketchpad Carpenter.md",
-    "/Family",
-    "Universes/Pocket Dimensions/Mindscape",
-    "/Universes/Pocket Dimensions/Mindscape",
-    "Universes/Pocket Dimensions/The Mindscape",
+    "Characters/Character Files/Simon Drew.md",
+    "Characters/Character Files/Sev Wood.md",
+    "Characters/Character Files/Mori Carney.md",
+    "Families",
+    "/Families",
     "Universes/Pocket Dimensions/Hell's Pockets",
+    "Universes/UniLuck",
+    "Universes/UniDark",
     "Universes/Pocket Dimensions",
-    "/Universes/Pocket Dimensions/Hell's Pocket",
-    "/Universes/Pocket Dimensions",
-    "Untitled.canvas",
-    "/Untitled.canvas",
+    "Universes/FILENAME00",
+    "Universes",
+    "Files (To Be Digitised)",
     "Factions"
   ]
 }
