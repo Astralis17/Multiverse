@@ -11,8 +11,12 @@
             "id": "db560b0c8423feff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/All Characters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/All Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/All Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md"
+                "file": "Characters/All Characters.md"
               }
             }
           }
@@ -132,43 +138,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "db560b0c8423feff",
   "lastOpenFiles": [
-    "Factions/Hellsing Family.md",
-    "Factions/The Slaughter Ace.md",
-    "Factions/Hyrulian Kingdom.md",
-    "Factions/Elementals.md",
-    "Factions/Crystal Guards.md",
     "Factions/Chaosics.md",
-    "Factions",
-    "Characters/Character Files/{Character File Template}.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Elementals.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Hyrulian Kingdom.md",
     "Characters/Character Files/Xes.md",
-    "Characters/Character Files/Windsor Vanatier.md",
-    "Characters/Character Files/Tula Ossa.md",
-    "Characters/Character Files/Thomas Riddle.md",
-    "Characters/Character Files/The Ostrich.md",
-    "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/Susie Golden.md",
-    "Characters/Character Files/Skye Golden.md",
-    "Characters/Character Files/Sketchpad Carpenter.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Sev Wood.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Mori Carney.md",
+    "Characters/Character Files/Abbie Riddle.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
+    "Characters/Character Files/Catti Golden.md",
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Hellice Hellsing.md",
+    "Characters/Character Files/Ignite Vanater.md",
+    "Characters/Character Files/John Golden.md",
+    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Lou Riddle.md",
     "Characters/Character Files/Mari Golden.md",
     "Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/Mori Carney.md",
+    "Characters/Character Files/Nightmare.md",
+    "Characters/Character Files/Sev Wood.md",
+    "Factions",
     "Characters/Character Files",
     "Characters",
     "Universes/Pocket Dimensions/Hell's Pockets",
