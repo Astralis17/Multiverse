@@ -8,11 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-<<<<<<< HEAD
       "query": "tag:#Incomplete  ",
-=======
-      "query": "tag:#Incomplete",
->>>>>>> origin/main
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -22,11 +18,7 @@
       "query": "tag:#Complete",
       "color": {
         "a": 1,
-<<<<<<< HEAD
         "rgb": 2812506
-=======
-        "rgb": 6603878
->>>>>>> origin/main
       }
     }
   ],
@@ -40,11 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.5017181580501621,
+  "scale": 0.25525507611895304,
   "close": false
-=======
-  "scale": 1.01248609922562,
-  "close": true
->>>>>>> origin/main
 }

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c7538d1df9733e",
+        "id": "84d462c9337f18fe",
         "type": "tabs",
         "children": [
           {
-            "id": "14998c15cefcd8ec",
+            "id": "994756350eaf855f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14998c15cefcd8ec",
+  "active": "994756350eaf855f",
   "lastOpenFiles": [
+    "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "conflict-files-obsidian-git.md",
     "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Windsor Vanater.md",
@@ -171,9 +166,6 @@
     "Characters/Character Files/John Golden.md",
     "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Foxer Vanater.md",
     "Characters/Character Files",
     "Characters",
     "Family",
