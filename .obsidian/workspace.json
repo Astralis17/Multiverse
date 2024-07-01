@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6abe347442dd43",
+        "id": "dd69a4c3d47d1e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "7a68d8427f2d7f71",
+            "id": "20000a7442289b07",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations.md"
+              }
             }
           }
         ]
@@ -138,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a68d8427f2d7f71",
+  "active": "20000a7442289b07",
   "lastOpenFiles": [
-    "Factions/Elementals.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
     "Family/Vanater.md",
     "Characters/Character Files/Foxer Vanater.md",
     "Characters/Character Files/Fox Byrne.md",
@@ -151,6 +159,7 @@
     "Factions/Chaosics.md",
     "Family/Riddle.md",
     "Family/Golden.md",
+    "Factions/Elementals.md",
     "Factions/Hellsing Family.md",
     "Factions/Hyrulian Kingdom.md",
     "Factions/The Slaughter Ace.md",
@@ -165,7 +174,6 @@
     "Characters/Character Files/Teddy.md",
     "Characters/Character Files/Susie Golden.md",
     "Characters/Character Files/Skye Golden.md",
-    "Characters/Character Files/Simon Drew.md",
     "Characters/Character Files",
     "Characters",
     "Family",
