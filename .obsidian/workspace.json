@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f07b74c984cb513f",
+            "id": "3d2d44e3be11ef06",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,14 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f07b74c984cb513f",
+  "active": "3d2d44e3be11ef06",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Family/Riddle.md",
+    "Family/Golden.md",
+    "Family",
+    "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Catti Golden.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
+    "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Belle Riddle.md",
     "Characters/Character Files/Abbie.md",
     "Characters/Character Files/Cappy.md",
     "Characters/Character Files/Demon Of Space.md",
-    "conflict-files-obsidian-git.md",
     "Characters/Character Files/Del.md",
     "Characters/Character Files/Day Dream.md",
     "Characters/Character Files/Ganon.md",
@@ -156,16 +175,6 @@
     "Characters/Character Files/Dell.md",
     "Characters/Character Files/Fox.md",
     "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Ignite.md",
-    "Characters/Character Files/Kit.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Mari.md",
-    "Characters/Character Files/Millie.md",
-    "Characters/Character Files/Mori.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Sev.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/Pocket Dimensions/Hell's Pocket",
     "Universes/Pocket Dimensions",
@@ -175,7 +184,6 @@
     "Factions",
     "Characters/Character Files",
     "Universes/FILENAME00",
-    "Universes/UniDark",
-    "Universes/UniLuck"
+    "Universes/UniDark"
   ]
 }
