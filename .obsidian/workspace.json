@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8f57fe66565ac604",
+        "id": "14914ad5e39c0be0",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4f85c9f797d4ce",
+            "id": "f07b74c984cb513f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/{Character File Template}.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Character Files/{Character File Template}.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c4f85c9f797d4ce",
+  "active": "f07b74c984cb513f",
   "lastOpenFiles": [
     "Characters/Character Files/Day Dream.md",
     "Characters/Character Files/Ganon.md",
