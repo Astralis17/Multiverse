@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "e3d7f760d792ac18",
+    "id": "b6dcaaf05286875b",
     "type": "split",
     "children": [
       {
-        "id": "14914ad5e39c0be0",
+        "id": "04aa0bb75da29eff",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2d44e3be11ef06",
+            "id": "8ddbf9f3b3320456",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1788b9803408a115",
+    "id": "ec7cb1aeb0eb3bfd",
     "type": "split",
     "children": [
       {
-        "id": "a8fc4e58d82294c9",
+        "id": "d5b1401d26bf7e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "39b0ccb19eb891f5",
+            "id": "34349a1c8d6e3a83",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "e3d5b07e4b1f7c21",
+            "id": "4ec4640a1d3f7dc0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "69c8684d443b4434",
+            "id": "d43df201e7d12dc8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "91c635afa523e4c8",
+    "id": "76f69788f683b8ec",
     "type": "split",
     "children": [
       {
-        "id": "652916bef0f63969",
+        "id": "9bf2bc881095ba48",
         "type": "tabs",
         "children": [
           {
-            "id": "2ad7bb42f68e7d7e",
+            "id": "b95b9e8e82d71cb7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "7ac133fe1fdf932e",
+            "id": "499650b38b3a1c1c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b8dd5b0038c61065",
+            "id": "37744af7c9a61861",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "6088bc5c80877e90",
+            "id": "cd411798a15adaed",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,44 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d2d44e3be11ef06",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
-    "Family/Riddle.md",
-    "Family/Golden.md",
-    "Family",
-    "Characters/Character Files/Foxer Vanater.md",
-    "Characters/Character Files/Fox Byrne.md",
-    "Characters/Character Files/Del Riddle.md",
-    "Characters/Character Files/Catti Golden.md",
-    "Characters/Character Files/Cassidy Mcguire.md",
-    "Characters/Character Files/Abbie Riddle.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Characters/Character Files/Belle Riddle.md",
-    "Characters/Character Files/Abbie.md",
-    "Characters/Character Files/Cappy.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Del.md",
-    "Characters/Character Files/Day Dream.md",
-    "Characters/Character Files/Ganon.md",
-    "Characters/All Characters.md",
-    "Characters/Character Files/Captain.md",
-    "Characters/Character Files/Cassidy.md",
-    "Characters/Character Files/Catti.md",
-    "Characters/Character Files/Dell.md",
-    "Characters/Character Files/Fox.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Universes/Pocket Dimensions/Hell's Pockets",
-    "Universes/Pocket Dimensions/Hell's Pocket",
-    "Universes/Pocket Dimensions",
-    "Untitled.canvas",
-    "Factions/Untitled",
-    "Files (To Be Digitised)",
-    "Factions",
-    "Characters/Character Files",
-    "Universes/FILENAME00",
-    "Universes/UniDark"
-  ]
+  "active": "8ddbf9f3b3320456",
+  "lastOpenFiles": []
 }
