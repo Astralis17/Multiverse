@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "e3d7f760d792ac18",
+    "id": "d986abc7c0b94522",
     "type": "split",
     "children": [
       {
-        "id": "03ae9b52f6c31fdd",
+        "id": "3d49041819064209",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd5def80a290bee",
+            "id": "bf9a7545cb9cd71a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1788b9803408a115",
+    "id": "d504b937d5730e01",
     "type": "split",
     "children": [
       {
-        "id": "a8fc4e58d82294c9",
+        "id": "c950ad1fb8550f26",
         "type": "tabs",
         "children": [
           {
-            "id": "39b0ccb19eb891f5",
+            "id": "9a3ee1ba2136af27",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "e3d5b07e4b1f7c21",
+            "id": "bd2cccd52c52fd54",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "69c8684d443b4434",
+            "id": "657e7e56bd066558",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 300
   },
   "right": {
-    "id": "91c635afa523e4c8",
+    "id": "2b0cf53d1f30578c",
     "type": "split",
     "children": [
       {
-        "id": "652916bef0f63969",
+        "id": "dcd16423c872cee4",
         "type": "tabs",
         "children": [
           {
-            "id": "2ad7bb42f68e7d7e",
+            "id": "c921ee27d5da6daa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "7ac133fe1fdf932e",
+            "id": "066fbf60c78ed4f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b8dd5b0038c61065",
+            "id": "239f43acb7f665db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,12 +120,12 @@
             }
           },
           {
-            "id": "6088bc5c80877e90",
+            "id": "164a974a0d657030",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/All Characters.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -140,43 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
-  "lastOpenFiles": [
-    "README.md",
-    "Locations.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Mindscape.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
-    "Universes/UniLuck/UniLuck.md",
-    "Universes/UniLuck/The Dojo.md",
-    "Universes/UniLuck/Locations of UniLuck.md",
-    "Universes/UniDark/UniDark.md",
-    "Universes/UniDark/Locations of UniDark.md",
-    "Universes/Pocket Dimensions/Hell's Pockets",
-    "Universes/FILENAME00/Locations of FILENAME00.md",
-    "Universes/FILENAME00/FILENAME00.md",
-    "Universes/UniLuck",
-    "Universes/UniDark",
-    "Universes/Pocket Dimensions",
-    "Universes/Main.md",
-    "Universes/FILENAME00",
-    "Universes",
-    "Files (To Be Digitised)/Instructions.md",
-    "Files (To Be Digitised)",
-    "Families/Riddle.md",
-    "Families/Golden.md",
-    "Families",
-    "Factions/The Slaughter Aces.md",
-    "Factions/Hyrulian Kingdom.md",
-    "Factions/Hellsing Family.md",
-    "Factions/Elementals.md",
-    "Factions/Crystal Guards.md",
-    "Factions/Chaosics.md",
-    "Factions",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Characters/Character Files/Xes.md",
-    "Characters/Character Files/Windsor Vanater.md",
-    "Characters/Character Files"
-  ]
+  "active": "bf9a7545cb9cd71a",
+  "lastOpenFiles": []
 }
