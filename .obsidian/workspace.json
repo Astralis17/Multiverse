@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-<<<<<<< main
-        "id": "8f57fe66565ac604",
-=======
-        "id": "14914ad5e39c0be0",
->>>>>>> origin/main
+        "id": "5607e9f15a7ffb38",
         "type": "tabs",
         "children": [
           {
-<<<<<<< main
-            "id": "b5085315b070d2bd",
-=======
-            "id": "f07b74c984cb513f",
->>>>>>> origin/main
+            "id": "db1c40530cfed4ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< main
-                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
-=======
-                "file": "Characters/Character Files/{Character File Template}.md",
->>>>>>> origin/main
+                "file": "Characters/Character Files/Cassidy.md",
                 "mode": "source",
                 "source": false
               }
             }
-<<<<<<< main
-=======
-          },
-          {
-            "id": "8d45165cdbaf1f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
->>>>>>> origin/main
           }
         ]
       }
@@ -112,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< main
-                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> origin/main
+                "file": "Characters/Character Files/Cassidy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< main
-                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> origin/main
+                "file": "Characters/Character Files/Cassidy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,15 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< main
               "state": {
-                "file": "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md"
+                "file": "Characters/Character Files/Cassidy.md"
               }
-=======
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
->>>>>>> origin/main
             }
           }
         ]
@@ -187,72 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< main
-  "active": "b5085315b070d2bd",
-=======
-  "active": "8d45165cdbaf1f12",
->>>>>>> origin/main
+  "active": "db1c40530cfed4ea",
   "lastOpenFiles": [
-<<<<<<< main
+    "Characters/Character Files/Catti.md",
+    "Characters/Character Files/Del.md",
+    "Characters/Character Files/Fox.md",
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Foxer.md",
+    "Characters/All Characters.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
-    "Characters/Character Files/{Character File Template}.md",
-    "Universes/Pocket Dimensions/Hell's Pocket/Mind Scape.md",
-=======
-    "Characters/Character Files/{Character File Template}.md",
->>>>>>> origin/main
-    "conflict-files-obsidian-git.md",
-<<<<<<< main
-    "Factions/Hyrulian Kingdom.md",
-    "Factions/Elementals.md",
-    "Factions/Crystal Guards.md",
-    "Factions/Chaosics.md",
-    "Locations.md",
-    "Universes/Pocket Dimensions/Hell's Pocket",
-    "Universes/Pocket Dimensions/Untitled.md",
     "Universes/Pocket Dimensions",
-=======
-    "Characters/Character Files/Del.md",
-    "Characters/Character Files/Day Dream.md",
->>>>>>> origin/main
-    "Characters/Character Files/Ganon.md",
-    "Characters/All Characters.md",
-    "Characters/Character Files/Abbie.md",
-    "Characters/Character Files/Belle Riddle.md",
-    "Characters/Character Files/Cappy.md",
-    "Characters/Character Files/Captain.md",
-    "Characters/Character Files/Cassidy.md",
-    "Characters/Character Files/Catti.md",
-    "Characters/Character Files/Dell.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Fox.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Hellice Hellsing.md",
     "Characters/Character Files/Ignite.md",
-    "Characters/Character Files/Kit.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Mari.md",
-    "Characters/Character Files/Millie.md",
-    "Characters/Character Files/Mori.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Sev.md",
-<<<<<<< main
-    "Characters/Character Files/Mori.md",
-    "Characters/Character Files/Millie.md",
-    "Characters/Character Files/Mari.md",
-=======
-    "Universes/Pocket Dimensions/Hell's Pockets",
-    "Universes/Pocket Dimensions/Hell's Pocket",
-    "Universes/Pocket Dimensions",
->>>>>>> origin/main
-    "Untitled.canvas",
-    "Factions/Untitled",
+    "Factions/Hellsing Family.md",
+    "Files (To Be Digitised)/Instructions.md",
     "Files (To Be Digitised)",
+    "Factions/The Slaughter Ace.md",
     "Factions",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Hellice Hellsing.md",
+    "Universes/UniLuck/The Slaughter Ace.md",
+    "Universes/UniLuck/The Dojo.md",
+    "Characters/Character Files/Cappy.md",
+    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Xes.md",
+    "Characters/Character Files/Tula Ossa.md",
+    "Characters/Character Files/Thomas Riddle.md",
+    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files/Skye.md",
+    "Characters/Character Files/Sketch.md",
+    "Characters/Character Files/Simon.md",
+    "Characters/Character Files/Shadow Colton.md",
+    "Characters/Character Files/Sev.md",
     "Characters/Character Files",
     "Universes/FILENAME00",
     "Universes/UniDark",
-    "Universes/UniLuck"
+    "Universes/UniLuck",
+    "Universes"
   ]
 }
