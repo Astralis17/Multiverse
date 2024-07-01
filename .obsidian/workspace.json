@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universes/Pocket Dimensions/Mindscape/Mindscape.md"
+                "file": "Characters/Character Files/{Character File Template}.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6c8b519619b3f0c1",
   "lastOpenFiles": [
-    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
     "Universes/Pocket Dimensions/Mindscape/Mindscape.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
     "Universes/Pocket Dimensions/Mindscape",
     "Factions/Elementals.md",
     "Characters/Character Files/{Character File Template}.md",
