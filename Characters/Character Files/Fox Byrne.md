@@ -3,6 +3,6 @@ Fox is 9 years old, they are from {Universe} and they use He/Him pronouns and th
 #### Contents
 - [[#Related Groups]]
 - [[#Early Life]]
-- [[#Family]]
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
+- [[#Family]]
