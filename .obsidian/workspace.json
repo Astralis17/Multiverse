@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13a34bdb4aa7a447",
+        "id": "321f07ed72ae47de",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5d48dc4dad36d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb1c5163e81fbc8c",
+            "id": "40010a8396383b26",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Character Files/{Character File Template}.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c5d48dc4dad36d0",
+  "active": "40010a8396383b26",
   "lastOpenFiles": [
+    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Universes/Pocket Dimensions/Mindscape/TMindscape.md",
     "Characters/All Characters.md",
     "Characters/Character Files/Tula Ossa.md",
     "Characters/Character Files/Sketchpad Carpenter.md",
@@ -165,7 +153,6 @@
     "Characters/Character Files/Sev Wood.md",
     "Characters/Character Files/John Golden.md",
     "Characters/Character Files/Fox Byrne.md",
-    "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Nightmare.md",
     "Characters/Character Files/Mori Carney.md",
     "Characters/Character Files/Millie Fitzsimmons Afton.md",
@@ -180,9 +167,6 @@
     "Family",
     "Characters/Character Files/Susie Golden.md",
     "Characters/Character Files/Skye Golden.md",
-    "Characters/Character Files/Mari Golden.md",
-    "Universes/UniLuck/UniLuck.md",
-    "Characters/Character Files/Belle Riddle.md",
     "Universes/Pocket Dimensions/Mindscape",
     "Characters/Character Files",
     "Universes/Pocket Dimensions/Mindscape",
