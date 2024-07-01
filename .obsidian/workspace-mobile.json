@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Characters/Character Files/Ignite Vanater.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Character Files/{Character File Template}.md",
+            "file": "Characters/Character Files/Ignite Vanater.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/Character Files/{Character File Template}.md",
+            "file": "Characters/Character Files/Ignite Vanater.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/Character Files/{Character File Template}.md"
+            "file": "Characters/Character Files/Ignite Vanater.md"
           }
         }
       }
@@ -133,32 +133,34 @@
   },
   "active": "9fd3cac8bd5dbef8",
   "lastOpenFiles": [
-    "Characters/All Characters.md",
-    "Files (To Be Digitised)/Instructions.md",
+    "Characters/Character Files/Windsor Vanater.md",
+    "Characters/Character Files/Ignite Vanater.md",
+    "Characters/Character Files/Foxer Vanater.md",
+    "Families/Riddle.md",
+    "Families/Golden.md",
     "Characters/Character Files/{Character File Template}.md",
-    "Factions/Elementals.md",
-    "Characters/Character Files/Cappy.md",
-    "Factions/The Slaughter Ace.md",
-    "Characters/Foxer.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "README.md",
-    "Factions/Hyrulian Kingdom.md",
-    "Factions/Hellsing Family.md",
-    "Factions/Crystal Guards.md",
-    "Factions/Chaosics.md",
-    "Folder.md",
-    "Universes/UniLuck/UniLuck.md",
-    "Universes/UniLuck/The Dojo.md",
-    "Universes/UniLuck/Locations of UniLuck.md",
-    "Universes/UniDark/UniDark.md",
-    "Universes/UniDark/Locations of UniDark.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Mind Scape.md",
-    "Universes/Main.md",
-    "Universes/FILENAME00/Locations of FILENAME00.md",
-    "Universes/FILENAME00/FILENAME00.md",
-    "Locations.md",
-    "Characters/Character Files/Xes.md",
-    "Characters/Character Files/Tula Ossa.md",
+    "Characters/Character Files/Skye Golden.md",
+    "Characters/Character Files/Sketchpad Carpenter.md",
+    "Characters/Character Files/Simon Drew.md",
+    "Characters/Character Files/Sev Wood.md",
+    "Characters/Character Files/Mori Carney.md",
+    "Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Catti Golden.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
+    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Characters/Character Files/John Golden.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "/Characters/Character Files/Skye Golden.md",
+    "/Characters/Character Files/Sketchpad Carpenter.md",
+    "/Characters/Character Files/Simon Drew.md",
+    "/Characters/Character Files/Shadow Colton.md",
+    "/Characters/Character Files/Sev Wood.md",
+    "/Characters/Character Files/Mori Carney.md",
+    "Families",
+    "/Families",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/UniLuck",
     "Universes/UniDark",
@@ -166,8 +168,6 @@
     "Universes/FILENAME00",
     "Universes",
     "Files (To Be Digitised)",
-    "Factions",
-    "Characters/Character Files",
-    "Characters"
+    "Factions"
   ]
 }
