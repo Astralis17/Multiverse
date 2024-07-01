@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "53ccc4221debcfbf",
+        "id": "99c3dbe1aaf75931",
         "type": "tabs",
         "children": [
           {
-            "id": "d08ba7b33f1ff7af",
+            "id": "db560b0c8423feff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/All Characters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/The Ostrich.md",
+                "file": "Characters/All Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/The Ostrich.md",
+                "file": "Characters/All Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/The Ostrich.md"
+                "file": "Characters/All Characters.md"
               }
             }
           }
@@ -134,51 +138,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "db560b0c8423feff",
   "lastOpenFiles": [
-    "Characters/Character Files/The Ostrich.md",
-    "Characters/Character Files/Windsor Vanatier.md",
-    "Characters/All Characters.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Universes/Pocket Dimensions/Mindscape/TMindscape.md",
-    "Characters/Character Files/Tula Ossa.md",
-    "Characters/Character Files/Sketchpad Carpenter.md",
-    "Characters/Character Files/Mid.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Sev Wood.md",
-    "Characters/Character Files/John Golden.md",
-    "Characters/Character Files/Fox Byrne.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Mori Carney.md",
-    "Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "Characters/Character Files/Kit Mcguire.md",
-    "Characters/Character Files/Foxer Vanatier.md",
-    "Characters/Character Files/Del Riddle.md",
-    "Characters/Character Files/Cassidy Mcguire.md",
-    "Family/Golden.md",
-    "Family/Riddle.md",
+    "Factions/Chaosics.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Elementals.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Characters/Character Files/Xes.md",
     "Characters/Character Files/Abbie Riddle.md",
-    "Family",
-    "Characters/Character Files/Susie Golden.md",
-    "Universes/Pocket Dimensions/Mindscape",
-    "Characters/Character Files",
-    "Universes/Pocket Dimensions/Mindscape",
-    "Universes/Pocket Dimensions/Hell's Pockets",
-    "Universes/Pocket Dimensions",
-    "Files (To Be Digitised)",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
+    "Characters/Character Files/Catti Golden.md",
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Hellice Hellsing.md",
+    "Characters/Character Files/Ignite Vanater.md",
+    "Characters/Character Files/John Golden.md",
+    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Characters/Character Files/Mori Carney.md",
+    "Characters/Character Files/Nightmare.md",
+    "Characters/Character Files/Sev Wood.md",
     "Factions",
+    "Characters/Character Files",
+    "Characters",
+    "Universes/Pocket Dimensions/Hell's Pockets",
+    "Universes/UniLuck",
+    "Universes/UniDark",
+    "Universes/Pocket Dimensions",
     "Universes/FILENAME00",
-    "Universes/UniDark"
+    "Universes",
+    "Files (To Be Digitised)"
   ]
 }
