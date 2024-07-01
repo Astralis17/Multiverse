@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "968950e9d6392b66",
+        "id": "f1c7538d1df9733e",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc7691af03708e1",
+            "id": "14998c15cefcd8ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccc7691af03708e1",
+  "active": "14998c15cefcd8ec",
   "lastOpenFiles": [
     "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Xes.md",
@@ -148,8 +156,8 @@
     "Characters/Character Files/The Ostrich.md",
     "Characters/Character Files/Teddy.md",
     "Characters/Character Files/Susie Golden.md",
-    "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files/Sketchpad Carpenter.md",
+    "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files/Simon Drew.md",
     "Characters/Character Files/Shadow Colton.md",
     "Characters/Character Files/Sev Wood.md",
@@ -157,24 +165,24 @@
     "Characters/Character Files/Mori Carney.md",
     "Characters/Character Files/Millie Fitzsimmons Afton.md",
     "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Kit Mcguire.md",
     "Characters/Character Files/Lou Riddle.md",
     "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit Mcguire.md",
     "Characters/Character Files/John Golden.md",
     "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Hellice Hellsing.md",
     "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Demon Of Space.md",
     "Characters/Character Files/Foxer Vanater.md",
-    "Characters/Character Files/Fox Byrne.md",
     "Characters/Character Files",
     "Characters",
-    "Families",
     "Family",
     "Factions",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/UniLuck",
     "Universes/UniDark",
     "Universes/Pocket Dimensions",
-    "Universes/FILENAME00"
+    "Universes/FILENAME00",
+    "Universes"
   ]
 }
