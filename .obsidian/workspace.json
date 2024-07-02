@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Factions/{template for factions}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Factions/{template for factions}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md",
+                "file": "Factions/{template for factions}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/{Character File Template}.md"
+                "file": "Factions/{template for factions}.md"
               }
             }
           }
@@ -148,19 +148,16 @@
   },
   "active": "9ff315c548c3cf20",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Families/Riddle.md",
-    "Families/Golden.md",
-    "Families",
-    "Factions/The Slaughter Aces.md",
-    "README.md",
-    "Locations.md",
-    "Universes/UniLuck/Locations of UniLuck.md",
-    "Universes/UniLuck/The Dojo.md",
+    "Factions/Hellsing Family.md",
+    "Factions/{template for factions}.md",
+    "Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Kit Mcguire.md",
     "Characters/Character Files/John Golden.md",
-    "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Hellice Hellsing.md",
+    "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Foxer Vanater.md",
     "Characters/Character Files/Fox Byrne.md",
@@ -168,13 +165,16 @@
     "Characters/Character Files/Del Riddle.md",
     "Characters/Character Files/Catti Golden.md",
     "Characters/Character Files/Cassidy Mcguire.md",
-    "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/Belle Riddle.md",
-    "Factions/The Slaughter Ace.md",
-    "Characters/Character Files/Kit Mcguire.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Abbie Riddle.md",
+    "Characters/Character Files/Xes.md",
+    "Characters/Character Files/Windsor Vanater.md",
+    "Characters/Character Files/Tula Ossa.md",
+    "Characters/Character Files/Thomas Riddle.md",
+    "Characters/Character Files/The Ostrich.md",
+    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files/Susie Golden.md",
+    "Families",
     "Characters/Character Files",
     "Characters",
     "Family",
