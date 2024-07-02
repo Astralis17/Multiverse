@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c2fcf7a011728f1",
+        "id": "e5e341c678b1ad40",
         "type": "tabs",
         "children": [
           {
-            "id": "f58164327e82c759",
+            "id": "9ff315c548c3cf20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universes/UniLuck/The Dojo.md"
+                "file": "Characters/Character Files/{Character File Template}.md"
               }
             }
           }
@@ -146,8 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58164327e82c759",
+  "active": "9ff315c548c3cf20",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Families/Riddle.md",
+    "Families/Golden.md",
+    "Families",
+    "Factions/The Slaughter Aces.md",
+    "README.md",
+    "Locations.md",
+    "Universes/UniLuck/Locations of UniLuck.md",
+    "Universes/UniLuck/The Dojo.md",
     "Characters/Character Files/John Golden.md",
     "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Hellice Hellsing.md",
@@ -160,24 +170,14 @@
     "Characters/Character Files/Cassidy Mcguire.md",
     "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/Belle Riddle.md",
-    "Characters/Character Files/{Character File Template}.md",
     "Factions/The Slaughter Ace.md",
     "Characters/Character Files/Kit Mcguire.md",
     "Characters/Character Files/Link Henderson.md",
     "Characters/Character Files/Lou Riddle.md",
     "Characters/Character Files/Mari Golden.md",
-    "Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "Characters/Character Files/Mori Carney.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Sev Wood.md",
-    "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Characters/Character Files/Sketchpad Carpenter.md",
-    "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files",
     "Characters",
     "Family",
-    "Families",
     "Factions",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/UniLuck",
