@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/{template for factions}.md",
+                "file": "Universes/FILENAME00/Locations of FILENAME00.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/{template for factions}.md",
+                "file": "Universes/FILENAME00/Locations of FILENAME00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/{template for factions}.md",
+                "file": "Universes/FILENAME00/Locations of FILENAME00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/{template for factions}.md"
+                "file": "Universes/FILENAME00/Locations of FILENAME00.md"
               }
             }
           }
@@ -148,6 +148,21 @@
   },
   "active": "9ff315c548c3cf20",
   "lastOpenFiles": [
+    "Universes/FILENAME00/FILENAME00.md",
+    "Characters/Character Files/Abbie Riddle.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Catti Golden.md",
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Factions/{template for factions}.md",
+    "Factions/The Slaughter Aces.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Elementals.md",
+    "Factions/Crystal Guards.md",
     "Characters/All Characters.md",
     "Locations.md",
     "Files (To Be Digitised)/Instructions.md",
@@ -155,26 +170,11 @@
     "Files (To Be Digitised)/Untitled",
     "Families/Golden.md",
     "Families/Riddle.md",
-    "Factions/{template for factions}.md",
-    "Factions/The Slaughter Aces.md",
-    "Factions/Hyrulian Kingdom.md",
-    "Factions/Hellsing Family.md",
-    "Factions/Elementals.md",
-    "Factions/Crystal Guards.md",
     "Factions/Chaosics.md",
     "Characters/Character Files/Millie Fitzsimmons Afton.md",
     "Characters/Character Files/Mari Golden.md",
     "Characters/Character Files/Lou Riddle.md",
     "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit Mcguire.md",
-    "Characters/Character Files/John Golden.md",
-    "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Ignite Vanater.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Foxer Vanater.md",
-    "Characters/Character Files/Fox Byrne.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Del Riddle.md",
     "Families",
     "Characters/Character Files",
     "Characters",
