@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3196c19688cd237c",
+        "id": "45f698d8d38294c9",
         "type": "tabs",
         "children": [
           {
-            "id": "01b4b673948ce927",
+            "id": "1ccce093d6968358",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character Files/John Golden.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Character Files/John Golden.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/Character Files/John Golden.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Characters/Character Files/John Golden.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,9 +123,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01b4b673948ce927",
+  "active": "1ccce093d6968358",
   "lastOpenFiles": [
+    "Factions/{template for factions}.md",
+    "Factions/Chaosics.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Elementals.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Families/Golden.md",
+    "Families/Riddle.md",
+    "Factions/The Slaughter Ace.md",
+    "Characters/Character Files/Tula Ossa Hellsing.md",
+    "Characters/Character Files/Susie Golden.md",
+    "Characters/Character Files/Skye Golden.md",
+    "Characters/Character Files/John Golden.md",
     "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Catti Golden.md",
+    "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Del Riddle.md",
     "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/Belle Riddle.md",
@@ -141,24 +149,8 @@
     "info and misc/README.md",
     "Characters/Character Files/Windsor Vanater.md",
     "Universes/UniLuck/UniLuck.md",
-    "Characters/Character Files/John Golden.md",
     "Universes/FILENAME00/FILENAME00.md",
     "Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "Factions/Chaosics.md",
-    "Factions/Elementals.md",
-    "Factions/The Slaughter Aces.md",
-    "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Universes/Main.md",
-    "Characters/Character Files/Mari Golden.md",
-    "Universes/FILENAME00/Locations of FILENAME00.md",
-    "Families/Untitled.md",
-    "Factions/{template for factions}.md",
-    "Characters/Character Files/Skye Golden.md",
-    "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Sketchpad Carpenter.md",
-    "Characters/Character Files/Sev Wood.md",
-    "Characters/Character Files/Cassidy Mcguire.md",
     "Files (To Be Digitised)",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/UniDark",

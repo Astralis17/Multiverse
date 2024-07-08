@@ -8,7 +8,7 @@ They are known as {Aliases} (Optional)
 - [[#Training and Abilities]]
 - [[#Family]]
 ##### Related Groups
-Del is part of [[The Slaughter Aces]], they used to be part of [[Crystal Guards]], they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
+Del is part of [[The Slaughter Ace]], they used to be part of [[Crystal Guards]], they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
 ##### Early Life
 ##### Physical Description/Attributes
 ##### Training and Abilities

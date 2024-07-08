@@ -7,6 +7,5 @@ They are known as {Aliases} (Optional)
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
 - [[#Family]]
-- 
 ##### Related Groups
-{Character} is part of [[Elementals]][[The Slaughter Aces]], they used to be part of [[Hellsing Family]], they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
+{Character} is part of [[Elementals]] and [[The Slaughter Ace]], they used to be part of [[Hellsing Family]], they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
