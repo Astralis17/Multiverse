@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4f0f550366f3ad95",
+    "id": "496968d16e3a9392",
     "type": "split",
     "children": [
       {
-        "id": "03378f257b2e2b56",
+        "id": "3196c19688cd237c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd3cac8bd5dbef8",
+            "id": "01b4b673948ce927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/The Ostrich.md",
+                "file": "Characters/Character Files/John Golden.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "521d658a7727db6b",
+    "id": "ddd31937f3c30adf",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2eeef9704bc52823",
+        "id": "31525c03db26ebb3",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "0713510e633f2b6b",
+        "id": "e9f28f8183289a9a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "af7042ab9bc19182",
+        "id": "8f45a476ff3e6ad6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "f1540930a93a5c02",
+        "id": "6a022e61a05cd0a1",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "29fb8611a50f9ad2",
+    "id": "66c2d5053aae827b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bdd71b65d8281773",
+        "id": "ec69755f7ba27d1c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Character Files/The Ostrich.md",
+            "file": "Characters/Character Files/John Golden.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "261cd9f0f8b34bfb",
+        "id": "4e0791e7f0fa82cc",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/Character Files/The Ostrich.md",
+            "file": "Characters/Character Files/John Golden.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "1799eab82e96ee3c",
+        "id": "a2f89a8adae01278",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/Character Files/The Ostrich.md"
+            "file": "Characters/Character Files/John Golden.md"
           }
         }
       }
@@ -131,43 +131,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fd3cac8bd5dbef8",
+  "active": "01b4b673948ce927",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Characters/Character Files/The Ostrich.md",
-    "Files (To Be Digitised)/Instructions.md",
-    "Characters/All Characters.md",
-    "Characters/Character Files/Foxer Vanater.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "Factions/The Slaughter Aces.md",
-    "Universes/Main.md",
-    "Locations.md",
-    "Universes/UniLuck/Locations of UniLuck.md",
-    "Universes/FILENAME00/Locations of FILENAME00.md",
-    "Universes/Pocket Dimensions/Hell's Pockets/Mindscape.md",
-    "Factions/Chaosics.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Abbie Riddle.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Thomas Riddle.md",
+    "info and misc/README.md",
     "Characters/Character Files/Windsor Vanater.md",
-    "README.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Families/Golden.md",
-    "Families/Riddle.md",
-    "Characters/Character Files/Ignite Vanater.md",
-    "Universes/UniLuck/The Dojo.md",
-    "/Characters/Character Files/Xes.md",
-    "/Characters/Character Files/Windsor Vanater.md",
-    "/Characters/Character Files/Thomas Riddle.md",
-    "/Characters/Character Files/Teddy.md",
+    "Universes/UniLuck/UniLuck.md",
+    "Characters/Character Files/John Golden.md",
+    "Universes/FILENAME00/FILENAME00.md",
+    "Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Factions/Chaosics.md",
+    "Factions/Elementals.md",
+    "Factions/The Slaughter Aces.md",
+    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files/Simon Drew.md",
+    "Universes/Main.md",
+    "Characters/Character Files/Mari Golden.md",
+    "Universes/FILENAME00/Locations of FILENAME00.md",
+    "Families/Untitled.md",
+    "Factions/{template for factions}.md",
     "Characters/Character Files/Skye Golden.md",
+    "Characters/Character Files/Hellice Hellsing.md",
     "Characters/Character Files/Sketchpad Carpenter.md",
-    "Families",
-    "/Families",
-    "Universes/Pocket Dimensions/Hell's Pockets",
-    "Universes/UniLuck",
-    "Universes/UniDark",
-    "Universes/Pocket Dimensions",
-    "Universes/FILENAME00",
-    "Universes",
+    "Characters/Character Files/Sev Wood.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
     "Files (To Be Digitised)",
-    "Factions"
+    "Universes/Pocket Dimensions/Hell's Pockets",
+    "Universes/UniDark",
+    "Universes/FILENAME00",
+    "Universes/Pocket Dimensions",
+    "Universes",
+    "Universes/UniLuck",
+    "info and misc",
+    "Characters/Character Files",
+    "Characters"
   ]
 }

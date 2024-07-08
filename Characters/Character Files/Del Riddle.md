@@ -6,7 +6,11 @@ They are known as {Aliases} (Optional)
 - [[#Early Life]]
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
-- [[Riddle]]
-- 
+- [[#Family]]
 ##### Related Groups
 Del is part of [[The Slaughter Aces]], they used to be part of [[Crystal Guards]], they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
+##### Early Life
+##### Physical Description/Attributes
+##### Training and Abilities
+##### Family
+Del Riddle is part of the [[Riddle|Riddle Family]] 
