@@ -9,6 +9,4 @@ In this is file there is [[#Locations Per Universe]] and [[#List of all Location
 ## List of all Locations
 - [[The Dojo|Slaughter Ace/The Dojo]]
 - [[Hyrule]]
-- [[Mindscape]]
-- 
-- 
+- [[THE MINDSCAPE]]
