@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3c263de43930521c",
+        "id": "0b1eeed3fb189a69",
         "type": "tabs",
         "children": [
           {
-            "id": "8c22d3f6fdce00be",
+            "id": "5df81092bbcf2cb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Chaosics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Factions/Chaosics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Factions/Chaosics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Factions/Chaosics.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,8 +123,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c22d3f6fdce00be",
+  "active": "5df81092bbcf2cb7",
   "lastOpenFiles": [
+    "Factions/Chaosics.md",
     "Characters/Character Files/Demon Of Space.md",
     "Characters/Character Files/Foxer Vanater.md",
     "Characters/Character Files/Fox Byrne.md",
@@ -160,7 +153,6 @@
     "Families/Riddle.md",
     "Families/Untitled.md",
     "Information and Miscellaneous Files/README.md",
-    "Locations.md",
     "Files (To Be Digitised)",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/UniDark",
