@@ -7,6 +7,3 @@ They are known as {Aliases} (Optional)
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
 - [[#Family]]
-- 
-##### Related Groups
-ignite is part of [[Elementals]], they used to be part of {Past Affiliated Groups}, they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
