@@ -3,6 +3,7 @@ This is a guide/template for creating and
 formatting character files 
 After the [[#~~~~~~~~~~~~~~~~~~~~~~~~~|line]] is where the template begins
 There will be {} to signify character specific information which need to be replaced with relevant information, I will also be using they/them pronouns in the template but change them to the characters pronouns
+
 Also don’t change the links under [[#Contents]] they are for linking to headings within the file not the family of the character, the family of the character is discussed under the heading
 # =========================
 {Character} is {Age} years old, they are from {Universe} and they use {Pronouns} pronouns and they are {Gender}

@@ -11,8 +11,12 @@
             "id": "8c22d3f6fdce00be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Chaosics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Factions/Chaosics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Factions/Chaosics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Factions/Chaosics.md"
+          }
         }
       }
     ],
@@ -125,18 +133,19 @@
   },
   "active": "8c22d3f6fdce00be",
   "lastOpenFiles": [
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Fox Byrne.md",
+    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Hellice Hellsing.md",
+    "Characters/Character Files/Ignite Vanater.md",
+    "Characters/Character Files/John Golden.md",
     "Characters/Character Files/{Character File Template}.md",
+    "Characters/Character Files/Del Riddle.md",
     "Families/Golden.md",
     "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
     "{NOTE TO EDITORS}",
-    "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Untitled.md",
-    "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Foxer Vanater.md",
-    "Characters/Character Files/Fox Byrne.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Del Riddle.md",
     "Characters/Character Files/Catti Golden.md",
     "Characters/Character Files/Cassidy Mcguire.md",
     "Characters/Character Files/Abbie Riddle.md",
@@ -152,7 +161,6 @@
     "Families/Untitled.md",
     "Information and Miscellaneous Files/README.md",
     "Locations.md",
-    "Factions/{Faction File Template}.md",
     "Files (To Be Digitised)",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/UniDark",
