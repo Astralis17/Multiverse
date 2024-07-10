@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65fe1844692b7027",
+        "id": "a90e0c9b3b28e15a",
         "type": "tabs",
         "children": [
           {
-            "id": "d5d8ae9dc50b0935",
+            "id": "ae567618516d1b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/{Faction File Template}.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Factions/{Faction File Template}.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Factions/{Faction File Template}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Factions/{Faction File Template}.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,8 +123,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5d8ae9dc50b0935",
+  "active": "ae567618516d1b64",
   "lastOpenFiles": [
+    "Characters/Character Files/{Character File Template}.md",
+    "Factions/The Slaughter Ace.md",
+    "Locations.md",
+    "Factions/{Faction File Template}.md",
     "Characters/All Characters.md",
     "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Kit Mcguire.md",
@@ -155,10 +151,6 @@
     "Characters/Character Files/Tula Ossa Hellsing.md",
     "Characters/Character Files/Windsor Vanater.md",
     "Characters/Character Files/Xes.md",
-    "README.md",
-    "Locations.md",
-    "Characters/Character Files/Catti Golden.md",
-    "Factions/Chaosics.md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Angelic Pockets",
     "Files (To Be Digitised)",
