@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a90e0c9b3b28e15a",
+        "id": "09b28c7cc98f0416",
         "type": "tabs",
         "children": [
           {
-            "id": "ae567618516d1b64",
+            "id": "7e873ad4a5538c98",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,8 +123,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae567618516d1b64",
+  "active": "7e873ad4a5538c98",
   "lastOpenFiles": [
+    "Characters/Character Files/Del Riddle.md",
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Cassidy Mcguire.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/{Character File Template}.md",
     "Factions/The Slaughter Ace.md",
     "Locations.md",
@@ -146,11 +151,6 @@
     "Characters/Character Files/Skye Golden.md",
     "Characters/Character Files/Susie Golden.md",
     "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/The Ostrich.md",
-    "Characters/Character Files/Thomas Riddle.md",
-    "Characters/Character Files/Tula Ossa Hellsing.md",
-    "Characters/Character Files/Windsor Vanater.md",
-    "Characters/Character Files/Xes.md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Angelic Pockets",
     "Files (To Be Digitised)",
