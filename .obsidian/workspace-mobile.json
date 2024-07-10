@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/All Characters.md",
+                "file": "Factions/{Faction File Template}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/All Characters.md",
+            "file": "Factions/{Faction File Template}.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/All Characters.md",
+            "file": "Factions/{Faction File Template}.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/All Characters.md"
+            "file": "Factions/{Faction File Template}.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "d5d8ae9dc50b0935",
   "lastOpenFiles": [
+    "Characters/All Characters.md",
     "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Kit Mcguire.md",
     "Characters/Character Files/John Golden.md",
@@ -158,7 +159,6 @@
     "Locations.md",
     "Characters/Character Files/Catti Golden.md",
     "Factions/Chaosics.md",
-    "Characters/Character Files/Demon Of Space.md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Angelic Pockets",
     "Files (To Be Digitised)",
