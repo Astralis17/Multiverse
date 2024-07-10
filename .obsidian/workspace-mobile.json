@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0b1eeed3fb189a69",
+        "id": "65fe1844692b7027",
         "type": "tabs",
         "children": [
           {
-            "id": "5df81092bbcf2cb7",
+            "id": "d5d8ae9dc50b0935",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/All Characters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Characters/All Characters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Characters/All Characters.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Characters/All Characters.md"
+          }
         }
       }
     ],
@@ -123,36 +131,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5df81092bbcf2cb7",
+  "active": "d5d8ae9dc50b0935",
   "lastOpenFiles": [
+    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/John Golden.md",
+    "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Characters/Character Files/Mori Carney.md",
+    "Characters/Character Files/Nightmare.md",
+    "Characters/Character Files/Sev Wood.md",
+    "Characters/Character Files/Shadow Colton.md",
+    "Characters/Character Files/Simon Drew.md",
+    "Characters/Character Files/Sketchpad Carpenter.md",
+    "Characters/Character Files/Skye Golden.md",
+    "Characters/Character Files/Susie Golden.md",
+    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files/The Ostrich.md",
+    "Characters/Character Files/Thomas Riddle.md",
+    "Characters/Character Files/Tula Ossa Hellsing.md",
+    "Characters/Character Files/Windsor Vanater.md",
+    "Characters/Character Files/Xes.md",
+    "README.md",
+    "Locations.md",
+    "Characters/Character Files/Catti Golden.md",
     "Factions/Chaosics.md",
     "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Foxer Vanater.md",
-    "Characters/Character Files/Fox Byrne.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Hellice Hellsing.md",
-    "Characters/Character Files/Ignite Vanater.md",
-    "Characters/Character Files/John Golden.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Characters/Character Files/Del Riddle.md",
-    "Families/Golden.md",
-    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
     "{NOTE TO EDITORS}",
-    "Characters/Character Files/Untitled.md",
-    "Characters/Character Files/Catti Golden.md",
-    "Characters/Character Files/Cassidy Mcguire.md",
-    "Characters/Character Files/Abbie Riddle.md",
-    "Universes/Universes.md",
-    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
     "Universes/Dimensions/Angelic Pockets",
-    "Universes/Dimensions/Hyrule.md",
-    "Universes/UniLuck/Locations of UniLuck.md",
-    "Characters/All Characters.md",
-    "Characters/Character Files/Belle Riddle.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Families/Riddle.md",
-    "Families/Untitled.md",
-    "Information and Miscellaneous Files/README.md",
     "Files (To Be Digitised)",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/UniDark",
