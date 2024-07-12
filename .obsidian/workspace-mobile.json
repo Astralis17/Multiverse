@@ -11,8 +11,12 @@
             "id": "7e873ad4a5538c98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/Xes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Characters/Character Files/Xes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Characters/Character Files/Xes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Characters/Character Files/Xes.md"
+          }
         }
       }
     ],
@@ -125,32 +133,32 @@
   },
   "active": "7e873ad4a5538c98",
   "lastOpenFiles": [
-    "Characters/Character Files/Del Riddle.md",
-    "Characters/Character Files/Demon Of Space.md",
-    "Characters/Character Files/Cassidy Mcguire.md",
-    "Characters/Character Files/Belle Riddle.md",
-    "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/{Character File Template}.md",
-    "Factions/The Slaughter Ace.md",
-    "Locations.md",
-    "Factions/{Faction File Template}.md",
-    "Characters/All Characters.md",
-    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Xes.md",
+    "Characters/Character Files/Windsor Vanater.md",
+    "Characters/Character Files/Tula Ossa Hellsing.md",
+    "Characters/Character Files/Thomas Riddle.md",
+    "Characters/Character Files/The Ostrich.md",
+    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files/Susie Golden.md",
+    "Characters/Character Files/Skye Golden.md",
+    "Characters/Character Files/Sketchpad Carpenter.md",
+    "Characters/Character Files/Simon Drew.md",
+    "Characters/Character Files/Shadow Colton.md",
+    "Characters/Character Files/Sev Wood.md",
+    "Characters/Character Files/Nightmare.md",
+    "Characters/Character Files/Mori Carney.md",
+    "Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Characters/Character Files/Mari Golden.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Link Henderson.md",
     "Characters/Character Files/Kit Mcguire.md",
     "Characters/Character Files/John Golden.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Mari Golden.md",
-    "Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "Characters/Character Files/Mori Carney.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Sev Wood.md",
-    "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Characters/Character Files/Sketchpad Carpenter.md",
-    "Characters/Character Files/Skye Golden.md",
-    "Characters/Character Files/Susie Golden.md",
-    "Characters/Character Files/Teddy.md",
+    "Characters/Character Files/Ignite Vanater.md",
+    "Characters/Character Files/Hellice Hellsing.md",
+    "Characters/Character Files/Garcello Golden.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Foxer Vanater.md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Angelic Pockets",
     "Files (To Be Digitised)",

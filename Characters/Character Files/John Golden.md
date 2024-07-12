@@ -3,8 +3,9 @@ John is {Age} years old, they are from {Universe} and they use {Pronouns} pronou
 They are also known as Captain and Mr. Tankman
 They currently reside at [[The Dojo]]
 #### Contents
-- [[#Related Groups]]
+- [[#Related Groups/Factions]]
 - [[#Early Life]]
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
 - [[#Family]]
+- [[#Resistances and Weaknesses]]
