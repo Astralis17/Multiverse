@@ -1,10 +1,8 @@
 #Incomplete 
-Foxer is 275 years old, she is from [[UniLuck]] and she uses She/Her pronouns and she is a Demigirl
-They currently reside at {Place of Residence}
+Foxer is 275 years old, they are from [[UniLuck]] and they use She/Her pronouns and they are Demigirl
 #### Contents
-- [[#Related Groups/Factions]]
+- [[#Related Groups]]
 - [[#Early Life]]
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
 - [[#Family]]
-- [[#Resistances and Weaknesses]]
