@@ -11,8 +11,12 @@
             "id": "dce12bb4e218de70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/Cassidy Mcguire.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Characters/Character Files/Cassidy Mcguire.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Characters/Character Files/Cassidy Mcguire.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Characters/Character Files/Cassidy Mcguire.md"
+          }
         }
       }
     ],
@@ -125,6 +133,7 @@
   },
   "active": "dce12bb4e218de70",
   "lastOpenFiles": [
+    "Characters/Character Files/Belle Riddle.md",
     "Characters/Character Files/Cassidy Mcguire.md",
     "Characters/Character Files/Del Riddle.md",
     "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
@@ -150,7 +159,6 @@
     "Factions/Hyrulian Kingdom.md",
     "Factions/Hellsing Family.md",
     "Factions/Elementals.md",
-    "Factions/Crystal Guards.md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/Dimensions/Angelic Pockets",
