@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "60be2fc7d1987681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character Files/Xes/Xes's Pendant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c456108426ca9454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/Xes/The Shade Cloak.md",
+                "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Character Files/Xes/Xes.md",
+            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/Character Files/Xes/Xes.md",
+            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/Character Files/Xes/Xes.md"
+            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md"
           }
         }
       }
@@ -155,11 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2238e149676e0be6",
+  "active": "c456108426ca9454",
   "lastOpenFiles": [
-    "Characters/Character Files/Xes/Xes's Pendant.md",
     "Characters/Character Files/Xes/Xes.md",
-    "Characters/Character Files/Xes/The Shade Cloak.md",
+    "Characters/Character Files/Xes/Xes's Pendant.md",
+    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
     "Untitled.md",
     "Characters/Character Files/Xes",
     "Characters/Character Files/Xes's Pendant.md",
