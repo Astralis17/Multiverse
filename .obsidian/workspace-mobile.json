@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "231884f1e0cdf2c4",
+    "id": "bed4eec72ff4e2f8",
     "type": "split",
     "children": [
       {
-        "id": "a56bad5ff1da0fb4",
+        "id": "6d5571bba7beb516",
         "type": "tabs",
         "children": [
           {
-            "id": "437361a4d656f1b8",
+            "id": "0fb09f88f5559201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+                "file": "Help.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6cacac59ee9793b4",
+    "id": "9180ac678d1c21f1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "68ce45dec4907992",
+        "id": "a36ff928e2533cf4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "a5f4cb2216090b94",
+        "id": "e06a73e3175db289",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "acd07ddae34cd232",
+        "id": "c826e5a53da7f049",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "1b352fbdf3283789",
+        "id": "618a6310345eee21",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "54f7a3e253e2c783",
+    "id": "a9aae4126171c746",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "142d398f9b60b808",
+        "id": "272efd3b538cd06b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+            "file": "Help.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "3ccac7f25df3081f",
+        "id": "3ce67e57bdf150cd",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+            "file": "Help.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "91367c19b16c03b2",
+        "id": "7c1d90dcd24e0260",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md"
+            "file": "Help.md"
           }
         }
       }
@@ -131,43 +131,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "437361a4d656f1b8",
+  "active": "0fb09f88f5559201",
   "lastOpenFiles": [
-    "Characters/Character Files/Xes/Xes.md",
-    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
-    "Characters/Character Files/Xes/Xes's Pendant.md",
-    "Untitled.md",
-    "Characters/Character Files/Xes",
-    "Characters/Character Files/Xes's Pendant.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Characters/Character Files/Windsor Vanater.md",
-    "Characters/Character Files/Tula Ossa Hellsing.md",
-    "Characters/Character Files/Thomas Riddle.md",
-    "Characters/Character Files/The Ostrich.md",
-    "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/Susie Golden.md",
-    "Characters/Character Files/Skye Golden.md",
-    "Characters/Character Files/Sketchpad Carpenter.md",
-    "Characters/Character Files/Simon Drew.md",
-    "Characters/Character Files/Shadow Colton.md",
-    "Characters/Character Files/Sev Wood.md",
-    "Characters/Character Files/Nightmare.md",
-    "Characters/Character Files/Mori Carney.md",
-    "Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "Characters/Character Files/Mari Golden.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit Mcguire.md",
-    "Characters/Character Files/John Golden.md",
-    "Characters/Character Files/Ignite Vanater.md",
-    "Characters/Character Files",
-    "Characters",
-    "/Characters/Character Files",
-    "/Characters",
+    "Help.md",
+    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "Universes/Universes.md",
+    "Universes/UniLuck/UniLuck.md",
+    "Universes/UniLuck/The Dojo.md",
+    "Universes/UniLuck/Locations of UniLuck.md",
+    "Universes/UniDark/UniDark.md",
+    "Universes/UniDark/Locations of UniDark.md",
+    "Universes/FILENAME00/Locations of FILENAME00.md",
+    "Universes/FILENAME00/FILENAME00.md",
+    "Universes/Dimensions/Hyrule.md",
+    "Universes/Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "Universes/Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
+    "README.md",
+    "Locations.md",
+    "Files (To Be Digitised)/Instructions.md",
+    "Families/Riddle.md",
+    "Families/Golden.md",
+    "Factions/{Faction File Template}.md",
+    "Factions/The Slaughter Ace.md",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/Hellsing Family.md",
+    "Factions/Elementals.md",
+    "Factions/Crystal Guards.md",
+    "Factions/Chaosics.md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/Dimensions/Angelic Pockets",
     "Universes/UniLuck",
-    "Universes/UniDark"
+    "Universes/UniDark",
+    "Universes/FILENAME00",
+    "Universes/Dimensions",
+    "Universes",
+    "Files (To Be Digitised)",
+    "Families"
   ]
 }
