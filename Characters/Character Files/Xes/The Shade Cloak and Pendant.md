@@ -9,5 +9,5 @@ It is currently owned by [[Xes]] and can be stored within [[#The Pendant]],
 #### The Pendant
 The Pendant was also just a piece of apparel which Xes's acquired during zer time in [[Externa]], until [[#The Shade Cloak]] decided to possess the pendant after the [[Demon Of Space]] attacked [[The Dojo]] 
 
-The Pendant had a chain made of black metal until the possesion upon which it converted to a cord/chain made of the same shadowy material as [[#The Shade Cloak]], it has a purple gem in the centre which when possessed has something flitting around inside, 
+The Pendant had a chain made of black metal until the possesion upon which it converted to a cord/chain made of the same shadowy material as [[#The Shade Cloak]], it has a purple gem in the centre which when possessed has something flitting around inside, the main body of the Pendant is silvery in colour
 
