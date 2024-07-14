@@ -2,11 +2,11 @@ This is a disambiguation and linking page for locations throughout the various u
 
 In this is file there is [[#Locations Per Universe]] and [[#List of all Locations]]
 
-## Locations Per Universe
+#### Locations Per Universe
 - [[Locations of FILENAME00|FILENAME00]]
 - [[Locations of UniDark|UniDark]] 
 - [[Locations of UniLuck|UniLuck]]
-## List of all Locations
+#### List of all Locations
 - [[The Dojo|Slaughter Ace/The Dojo]]
 - [[Hyrule]]
 - [[THE MINDSCAPE]]

@@ -1,16 +1,11 @@
 #Incomplete
 Thomas is {Age} years old, they are from {Universe} and they use {Pronouns} pronouns and they are {Gender}
 They are known as {Aliases} (Optional)
+They currently reside at {Place of Residence}
 #### Contents
-- [[#Related Groups]]
+- [[#Related Groups/Factions]]
 - [[#Early Life]]
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
 - [[#Family]]
-##### Related Groups
-Thomas Riddle is part of The Slaughter Ace, they used to be part of {Past Affiliated Groups}, they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
-##### Early Life
-##### Physical Description/Attributes
-##### Training and Abilities
-##### Family
-Thomas Riddle is part of the [[Riddle|Riddle Family]] 
+- [[#Resistances and Weaknesses]]

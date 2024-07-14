@@ -10,12 +10,13 @@ Also don’t change the links under [[#Contents]] they are for linking to headin
 They are known as {Aliases} (Optional)
 They currently reside at {Place of Residence}
 #### Contents
-- [[#Related Groups]]
+- [[#Related Groups/Factions]]
 - [[#Early Life]]
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
 - [[#Family]]
-##### Related Groups
+- [[#Resistances and Weaknesses]]
+##### Related Groups/Factions
 {Character} is part of {Current Affiliated Groups},  (Optional) They used to be part of {Past Affiliated Groups}, they are no longer part of this group because {Insert Reason for Leaving Group}
 ##### Early Life
 {Character} grew up in {Insert hometown} they lived with {insert faction/family of origin}
@@ -26,6 +27,10 @@ They currently reside at {Place of Residence}
 ##### Training and Abilities
 {Character} trained with {Trainer} at {Place of Training}
 (For Elementals) Due to them being the Elemental of {Insert Element}, they have power over {Element or in Tula’s case Bones}
+(For Characters with a specific item) {Item} is one of/is {Character}’s main sources of power
 ##### Family
 {Character} is part of the {Surname} family 
 Their parents are {Characters Parents}, their siblings include {List of Siblings (link them) }
+
+##### Resistances and Weaknesses
+{Insert information}
