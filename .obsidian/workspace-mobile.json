@@ -11,8 +11,12 @@
             "id": "437361a4d656f1b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Characters/Character Files/Xes/The Shade Cloak and Pendant.md"
+          }
         }
       }
     ],
@@ -125,8 +133,8 @@
   },
   "active": "437361a4d656f1b8",
   "lastOpenFiles": [
-    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
     "Characters/Character Files/Xes/Xes.md",
+    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
     "Characters/Character Files/Xes/Xes's Pendant.md",
     "Untitled.md",
     "Characters/Character Files/Xes",
