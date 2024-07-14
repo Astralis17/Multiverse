@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/Belle Riddle.md",
+                "file": "Information and Miscellaneous Files/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/Belle Riddle.md",
+                "file": "Information and Miscellaneous Files/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/Belle Riddle.md",
+                "file": "Information and Miscellaneous Files/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/Belle Riddle.md"
+                "file": "Information and Miscellaneous Files/README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "71489144f92a9075",
   "lastOpenFiles": [
+    "Characters/Character Files/Belle Riddle.md",
     "info and misc/README.md",
     "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
     "{NOTE TO EDITORS}",
@@ -163,7 +164,6 @@
     "Information and Miscellaneous Files",
     "Factions/{Faction File Template}.md",
     "Factions/The Slaughter Ace.md",
-    "Characters/Character Files/Belle Riddle.md",
     "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Windsor Vanater.md",
     "Characters/Character Files/Ignite Vanater.md",
