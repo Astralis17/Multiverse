@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03378f257b2e2b56",
+        "id": "15e31effa8367691",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd3cac8bd5dbef8",
+            "id": "8e08081f5b3e3c8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/All Characters.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Characters/All Characters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Characters/All Characters.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Characters/All Characters.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,8 +123,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fd3cac8bd5dbef8",
+  "active": "8e08081f5b3e3c8d",
   "lastOpenFiles": [
+    "Characters/Character Files/{Character File Template}.md",
+    "Locations.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/All Characters.md",
+    "Families/Golden.md",
     "Files (To Be Digitised)/README.md",
     "/Files (To Be Digitised)/README.md",
     "Factions/{template for factions}.md",
@@ -154,11 +151,6 @@
     "/Characters/Character Files/Mori Carney.md",
     "/Characters/Character Files/Millie Fitzsimmons Afton.md",
     "/Characters/Character Files/Mari Golden.md",
-    "/Characters/Character Files/Lou Riddle.md",
-    "/Characters/Character Files/Link Henderson.md",
-    "/Characters/Character Files/Kit Mcguire.md",
-    "/Characters/Character Files/John Golden.md",
-    "/Characters/Character Files/Ignite Vanater.md",
     "Families",
     "/Families",
     "Universes/Pocket Dimensions/Hell's Pockets",
