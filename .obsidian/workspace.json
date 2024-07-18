@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/Xes/Xes.md",
+                "file": "Characters/Character Files/Teddy.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b4d0a20d88791d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/Xes/Xes.md",
+                "file": "Characters/Character Files/Teddy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/Xes/Xes.md",
+                "file": "Characters/Character Files/Teddy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/Xes/Xes.md"
+                "file": "Characters/Character Files/Teddy.md"
               }
             }
           }
@@ -146,12 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71489144f92a9075",
+  "active": "4b4d0a20d88791d4",
   "lastOpenFiles": [
-    "Characters/Character Files/Xes/The Shade Cloak.md",
-    "Characters/Character Files/Xes/Xes.md",
-    "Characters/Character Files/Xes/Xes's Pendant.md",
+    "Characters/Character Files/The Ostrich.md",
+    "Characters/Character Files/Thomas Riddle.md",
     "Characters/Character Files/Tula Ossa Hellsing.md",
+    "Characters/Character Files/Xes/Xes.md",
+    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+    "Characters/Character Files/Xes/The Shade Cloak.md",
+    "Characters/Character Files/Xes/Xes's Pendant.md",
     "Characters/Character Files/Lou Riddle.md",
     "Characters/Character Files/Link Henderson.md",
     "Characters/Character Files/Kit Mcguire.md",
@@ -172,10 +186,7 @@
     "Information and Miscellaneous Files/README.md",
     "README.md",
     "Characters/Character Files/Xes",
-    "info and misc/README.md",
-    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
     "{NOTE TO EDITORS}",
-    "Universes/Universes.md",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/Dimensions/Angelic Pockets",
     "Universes/Dimensions",
