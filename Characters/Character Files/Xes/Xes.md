@@ -17,7 +17,7 @@ Xes is 176cm/6'9" tall, has a slender build, ze have purple eyes but can change 
 {Insert Apparel}
 ##### Training and Abilities
 Xes is currently untrained in regards to combat but possesses knowledge in regards to medicine and construction of electronic 
-[[The Shade Cloak]] is one of Xes’s sources of power, the cloak can be stored within [[Xes's Pendant]]
+[[The Shade Cloak and Pendant|The Shade Cloak]] is one of Xes’s main sources of power, the cloak can be stored within [[The Shade Cloak and Pendant|Xes's Pendant]]
 They know several languages including English, Latin, Old Norse and sign language, if able to connect to their home database they can acquire more languages (But that won't be happening any time soon)
 ##### Family
 Xes is not part of any family in the typical sense due to them being an android, they do have a creator and sibling though 
