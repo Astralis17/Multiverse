@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15e31effa8367691",
+        "id": "154841e89647ba06",
         "type": "tabs",
         "children": [
           {
-            "id": "8e08081f5b3e3c8d",
+            "id": "dcd7aff45bef7298",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,11 +123,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e08081f5b3e3c8d",
+  "active": "dcd7aff45bef7298",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Characters/Character Files/Xes.md",
     "Characters/Character Files/{Character File Template}.md",
     "Locations.md",
-    "conflict-files-obsidian-git.md",
     "Characters/All Characters.md",
     "Families/Golden.md",
     "Files (To Be Digitised)/README.md",
@@ -150,7 +151,6 @@
     "/Characters/Character Files/Nightmare.md",
     "/Characters/Character Files/Mori Carney.md",
     "/Characters/Character Files/Millie Fitzsimmons Afton.md",
-    "/Characters/Character Files/Mari Golden.md",
     "Families",
     "/Families",
     "Universes/Pocket Dimensions/Hell's Pockets",
