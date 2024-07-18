@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information and Miscellaneous Files/README.md",
+                "file": "Characters/Character Files/Xes/Xes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information and Miscellaneous Files/README.md",
+                "file": "Characters/Character Files/Xes/Xes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information and Miscellaneous Files/README.md",
+                "file": "Characters/Character Files/Xes/Xes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information and Miscellaneous Files/README.md"
+                "file": "Characters/Character Files/Xes/Xes.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "71489144f92a9075",
   "lastOpenFiles": [
-    "Characters/Character Files/Belle Riddle.md",
-    "info and misc/README.md",
-    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
-    "{NOTE TO EDITORS}",
-    "Universes/Universes.md",
-    "Universes/Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "Universes/Dimensions/Hell's Pockets/Hell's Pockets.md",
-    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
-    "Universes/Dimensions/Hyrule.md",
-    "Universes/Dimensions/Hell's Pockets",
-    "Universes/Dimensions/Angelic Pockets",
-    "Universes/Dimensions",
-    "Information and Miscellaneous Files/README.md",
-    "Information and Miscellaneous Files",
-    "Factions/{Faction File Template}.md",
-    "Factions/The Slaughter Ace.md",
-    "Characters/Character Files/Garcello Golden.md",
-    "Characters/Character Files/Windsor Vanater.md",
-    "Characters/Character Files/Ignite Vanater.md",
+    "Characters/Character Files/Xes/The Shade Cloak.md",
+    "Characters/Character Files/Xes/Xes.md",
+    "Characters/Character Files/Xes/Xes's Pendant.md",
     "Characters/Character Files/Tula Ossa Hellsing.md",
-    "Characters/Character Files/Xes.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files/Link Henderson.md",
+    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/John Golden.md",
+    "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Hellice Hellsing.md",
+    "Characters/Character Files/Garcello Golden.md",
     "Characters/Character Files/Foxer Vanater.md",
     "Characters/Character Files/Fox Byrne.md",
     "Characters/Character Files/Demon Of Space.md",
     "Characters/Character Files/Del Riddle.md",
     "Characters/Character Files/Catti Golden.md",
     "Characters/Character Files/Cassidy Mcguire.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/All Characters.md",
     "Characters/Character Files/Abbie Riddle.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Information and Miscellaneous Files/README.md",
+    "README.md",
+    "Characters/Character Files/Xes",
+    "info and misc/README.md",
+    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "{NOTE TO EDITORS}",
+    "Universes/Universes.md",
+    "Universes/Dimensions/Hell's Pockets",
+    "Universes/Dimensions/Angelic Pockets",
+    "Universes/Dimensions",
+    "Information and Miscellaneous Files",
     "info and misc",
-    "Characters/Character Files/Skye Golden.md",
-    "Families/Riddle.md",
     "Files (To Be Digitised)/Untitled",
     "Families",
-    "Characters/Character Files",
-    "Characters"
+    "Characters/Character Files"
   ]
 }
