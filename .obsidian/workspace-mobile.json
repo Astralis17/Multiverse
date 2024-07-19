@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4f0f550366f3ad95",
+    "id": "c9d7f6f0b4852e27",
     "type": "split",
     "children": [
       {
-        "id": "0fdaf469e9de7e4e",
+        "id": "1402b83f1081fb08",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f8830df9f779f1",
+            "id": "fa9b67eca68b76c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "521d658a7727db6b",
+    "id": "9b1725e5d02de336",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2eeef9704bc52823",
+        "id": "7d272acd6821f86d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "0713510e633f2b6b",
+        "id": "81710c642588db2b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "af7042ab9bc19182",
+        "id": "4a0666f34d1e6de3",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "f1540930a93a5c02",
+        "id": "3e0380a58bf16b84",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "29fb8611a50f9ad2",
+    "id": "9a5dc359c794bead",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bdd71b65d8281773",
+        "id": "dba63d9ef1eb2e9a",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "261cd9f0f8b34bfb",
+        "id": "a90de9b1ce000962",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -103,7 +103,7 @@
         }
       },
       {
-        "id": "1799eab82e96ee3c",
+        "id": "67164a11543818f4",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,43 +123,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8f8830df9f779f1",
+  "active": "fa9b67eca68b76c1",
   "lastOpenFiles": [
-    "Characters/Character Files/{Character File Template}.md",
-    "conflict-files-obsidian-git.md",
-    "Characters/Character Files/Xes.md",
+    "Characters/Tula Ossa.md",
+    "Factions/The Slaughter Ace.md",
+    "Factions/{Faction File Template}.md",
+    "README.md",
+    "Characters/Character Files/All Characters.md",
+    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+    "Characters/Character Files/Xes/Xes.md",
+    "Characters/Character Files/Xes",
+    "Characters/Character Files/Tula Ossa Hellsing.md",
+    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "{NOTE TO EDITORS}",
+    "Universes/Universes.md",
+    "Universes/Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "Universes/Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
+    "Universes/Dimensions/Hyrule.md",
+    "Universes/Dimensions/Hell's Pockets",
+    "Universes/Dimensions/Angelic Pockets",
+    "Universes/Dimensions",
+    "/Characters/Tula Ossa.md",
     "Locations.md",
-    "Characters/All Characters.md",
     "Families/Golden.md",
-    "Files (To Be Digitised)/README.md",
-    "/Files (To Be Digitised)/README.md",
-    "Factions/{template for factions}.md",
-    "/Factions/{template for factions}.md",
-    "/Characters/Character Files/{Character File Template}.md",
-    "/Characters/Character Files/Xes.md",
-    "/Characters/Character Files/Windsor Vanater.md",
-    "/Characters/Character Files/Tula Ossa.md",
-    "/Characters/Character Files/Thomas Riddle.md",
-    "/Characters/Character Files/The Ostrich.md",
-    "/Characters/Character Files/Teddy.md",
-    "/Characters/Character Files/Susie Golden.md",
-    "/Characters/Character Files/Skye Golden.md",
-    "/Characters/Character Files/Sketchpad Carpenter.md",
-    "/Characters/Character Files/Simon Drew.md",
-    "/Characters/Character Files/Shadow Colton.md",
-    "/Characters/Character Files/Sev Wood.md",
-    "/Characters/Character Files/Nightmare.md",
-    "/Characters/Character Files/Mori Carney.md",
-    "/Characters/Character Files/Millie Fitzsimmons Afton.md",
+    "Families/Riddle.md",
     "Families",
-    "/Families",
-    "Universes/Pocket Dimensions/Hell's Pockets",
-    "Universes/UniLuck",
-    "Universes/UniDark",
-    "Universes/Pocket Dimensions",
-    "Universes/FILENAME00",
-    "Universes",
+    "Factions/Hyrulian Kingdom.md",
+    "Factions/Crystal Guards.md",
+    "Factions/{template for factions}.md",
+    "Factions/{Factions Template}.md",
+    "Factions",
     "Files (To Be Digitised)",
-    "Factions"
+    "Characters/Character Files/Demon Of Space.md",
+    "Characters/Character Files/Kit Mcguire.md",
+    "Characters/Character Files/Foxer Vanater.md",
+    "Characters/Character Files/Lou Riddle.md",
+    "Characters/Character Files",
+    "Characters"
   ]
 }
