@@ -23,9 +23,11 @@
             "id": "4b4d0a20d88791d4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Characters/Character Files/Xes/Xes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/Teddy.md",
+                "file": "Characters/Character Files/Xes/Xes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/Teddy.md",
+                "file": "Characters/Character Files/Xes/Xes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/Teddy.md"
+                "file": "Characters/Character Files/Xes/Xes.md"
               }
             }
           }
@@ -159,11 +161,13 @@
   },
   "active": "4b4d0a20d88791d4",
   "lastOpenFiles": [
+    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+    "Characters/Character Files/Xes/Xes.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Characters/Character Files/Abbie Riddle.md",
     "Characters/Character Files/The Ostrich.md",
     "Characters/Character Files/Thomas Riddle.md",
     "Characters/Character Files/Tula Ossa Hellsing.md",
-    "Characters/Character Files/Xes/Xes.md",
-    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
     "Characters/Character Files/Xes/The Shade Cloak.md",
     "Characters/Character Files/Xes/Xes's Pendant.md",
     "Characters/Character Files/Lou Riddle.md",
@@ -181,8 +185,6 @@
     "Characters/Character Files/Cassidy Mcguire.md",
     "Characters/Character Files/Belle Riddle.md",
     "Characters/Character Files/All Characters.md",
-    "Characters/Character Files/Abbie Riddle.md",
-    "Characters/Character Files/{Character File Template}.md",
     "Information and Miscellaneous Files/README.md",
     "README.md",
     "Characters/Character Files/Xes",
