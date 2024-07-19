@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "154841e89647ba06",
+        "id": "0fdaf469e9de7e4e",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd7aff45bef7298",
+            "id": "b8f8830df9f779f1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,11 +123,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcd7aff45bef7298",
+  "active": "b8f8830df9f779f1",
   "lastOpenFiles": [
+    "Characters/Character Files/{Character File Template}.md",
     "conflict-files-obsidian-git.md",
     "Characters/Character Files/Xes.md",
-    "Characters/Character Files/{Character File Template}.md",
     "Locations.md",
     "Characters/All Characters.md",
     "Families/Golden.md",
