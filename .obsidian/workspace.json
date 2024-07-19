@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2ed91d843ff162",
+        "id": "76337428ab256a93",
         "type": "tabs",
         "children": [
           {
-            "id": "71489144f92a9075",
+            "id": "1d9e60df803edc5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character Files/Teddy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8651983d30ecfa59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Tula Ossa.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8651983d30ecfa59",
+  "active": "39b0ccb19eb891f5",
   "lastOpenFiles": [
     "Characters/All Characters.md",
     "Characters/Tula Ossa.md",
