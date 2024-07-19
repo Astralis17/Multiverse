@@ -1,10 +1,11 @@
 #Incomplete
-Fox is 9 years old, he is from {Universe} and he uses He/Him pronouns and he is Male in gender
-They currently reside at {Place of Residence}
+Fox is 9 years old, they are from {Universe} and they use He/Him pronouns and they are Male
 #### Contents
-- [[#Related Groups/Factions]]
+- [[#Related Groups]]
 - [[#Early Life]]
 - [[#Physical Description/Attributes]]
 - [[#Training and Abilities]]
 - [[#Family]]
-- [[#Resistances and Weaknesses]]
+- 
+##### Related Groups
+{Character} is part of {Current Affiliated Groups}, they used to be part of {Past Affiliated Groups}, they are no longer part of this group because {Insert Reason for Leaving Group} (Optional)
