@@ -28,7 +28,7 @@ This is a list of all characters that have been revealed to everyone who is play
 - [[Susie Golden]]
 - [[Teddy]]
 - [[Thomas Riddle]]
-- [[Tula Ossa]]
+- [[Tula Ossa Hellsing]]
 - [[Windsor Vanater]]
 - [[Xes]]
 
