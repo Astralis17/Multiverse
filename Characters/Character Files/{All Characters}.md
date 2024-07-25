@@ -92,7 +92,7 @@ This is a list of all characters that have been revealed to everyone who is play
 * [[Sara Carpenter]]
 * [[Scorpius M.]]
 * [[Sev Wood]]
-* [[Sev S.S.]]
+* [[Sev S. Wood]]
 * [[Shadow (hedgehog)]]
 * [[Shadow Colton]]
 * [[Simon Drew]]
