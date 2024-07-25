@@ -11,8 +11,12 @@
             "id": "1d9e60df803edc5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Files/{Character File Template}.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Tula Ossa.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Tula Ossa.md",
+                "file": "Characters/Character Files/{Character File Template}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Tula Ossa.md"
+                "file": "Characters/Character Files/{Character File Template}.md"
               }
             }
           }
@@ -142,41 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b0ccb19eb891f5",
+  "active": "1d9e60df803edc5a",
   "lastOpenFiles": [
+    "Characters/Character Files/Xes/Xes.md",
+    "Characters/Character Files/John Golden.md",
+    "Characters/Character Files/Windsor Vanater.md",
+    "Characters/Character Files/Tula Ossa Hellsing.md",
+    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "{NOTE TO EDITORS}",
+    "Universes/Universes.md",
+    "Universes/Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Universes/Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
+    "Universes/Dimensions/Hyrule.md",
+    "Universes/Dimensions/Hell's Pockets",
+    "Universes/Dimensions/Angelic Pockets",
+    "Universes/Dimensions",
+    "README.md",
+    "Factions/{Faction File Template}.md",
+    "Factions/The Slaughter Ace.md",
+    "Characters/Character Files/Xes",
+    "Characters/Character Files/All Characters.md",
     "Characters/All Characters.md",
     "Characters/Tula Ossa.md",
     "Characters/Character Files/Hellice Hellsing.md",
     "Characters/Character Files/Thomas Riddle.md",
     "Characters/Character Files/The Ostrich.md",
     "Characters/Character Files/Xes.md",
-    "Characters/Character Files/Windsor Vanater.md",
-    "Characters/Character Files/{Character File Template}.md",
     "conflict-files-obsidian-git.md",
     "Characters/Character Files/Teddy.md",
-    "Characters/Character Files/Xes/Xes.md",
     "Universes/Pocket Dimensions/Hell's Pockets/THE MINDSCAPE.md",
     "Universes/Pocket Dimensions/Hell's Pockets/Hell's Pockets.md",
     "Universes/Pocket Dimensions/Hell's Pockets",
     "Universes/Pocket Dimensions",
-    "Universes/Main.md",
-    "Files (To Be Digitised)/README.md",
-    "Factions/{template for factions}.md",
-    "Factions/{Factions Template}.md",
-    "Factions/The Slaughter Aces.md",
-    "Characters/Character Files/Xes/The Shade Cloak and Pendant.md",
-    "Characters/Character Files/Abbie Riddle.md",
-    "Characters/Character Files/Tula Ossa Hellsing.md",
-    "Characters/Character Files/Xes/The Shade Cloak.md",
-    "Characters/Character Files/Xes/Xes's Pendant.md",
-    "Characters/Character Files/Lou Riddle.md",
-    "Characters/Character Files/Link Henderson.md",
-    "Characters/Character Files/Kit Mcguire.md",
-    "Characters/Character Files/Xes",
-    "{NOTE TO EDITORS}",
-    "Universes/Dimensions/Hell's Pockets",
-    "Universes/Dimensions/Angelic Pockets",
-    "Universes/Dimensions",
     "Information and Miscellaneous Files",
     "info and misc",
     "Files (To Be Digitised)/Untitled"
