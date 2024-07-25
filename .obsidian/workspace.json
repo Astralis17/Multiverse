@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/{All Characters}.md",
+                "file": "Characters/Character Files/Isaac Wood.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/{All Characters}.md",
+                "file": "Characters/Character Files/Isaac Wood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/{All Characters}.md",
+                "file": "Characters/Character Files/Isaac Wood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/{All Characters}.md"
+                "file": "Characters/Character Files/Isaac Wood.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "79c87932bc76d0ff",
   "lastOpenFiles": [
-    "Characters/Character Files/Isaac Wood.md",
     "Characters/Character Files/{All Characters}.md",
+    "Characters/Character Files/Isaac Wood.md",
+    "Characters/Character Files/Ignite Vanater.md",
     "Characters/Character Files/Sev Wood.md",
     "Characters/Character Files/Sev S. Wood.md",
     "Characters/Character Files/Ruby Wood.md",
@@ -186,7 +187,6 @@
     "Characters/Character Files/Puppet.md",
     "Characters/Character Files/Raph Fitzsimmons-Afton.md",
     "Characters/Character Files/Raven Shade.md",
-    "Characters/Character Files/Ruby S..md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/Dimensions/Angelic Pockets",
