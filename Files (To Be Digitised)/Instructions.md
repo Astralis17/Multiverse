@@ -1,1 +1,1 @@
-Place images of any physical documentation in this folder to be digitised and formatted
+Place images of any physical documentation in this folder to be digitised and formatted![[Screenshot_20240723_233336.jpg]]
