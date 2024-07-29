@@ -17,13 +17,13 @@ Belle grew up in [[Applewood]] and went between living with her parents and in [
 ##### Physical Description/Attributes
 Belle is 5'9/175cm tall, has a stern, slim build, green eyes, black hair and pale skin. Her left eye is a ghostly white and she has major scarring on the arms, back of neck and up along the left leg. She walks with a limp and is half blind. Her typical apparrel includes her work [[The Dojo]] hoodie and/or oil stained jeans or her work button up shirt.
 
-#####Training and Abilities
-Belle trained with two different mentors, [[Lou Riddle]] and [[Garcello Golden]] at [[Elemental HQ]]
-Due to them being the Elemental of {Insert Element}, they have power over {Element or in Tula’s case Bones}
-(For Characters with a specific item) {Item} is one of/is {Character}’s main sources of power
+##### Training and Abilities
+Belle trained with two different mentors, [[Lou Riddle]] and [[Garcello Golden]] at [[Elemental HQ]]. Due to them being the Elemental of Water, they have power over bodies of water in all forms. Her Oracula is named Fiji.
 ##### Family
-{Character} is part of the {Surname} family 
-Their parents are {Characters Parents}, their siblings include {List of Siblings (link them) }
+Belle is part of the Riddle family 
+Their parents are [[BSR]] and [[TSR]], their siblings include [[Lou Riddle]], [[Thomas Riddle]], and [[Del Riddle]] 
 
 ##### Resistances and Weaknesses
-{Insert information}
+Resistances; Blunt attacks, stabbing attacks (not from those of higher PLs)
+
+Weaknesses; Mental and emotional attacks, short temper 
