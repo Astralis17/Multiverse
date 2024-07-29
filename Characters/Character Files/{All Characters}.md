@@ -30,6 +30,7 @@ This is a list of all characters that have been revealed to everyone who is play
 * [[Finn Vanater]]
 * [[Fox Byrne]]
 * [[Foxer Vanater]]
+* [[Frank]]
 * [[Fritz Jones]]
 * [[Gabriel Coleman]]
 * [[Galactus]]
