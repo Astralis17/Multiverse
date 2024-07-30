@@ -34,3 +34,25 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 
 ##### Resistances and Weaknesses
 {Insert information}
+
+
+#### Tags
+###### Meta Tags
+- #Incomplete 
+- #OC
+- #OCFromMedia
+- #FromMedia
+- #Sketchpad
+- #Amber
+- #Aurora
+- #Midas
+- #Anty
+
+##### Lore Tags
+- #BasicallyDead
+- #ActuallyDead
+- #Living
+- #UniLuck
+- #UniDark
+- #UniLuck 
+- #FILENAME00

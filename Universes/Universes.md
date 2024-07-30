@@ -5,5 +5,6 @@ The universes are as follows
 - [[FILENAME00]]
 - [[UniDark]] 
 - [[UniLuck]]
+- [[UniDust]]
 ##### Notable Dimensions
 - [[Hyrule]]
