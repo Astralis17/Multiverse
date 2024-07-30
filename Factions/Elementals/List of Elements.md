@@ -61,7 +61,7 @@ There are 59 total Elementals in UniLuck
 - Crystal
 - Wood
 - Prediction
-
+* stone
 #### Sky Suit
 - Wind
 - Star
