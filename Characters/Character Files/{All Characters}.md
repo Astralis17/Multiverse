@@ -23,7 +23,6 @@ This is a list of all characters that have been revealed to everyone who is play
 * [[Dark Riddle]]
 * [[Daydream]]
 * [[Del Riddle]]
-* [[DOS]]
 * [[Draco M.]]
 * [[Elizabeth Afton]]
 * [[Elliot Star]]
