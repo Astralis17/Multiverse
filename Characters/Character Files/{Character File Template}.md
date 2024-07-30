@@ -38,9 +38,9 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 
 #### Tags
 ###### Meta Tags
-- #Incomplete 
-- #OC
-- #OCFromMedia
+- #Incomplete - File is incomplete
+- #OC - Completely original character
+- #OCFromMedia - Character is altered from original meaning
 - #FromMedia
 - #Sketchpad
 - #Amber
@@ -49,10 +49,11 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 - #Anty
 
 ##### Lore Tags
-- #BasicallyDead
-- #ActuallyDead
-- #Living
-- #UniLuck
-- #UniDark
-- #UniLuck 
+- #BasicallyDead - Character hasn't been played in a while
+- #UnDead - Character is dead but not passed on
+- #GoneDead - Character is dead and passed on
+- #Living - Character is 100% alive 
+- #UniDark - Character is from [[UniDark]]
+- #UniLuck - Character is from [[UniLuck]]
+- #UniDust - Character is from [[UniDust]]
 - #FILENAME00
