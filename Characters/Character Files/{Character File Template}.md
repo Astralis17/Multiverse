@@ -30,7 +30,7 @@ They currently reside at {Place of Residence}
 (For Characters with a specific item) {Item} is one of/is {Character}’s main sources of power
 ##### Family
 {Character} is part of the {Surname} family 
-Their parents are {Characters Parents}, their siblings include {List of Siblings (link them) }
+Their parents are {Characters Parents}, their siblings include; {List of Siblings (link them) }. (If they have kids) {Character} also has kids at some point, they include; {List of children (link them (if they aren't a child thats been played, make character file in the "More Characters" folder) ) }
 
 ##### Resistances and Weaknesses
 {Insert information}
@@ -47,6 +47,7 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 - #Aurora - Character was created by Aurora
 - #Midas  - Character was created by Midas
 - #Anty - Character was created by Anthony
+- #Dan - Character was created by Dan
 
 ##### Lore Tags
 - #BasicallyDead - Character hasn't been played in a while
