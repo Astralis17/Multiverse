@@ -40,13 +40,13 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 ###### Meta Tags
 - #Incomplete - File is incomplete
 - #OC - Completely original character
-- #OCFromMedia - Character is altered from original meaning
-- #FromMedia
-- #Sketchpad
-- #Amber
-- #Aurora
-- #Midas
-- #Anty
+- #OCFromMedia - Character is altered from original media
+- #FromMedia - Character is used from an existing media
+- #Sketchpad - Character was created by Bee
+- #Amber - Character was created by Amber
+- #Aurora - Character was created by Aurora
+- #Midas  - Character was created by Midas
+- #Anty - Character was created by Anthony
 
 ##### Lore Tags
 - #BasicallyDead - Character hasn't been played in a while
@@ -56,4 +56,5 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 - #UniDark - Character is from [[UniDark]]
 - #UniLuck - Character is from [[UniLuck]]
 - #UniDust - Character is from [[UniDust]]
-- #FILENAME00
+- #FILENAME00 - Character is from [[FILENAME00]]
+- #Chaosic - Character is a Chaosic and/or related to [[THE PLAINE]]
