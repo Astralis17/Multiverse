@@ -26,7 +26,7 @@ They currently reside at {Place of Residence}
 {Insert Apparel}
 ##### Training and Abilities
 {Character} trained with {Trainer} at {Place of Training}
-(For Elementals) Due to them being the Elemental of {Insert Element}, they have power over {Element or in Tula’s case Bones}
+(For Elementals) Due to them being the Elemental of {Insert Element}, they have power over {Element or in Tula’s case Bones} and their Oracula is named {Name of Oracula}
 (For Characters with a specific item) {Item} is one of/is {Character}’s main sources of power
 ##### Family
 {Character} is part of the {Surname} family 
