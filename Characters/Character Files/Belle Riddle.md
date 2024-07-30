@@ -14,7 +14,7 @@ They currently reside at [[The Dojo]]
 Belle is the leader of [[The Slaughter Aces]] and is the owner of [[The Dojo]]. She is part of other groups such as the [[TCC]] and the [[Fazbear Workers]]. She used to be part of [[Multiversal Travellers]] group, but she is no longer a part of this group because she quit travelling the Multiverse in wake of [[The NRF]] preparations.
 
 ##### Early Life
-Belle grew up in [[Applewood]] and went between living with her parents and in [[Jessie's Home for Children]]. When she was 6 years old, she was encountered by the [[DOS]] (Demon of Space), who aimed to kill her. In the fight she was brutally injured, resulting in her losing her left eye and the Demon dying. This would spark a lifelong fued between her and his son. (More about this in the [[Demon of Space's Death]] file).
+Belle grew up in [[Applewood]] and went between living with her parents and in [[Jessie's Home for Children]]. When she was 6 years old, she was encountered by the [[Demon Of Space]], who aimed to kill her. In the fight she was brutally injured, resulting in her losing her left eye and the Demon dying. This would spark a lifelong fued between her and his son. (More about this in the [[Demon of Space's Death]] file).
 ##### Physical Description/Attributes
 Belle is 5'9/175cm tall, has a stern, slim build, green eyes, black hair and pale skin. Her left eye is a ghostly white and she has major scarring on the arms, back of neck and up along the left leg. She walks with a limp and is half blind. Her typical apparrel includes her work [[The Dojo]] hoodie and/or oil stained jeans or her work button up shirt.
 
