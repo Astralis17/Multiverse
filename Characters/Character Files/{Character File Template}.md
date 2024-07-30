@@ -37,7 +37,7 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 
 
 #### Tags
-###### Meta Tags
+##### Meta Tags
 - #Incomplete - File is incomplete
 - #OC - Completely original character
 - #OCFromMedia - Character is altered from original media
