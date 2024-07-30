@@ -1,6 +1,6 @@
 #Incomplete 
 
-There are 64 total Elementals in UniLuck
+There are 60 total Elementals in UniLuck
 #### Water Suit
 - Water
 - Ice
@@ -61,6 +61,7 @@ There are 64 total Elementals in UniLuck
 - Crystal
 - Wood
 - Prediction
+- Stone
 
 #### Sky Suit
 - Wind
