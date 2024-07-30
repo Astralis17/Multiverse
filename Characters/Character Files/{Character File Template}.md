@@ -58,4 +58,4 @@ Their parents are {Characters Parents}, their siblings include; {List of Sibling
 - #UniLuck - Character is from [[UniLuck]]
 - #UniDust - Character is from [[UniDust]]
 - #FILENAME00 - Character is from [[FILENAME00]]
-- #Chaosic - Character is a Chaosic and/or related to [[THE PLAINE]]
+- #Chaosic - Character is a Chaosic and/or related to [[THE PLANE]]
