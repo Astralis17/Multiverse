@@ -1,4 +1,3 @@
-#Incomplete
 This is a guide/template for creating and 
 formatting character files 
 After the [[#~~~~~~~~~~~~~~~~~~~~~~~~~|line]] is where the template begins
