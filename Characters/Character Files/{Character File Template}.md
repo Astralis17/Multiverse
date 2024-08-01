@@ -25,11 +25,11 @@ They currently reside at {Place of Residence}
 {Insert Apparel}
 ##### Training and Abilities
 {Character} trained with {Trainer} at {Place of Training}
-(For Elementals) Due to them being the Elemental of {Insert Element}, they have power over {Element or in Tula’s case Bones}
+(For Elementals) Due to them being the Elemental of {Insert Element}, they have power over {Element or in Tula’s case Bones} and their Oracula is named {Name of Oracula}
 (For Characters with a specific item) {Item} is one of/is {Character}’s main sources of power
 ##### Family
 {Character} is part of the {Surname} family 
-Their parents are {Characters Parents}, their siblings include {List of Siblings (link them) }
+Their parents are {Characters Parents}, their siblings include; {List of Siblings (link them) }. (If they have kids) {Character} also has kids at some point, they include; {List of children (link them (if they aren't a child thats been played, make character file in the "More Characters" folder) ) }
 
 ##### Resistances and Weaknesses
 {Insert information}
@@ -46,6 +46,7 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 - #Aurora - Character was created by Aurora
 - #Midas  - Character was created by Midas
 - #Anty - Character was created by Anthony
+- #Dan - Character was created by Dan
 
 ##### Lore Tags
 - #BasicallyDead - Character hasn't been played in a while
@@ -56,4 +57,4 @@ Their parents are {Characters Parents}, their siblings include {List of Siblings
 - #UniLuck - Character is from [[UniLuck]]
 - #UniDust - Character is from [[UniDust]]
 - #FILENAME00 - Character is from [[FILENAME00]]
-- #Chaosic - Character is a Chaosic and/or related to [[THE PLAINE]]
+- #Chaosic - Character is a Chaosic and/or related to [[THE PLANE]]
