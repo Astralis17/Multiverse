@@ -16,7 +16,7 @@ Abigail is part of the [[The Kindergarten Coup]] and the [[The Slaughter Aces]],
 ##### Early Life
 Abbie spent most of her earl(ier) life going to the [[Freddy's Locations]] with [[Belle Riddle]], accompanied by her cousin [[Teddy McGuire]], before becoming a Multiversal Traveller as mentioned before. When she was around 4, word about [[Nightmare]]'s return was in full swing, this was when the three moved back to [[UniLuck]] to open [[The Dojo]]. She did not fight in the war but mainly hung around the reception and medic areas.
 ##### Physical Description/Attributes
-Abigail is {Height} tall, has a {Build type} build, {Insert information about eyes, hair, skin tone, }, {Insert notable markings or features (tattoos, etc) }, {Insert physical disabilities}
+Abigail is 4 foot tall, has a {Build type} build, {Insert information about eyes, hair, skin tone, }, {Insert notable markings or features (tattoos, etc) }, {Insert physical disabilities}
 {Insert Apparel}
 ##### Training and Abilities
 {Character} trained with {Trainer} at {Place of Training}
