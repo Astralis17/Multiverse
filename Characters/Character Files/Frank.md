@@ -1,7 +1,7 @@
-#Incomplete 
+#Complete 
 
 Frank is from #UniLuck  and they use any pronouns but most refer to them with he/him pronouns and they are Genderfluid
-They currently reside at {Place of Residence}
+They currently reside at the [[Elemental HQ]] in the [[Universes/THE PLANE|THE PLANE]]
 #### Contents
 - [[#Related Groups/Factions]]
 - [[#Early Life]]
