@@ -96,7 +96,6 @@ This is a list of all characters that have been revealed to everyone who is play
 * [[Shadow (hedgehog)]]
 * [[Shadow Colton]]
 * [[Simon Drew]]
-* [[Sketchpad Carpenter]]
 * [[Skye J. Golden]]
 * [[Skye S. Golden]]
 * [[Sonic]]

@@ -6,6 +6,6 @@ List of people involved
 [[Skye J. Golden]]
 [[Marigold Golden]]
 [[Kit Mcguire]]
-[[Sketchpad Carpenter]]
+[[Sara Carpenter]]
 [[Catti Golden]]
 [[Fox Byrne]]
