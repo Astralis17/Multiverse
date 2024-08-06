@@ -3,7 +3,7 @@
 #### Contents
 - [[#History]]
 - [[#Goals]]
-- [[#Struggles]]
+- [[#Conflicts]]
 - [[#Members]]
 - [[#Related Factions]]
 ##### History

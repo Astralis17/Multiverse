@@ -1,7 +1,7 @@
  #Incomplete #Sketchpad #UniLuck 
 #OC #Living 
 
-Abigail is 8 years old, they are from UniLuck and she uses she/her pronouns.
+Abigail is 8 years old, they are from [[UniLuck]] and she uses she/her pronouns.
 They are known as Abigail, Abbie or Abbs.
 They currently reside at [[The Dojo]]
 #### Contents
