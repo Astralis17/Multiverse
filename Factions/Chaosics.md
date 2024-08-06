@@ -1,4 +1,4 @@
-#Complete
+#Complete #Chaosic 
 The Chaosics are less of a faction and more of a race, they are the deities of the Multiverse.
 Some are representative of concepts such as [[Time]] and [[Space]]. Others have specific reigns over certain groups, like [[Nightmare]] and the [[Elementals]], or [[Characters/Character Files/Galactus|Galactus]] and the [[Afterborn]].
 

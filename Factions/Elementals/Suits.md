@@ -1,6 +1,5 @@
 #Incomplete 
 
-
 ### What are Suits?
 - Elemental Suits are the sub-catagories of Elements. Each Suit has a leader that is defined by their [[Power Levels]].
 
