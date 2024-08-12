@@ -34,7 +34,7 @@
 - Light
 - Life
 - Electricity
-- Sun
+- Day
 - Purification
 - Peace
 
@@ -42,7 +42,7 @@
 - Dark
 - Death
 - Shadow
-- Moon
+- Night
 - Corruption
 - War
 

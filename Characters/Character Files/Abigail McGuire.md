@@ -16,15 +16,11 @@ Abigail is part of the [[The Kindergarten Coup]] and the [[The Slaughter Aces]],
 ##### Early Life
 Abbie spent most of her earl(ier) life going to the [[Freddy's Locations]] with [[Belle Riddle]], accompanied by her cousin [[Teddy McGuire]], before becoming a Multiversal Traveller as mentioned before. When she was around 4, word about [[Nightmare]]'s return was in full swing, this was when the three moved back to [[UniLuck]] to open [[The Dojo]]. She did not fight in the war but mainly hung around the reception and medic areas.
 ##### Physical Description/Attributes
-Abigail is 4 foot tall, has a {Build type} build, {Insert information about eyes, hair, skin tone, }, {Insert notable markings or features (tattoos, etc) }, {Insert physical disabilities}
-{Insert Apparel}
+Abigail is 4 foot tall, has a small build, she has green eyes, red hair and pale skin.{She has a couple minor scars from her time in the Multiverse. She often wears a Slaughter Ace hoodie paired with trousers or a skirt, and in warmer months wears a menagerie of dresses.
 ##### Training and Abilities
-{Character} trained with {Trainer} at {Place of Training}
-(For Elementals) Due to them being the Elemental of {Insert Element}, they have power over {Element or in Tula’s case Bones}
-(For Characters with a specific item) {Item} is one of/is {Character}’s main sources of power
+Abigail goes on to train with her mother at [[The Dojo]]. Due to her being the Elemental of the Eclipse, she has power over maintaining the Sun and Moon, often working beside the Day and Night [[Elementals]] to keep the two aligned.
 ##### Family
-{Character} is part of the {Surname} family 
-Their parents are {Characters Parents}, their siblings include {List of Siblings (link them) }
+Abigail is part of the [[UniLuck Riddles]] family. Her adoptive parents are [[Belle Riddle]] and [[Cassidy Mcguire]], their siblings include [[Teddy McGuire]], [[Ray McGuire]] and [[Joy McGuire]].
 
 ##### Resistances and Weaknesses
-{Insert information}
+Resistances: 
