@@ -5,7 +5,7 @@ List of people involved
 [[Teddy McGuire]]
 [[Skye J. Golden]]
 [[Marigold Golden]]
-[[Kit Mcguire]]
+[[Kit McGuire]]
 [[Sara Carpenter]]
 [[Catti Golden]]
 [[Fox Byrne]]
