@@ -20,7 +20,7 @@ Abigail is 4 foot tall, has a small build, she has green eyes, red hair and pale
 ##### Training and Abilities
 Abigail goes on to train with her mother at [[The Dojo]]. Due to her being the Elemental of the Eclipse, she has power over maintaining the Sun and Moon, often working beside the Day and Night [[Elementals]] to keep the two aligned.
 ##### Family
-Abigail is part of the [[UniLuck Riddles]] family. Her adoptive parents are [[Belle Riddle]] and [[Cassidy Mcguire]], their siblings include [[Teddy McGuire]], [[Ray McGuire]] and [[Joy McGuire]].
+Abigail is part of the [[UniLuck Riddles]] family. Her adoptive parents are [[Belle Riddle]] and [[Cassidy Mcguire]], their siblings include [[Teddy McGuire]] (Adopted), [[Ray McGuire]] and [[Joy McGuire]] (Adopted)
 
 ##### Resistances and Weaknesses
-Resistances: 
+Resistances: Weather Elemental abilities
