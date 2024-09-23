@@ -1,15 +1,4 @@
 #Incomplete 
-{Name} is from {Universe} and was created (Year UniLuck Standard) by (if person or group is known) 
+{Name} is from {Universe} originally and now lives in {Universe} (optional). They were formed in {Year UniLuck Standard} by {optional in case person/group isn't known}. (Include optional general facts)
 #### Contents
-- [[#History]]
-- [[#Goals]]
-- [[#Conflicts]]
-- [[#Members]]
-- [[#Related Factions]]
-##### History
-##### Goals
-##### Struggles
-##### Members 
-##### Related Factions 
-
-(pleas telll me if you wahnt ot change this or give any critsaisums im tierd and im only sarting this till i have motavation )
+- 
