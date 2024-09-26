@@ -3,6 +3,6 @@
 ##### Linked with [[Afton]]
 
 #### Family Members Include
-- [[Raph Fitzsimmons-Afton]]
-- [[Amanda Fitzsimmons]]
+- [[Amanda Fitzsimmons-Afton]]
 - [[Millie Fitzsimmons-Afton]]
+- [[Raph Fitzsimmons-Afton]]

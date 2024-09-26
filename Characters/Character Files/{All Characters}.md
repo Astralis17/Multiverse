@@ -3,7 +3,7 @@ This is a list of all characters that have been revealed to everyone who is play
 
 * [[Abigail McGuire]]
 * [[Alice A.]]
-* [[Amanda Fitzsimmons]]
+* [[Amanda Fitzsimmons-Afton]]
 * [[Anakin (dragon)]]
 * [[Anakin Skywalker]]
 * [[Anankin (cat)]]
