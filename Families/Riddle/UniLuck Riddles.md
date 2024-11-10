@@ -1,6 +1,6 @@
 #Incomplete 
 
-##### Linked with Golden
+##### Linked with [[Golden]]
 
 #### Family Members Include
 - [[Belle Riddle]]

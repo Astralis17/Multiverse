@@ -1,4 +1,4 @@
-#Complete
+#Complete #Astralis 
 Xes is 25 years old, they are from {Universe} and they use Ze/They pronouns and they are Agender
 They currently reside at [[The Dojo]]
 #### Contents
@@ -11,7 +11,7 @@ They currently reside at [[The Dojo]]
 ##### Related Groups/Factions
 Xes is part of {Current Affiliated Groups}
 ##### Early Life
-Xes was created in Externa by [UNKNOWN] (Like not even Xes knows) in 1988 [PlaceHolder Universe] time, they have a sibling called The Observant. Xes and zer sibling lived together conducting tests to assess the mental faculties and problem solving capabilities of the local population. During Xes's time in Externa where ze have spent most of their life, they acquired a pendant with a purple gem and black chain ([[The Shade Cloak and Pendant#The Pendant|See More]])
+Xes was created in Externa by [UNKNOWN] (Like not even Xes knows) in 1988 [Placeholder Universe] time, they have a sibling called The Observant. Xes and zer sibling lived together conducting tests to assess the mental faculties and problem solving capabilities of the local population. During Xes's time in Externa where ze have spent most of their life, they acquired a pendant with a purple gem and black chain ([[The Shade Cloak and Pendant#The Pendant|See More]])
 ##### Physical Description/Attributes
 Xes is 176cm/6'9" tall, has a slender build, ze have purple eyes but can change depending on emotion, they do not possess hair of any kind and has metallic grey skin, ze are currently missing their left hand
 {Insert Apparel}
@@ -24,7 +24,7 @@ Xes is not part of any family in the typical sense due to them being an android,
 Their creator is [UNKNOWN] and their sibling is called The Observant. The Observant is similar to Xes in being an android but different in behaviour being less expressive and less 
 
 ##### Behaviours
-Contact with considerable levels of heat will excite the plasmoid within Xes causing an excess of energy making zem more irrational and more energetic but their body temperature will remain at it's regular levels, contact will cosiderable levels of cold will cause the plasmoid to need to be used more while also making Xes more tired and sluggish and cause zer body temperature to increase as more plasmoid is consumed
+Contact with considerable levels of heat will excite the plasmoid within Xes causing an excess of energy making zem more irrational and more energetic but their body temperature will remain at it's regular levels, contact will considerable levels of cold will cause the plasmoid to need to be used more while also making Xes more tired and sluggish and cause zer body temperature to increase as more plasmoid is consumed
 Whenever plasmoid is consumed it is converted into matter which can be used to regenerate small injuries or can be converted into plasmoid for further use using special technology
 ##### Resistances and Weaknesses
 They are fairly resistant to blunt force trauma, they can be thrown around and only come out with a couple of scratches, when cut they will begin to regenerate the area almost immediately, though this will become unviable after multiple injuries as the matter used to regenerate will be depleted
