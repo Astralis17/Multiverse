@@ -1,6 +1,6 @@
 #Complete 
 
-##Welcome to the Multiverse wiki hosted on GitHub
+## Welcome to the Multiverse wiki hosted on GitHub
 
 The is the how to for this little at home wiki 
 
