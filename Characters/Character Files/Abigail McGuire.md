@@ -16,7 +16,7 @@ Abigail is part of the [[The Kindergarten Coup]] and the [[The Slaughter Aces]],
 ##### Early Life
 Abbie spent most of her earl(ier) life going to the [[Freddy's Locations]] with [[Belle Riddle]], accompanied by her cousin [[Teddy McGuire]], before becoming a Multiversal Traveller as mentioned before. When she was around 4, word about [[Nightmare]]'s return was in full swing, this was when the three moved back to [[UniLuck]] to open [[The Dojo]]. She did not fight in the war but mainly hung around the reception and medic areas.
 ##### Physical Description/Attributes
-Abigail is 4 foot tall, has a small build, she has green eyes, red hair and pale skin.{She has a couple minor scars from her time in the Multiverse. She often wears a Slaughter Ace hoodie paired with trousers or a skirt, and in warmer months wears a menagerie of dresses.
+Abigail is 4 foot tall, has a small build, she has green eyes, red hair and pale skin.{She has a couple minor scars from her time in the Multiverse. She often wears a Slaughter Ace hoodie paired with trousers or a skirt, and in warmer months wears a menagerie of dresses.</marquee>
 ##### Training and Abilities
 Abigail goes on to train with her mother at [[The Dojo]]. Due to her being the Elemental of the Eclipse, she has power over maintaining the Sun and Moon, often working beside the Day and Night [[Elementals]] to keep the two aligned.
 ##### Family

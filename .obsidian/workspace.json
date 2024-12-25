@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4439f382725993",
+        "id": "8cd6b9474428e880",
         "type": "tabs",
         "children": [
           {
-            "id": "2f21a2dabb8452bd",
+            "id": "ef4f60ed980568c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Character Files/The Observant.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Observant"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stralis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +137,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,34 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f21a2dabb8452bd",
+  "active": "ef4f60ed980568c8",
   "lastOpenFiles": [
-    "Characters/Character Files/Vita.md",
-    "Characters/Character Files/Xes.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Characters/Character Files/Time.md",
-    "Factions/Chaosics.md",
-    "Factions/Crystal Guards.md",
-    "Characters/Character Files/Gehenna.md",
-    "Factions/{Faction File Template}.md",
-    "Factions/Fazbear Workers.md",
-    "Factions/Hellsing Family.md",
-    "Characters/Character Files/Finn Vanater.md",
+    "Universes/Locations Outside Universes/LIGHT & DARK.md",
+    "Universes/GLITCHING/GLITCHING LIST.md",
+    "Universes/GLITCHING/THE GLITCH.md",
+    "Universes/FILENAME00/FILENAME00.md",
+    "Universes/FILENAME00/Locations of FILENAME00.md",
+    "Universes/Locations Outside Universes/Outerverses.md",
+    "Universes/Locations Outside Universes/The Platforms.md",
+    "Universes/Locations Outside Universes/THE PLANE.md",
+    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
+    "Universes/Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "Universes/Dimensions/Hell's Pockets/DOS's Prison.md",
+    "Universes/Dimensions/Hell's Pockets/Tunnel of Fear.md",
+    "Universes/Dimensions/Hell's Pockets/The Woods.md",
+    "Universes/Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "Universes/Dimensions/Hell's Pockets/Kaleidoscope.md",
+    "Universes/Dwarf Universes/Dwarf Universes.md",
+    "README.md",
+    "Untitled.canvas",
     "Characters/Character Files/{All Characters}.md",
-    "Characters/Character Files/The Observant.md",
-    "Characters/Character Files/Zuzu.md",
-    "Characters/Important Accessories/The Shade Cloak and Pendant.md",
-    "Families/Golden.md",
-    "Families/Wood.md",
-    "Families/Vanater.md",
-    "Families/McGuire.md",
-    "Families/Henderson.md",
-    "Families/Drew.md",
+    "Characters/Character Files/Abigail McGuire.md",
+    "Characters/Character Files/Alice A..md",
+    "Characters/Character Files/Amanda Fitzsimmons-Afton.md",
+    "Characters/Souls.md",
     "Families/Carney.md",
-    "Families/Afton.md",
-    "Families/Riddle/UniDark Lances.md",
-    "Families/Riddle/UniDust Riddles.md",
-    "Families/Riddle/UniLuck Riddles.md",
+    "Characters/Character Files/Caelum.md",
+    "Characters/Character Files/Kit McGuire.md",
+    "Characters/Character Files/Metaknight.md",
     "Universes/Locations Outside Universes",
     "Universes/Dwarf Universes",
     "Families/Riddle",
