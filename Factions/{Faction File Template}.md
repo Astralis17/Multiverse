@@ -11,5 +11,3 @@
 ##### Struggles
 ##### Members 
 ##### Related Factions 
-
-(pleas telll me if you wahnt ot change this or give any critsaisums im tierd and im only sarting this till i have motavation )

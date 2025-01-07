@@ -1,11 +1,11 @@
 #Incomplete 
 
 #### Family Members Include
-- [[William Afton]]
-- [[Micheal Afton]]
-- [[Elizabeth Afton]]
+- [[Amanda Fitzsimmons-Afton]]
 - [[Chris Afton]]
-- [[Vincent Afton]]
-- [[Raph Fitzsimmons-Afton]]
-- [[Amanda Fitzsimmons]]
+- [[Elizabeth Afton]]
+- [[Micheal Afton]]
 - [[Millie Fitzsimmons-Afton]]
+- [[Raph Fitzsimmons-Afton]]
+- [[Vincent Afton]]
+- [[William Afton]]

@@ -1,17 +1,18 @@
 #Incomplete 
 
-##### Linked with [[UniLuck Riddles|Riddle]]
+##### Linked with [[Riddle]]
 
 #### Family Members Include
-- [[Garcello Golden]]
-- [[Gannon Golden]]
-- [[Susan Golden]]
-- [[John Golden]]
 - [[Andrew Golden]]
-- [[Jules Golden]]
-- [[Susie Golden]]
 - [[Catti Golden]]
-- [[Skye J. Golden]]
+- [[Gannon Golden]]
+- [[Garcello Golden]]
+- [[John Golden]]
+- [[Jules Golden]]
 - [[Marigold Golden]]
+- [[Skye J. Golden]]
+- [[Susan Golden]]
+- [[Susie Golden]]
+
 
 

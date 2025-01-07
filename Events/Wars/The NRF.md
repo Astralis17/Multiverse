@@ -1,4 +1,4 @@
-#Incomplete 
+#Incomplete #UniLuck 
 
 #### Contents
 - [[#General Introduction]]
@@ -14,7 +14,7 @@
 Preparations for [[The NRF]] started in 2011UL. [[The Slaughter Aces]] prepared by [[Belle Riddle]] by starting up [[The Dojo]] to recruit warriors from across the local [[Universes]] to train for the war. And [[Daydream]] prepared by raising an army of [[Afterborn]] and also used a plethora of fooling tactics to try recruit [[The Slaughter Aces]], particularly their [[Elementals]] allies.
 
 ### Sides
-{Side one} included important people/factions such as {examples} and was led by {Leader}. {Side two} included important people/factions such as {examples} and was led by {Leader}.
+[[The Slaughter Aces]] included important people/factions such as {examples} and was led by {Leader}. {Side two} included important people/factions such as {examples} and was led by {Leader}.
 
 ### Key Events
 In timeline order:

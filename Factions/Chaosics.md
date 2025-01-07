@@ -21,8 +21,8 @@ After Space had brought creation to its namesake and named it [[Universes/Locati
 - [[Mors]] - Giving death and discouraging exploration among their fellow beings
 - [[Nightmare]] - Maintaining Balance and justice among his fellow beings
 - [[Characters/Character Files/Galactus|Galactus]] - Maintaining Instability and justice among his fellow beings
-- [[Space]] - Sharing the ability to experience among their fellow beings
-- [[Time]] - Limiting the ability to experience among their fellow beings
+- [[Space]] - Sharing the ability to expierence among their fellow beings
+- [[Time]] - Limiting the ability to expierence among their fellow beings
 
 ##### Conflicts
 Naturally, because of the conflicting [[#Goals]] of the Chaosics, disputes and wars against one another are a given. Three (relevant to UniLuck) examples are the [[The War on Night]], [[The NRF]] and the [[Chaos Capture]]. By far the most conflicts were started by [[Nightmare]] and [[Characters/Character Files/Galactus|Galactus]] or [[Vita]] and [[Mors]].

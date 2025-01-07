@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd6b9474428e880",
+        "id": "ac5a3db83605c7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4f60ed980568c8",
+            "id": "7874fc4a6436e013",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Important Accessories/Grimm Shot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -37,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -54,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -64,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -89,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Important Accessories/Grimm Shot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -107,11 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Important Accessories/Grimm Shot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -122,9 +116,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -132,13 +124,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
+              "state": {
+                "file": "Characters/Important Accessories/Grimm Shot.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,41 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4f60ed980568c8",
+  "active": "7874fc4a6436e013",
   "lastOpenFiles": [
-    "Universes/Locations Outside Universes/LIGHT & DARK.md",
-    "Universes/GLITCHING/GLITCHING LIST.md",
-    "Universes/GLITCHING/THE GLITCH.md",
-    "Universes/FILENAME00/FILENAME00.md",
-    "Universes/FILENAME00/Locations of FILENAME00.md",
-    "Universes/Locations Outside Universes/Outerverses.md",
+    "Factions/Afterborn/Blacklight Demons.md",
+    "Factions/Afterborn/Afterborn.md",
+    "Events/The Balance Trials/Trial 2 - UniSwap.md",
+    "Events/The Balance Trials/Trial 1 - Light and Dark.md",
     "Universes/Locations Outside Universes/The Platforms.md",
     "Universes/Locations Outside Universes/THE PLANE.md",
-    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
-    "Universes/Dimensions/Hell's Pockets/Hell's Pockets.md",
-    "Universes/Dimensions/Hell's Pockets/DOS's Prison.md",
-    "Universes/Dimensions/Hell's Pockets/Tunnel of Fear.md",
-    "Universes/Dimensions/Hell's Pockets/The Woods.md",
-    "Universes/Dimensions/Hell's Pockets/THE MINDSCAPE.md",
-    "Universes/Dimensions/Hell's Pockets/Kaleidoscope.md",
-    "Universes/Dwarf Universes/Dwarf Universes.md",
-    "README.md",
-    "Untitled.canvas",
-    "Characters/Character Files/{All Characters}.md",
-    "Characters/Character Files/Abigail McGuire.md",
-    "Characters/Character Files/Alice A..md",
-    "Characters/Character Files/Amanda Fitzsimmons-Afton.md",
-    "Characters/Souls.md",
-    "Families/Carney.md",
-    "Characters/Character Files/Caelum.md",
-    "Characters/Character Files/Kit McGuire.md",
-    "Characters/Character Files/Metaknight.md",
+    "Universes/Locations Outside Universes/Outerverses.md",
+    "Universes/Locations Outside Universes/Light and Dark.md",
     "Universes/Locations Outside Universes",
+    "Universes/Dwarf Universes/Dwarf Universes.md",
     "Universes/Dwarf Universes",
+    "Families/Riddle/UniLuck Riddles.md",
+    "Families/Riddle/UniDust Riddles.md",
+    "Families/Riddle/UniDark Lances.md",
     "Families/Riddle",
     "Factions/Afterborn",
+    "Events/Wars/Chaos Capture.md",
+    "Events/The Balance Trials/Trial 6 - Flip the Switch.md",
+    "Events/The Balance Trials/Trial 5 - Tunnel of Fear.md",
+    "Events/The Balance Trials/Trial 4 - Kidnapped Court.md",
+    "Events/The Balance Trials/Trial 3 - Prison Breakout.md",
+    "Events/The Balance Trials/The Balance Trials.md",
     "Events/The Balance Trials",
+    "Characters/Important Accessories/The Shade Cloak and Pendant.md",
+    "Characters/Important Accessories/Important Accessories.md",
+    "Characters/Important Accessories/Grimm Shot.md",
     "Characters/Important Accessories",
+    "Characters/Character Files/Mors.md",
+    "Characters/Character Files/Kit McGuire.md",
+    "Characters/Character Files/Tula Ossa Hellsing.md",
+    "Characters/Character Files/Isaac Wood.md",
+    "Characters/Character Files/{All Characters}.md",
     "{NOTE TO EDITORS}",
     "Universes/Dimensions/Hell's Pockets",
     "Universes/Dimensions/Angelic Pockets",
