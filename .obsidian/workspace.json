@@ -11,10 +11,14 @@
             "id": "8152028b64f65de2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Important Accessories/The Shade Cloak and Pendant.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Shade Cloak and Pendant"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Important Accessories/The Shade Cloak and Pendant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Shade Cloak and Pendant"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Important Accessories/The Shade Cloak and Pendant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Shade Cloak and Pendant"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Characters/Important Accessories/The Shade Cloak and Pendant.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Shade Cloak and Pendant"
             }
           }
         ]
@@ -156,41 +164,41 @@
   },
   "active": "8152028b64f65de2",
   "lastOpenFiles": [
+    "Characters/Important Accessories/The Portal skull and Rib door.md",
     "Characters/Character Files/The Observant.md",
     "Characters/Character Files/Xes.md",
-    "Characters/Important Accessories/The Shade Cloak and Pendant.md",
-    "Characters/Character Files/{All Characters}.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Families/Afton.md",
-    "Characters/Important Accessories/The Portal skull and Rib door.md",
-    "{NOTE TO EDITORS}/RULES OF THE GAME.md",
-    "Characters/Important Accessories/Grimm Shot.md",
-    "Factions/Afterborn/Blacklight Demons.md",
-    "Factions/Afterborn/Afterborn.md",
-    "Events/The Balance Trials/Trial 2 - UniSwap.md",
-    "Events/The Balance Trials/Trial 1 - Light and Dark.md",
-    "Universes/Locations Outside Universes/The Platforms.md",
-    "Universes/Locations Outside Universes/THE PLANE.md",
-    "Universes/Locations Outside Universes/Outerverses.md",
-    "Universes/Locations Outside Universes/Light and Dark.md",
-    "Universes/Locations Outside Universes",
-    "Universes/Dwarf Universes/Dwarf Universes.md",
-    "Universes/Dwarf Universes",
-    "Families/Riddle/UniLuck Riddles.md",
-    "Families/Riddle/UniDust Riddles.md",
-    "Families/Riddle/UniDark Lances.md",
-    "Families/Riddle",
-    "Factions/Afterborn",
-    "Events/Wars/Chaos Capture.md",
-    "Events/The Balance Trials/Trial 6 - Flip the Switch.md",
-    "Events/The Balance Trials/Trial 5 - Tunnel of Fear.md",
-    "Events/The Balance Trials/Trial 4 - Kidnapped Court.md",
-    "Events/The Balance Trials/Trial 3 - Prison Breakout.md",
-    "Events/The Balance Trials",
-    "Characters/Important Accessories",
-    "{NOTE TO EDITORS}",
-    "Universes/Dimensions/Hell's Pockets",
-    "Universes/Dimensions/Angelic Pockets",
-    "Universes/Dimensions"
+    "Families/Golden.md",
+    "backup/{NOTE TO EDITORS}/RULES OF THE GAME.md",
+    "backup/{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "backup/{NOTE TO EDITORS}",
+    "backup/Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
+    "backup/Universes/Dimensions/Hell's Pockets/THE MINDSCAPE.md",
+    "backup/Universes/Dimensions/Hell's Pockets/Types of Hell's Pocket.md",
+    "backup/Universes/Dimensions/Hell's Pockets/Tunnel of Fear.md",
+    "backup/Universes/Dimensions/Hell's Pockets/The Woods.md",
+    "backup/Universes/Dimensions/Hell's Pockets/Kaleidoscope.md",
+    "backup/Universes/Dimensions/Hell's Pockets/Hell's Pockets.md",
+    "backup/Universes/Dimensions/Hell's Pockets/DOS's Prison.md",
+    "backup/Universes/UniLuck/Applewood.md",
+    "backup/Universes/Locations Outside Universes/THE PLANE.md",
+    "backup/Universes/UniLuck/UniLuck.md",
+    "backup/Universes/UniLuck/Locations of UniLuck.md",
+    "backup/Universes/UniLuck/The Dojo.md",
+    "backup/Universes/UniLuck/Jessie's Home for Children.md",
+    "backup/Universes/UniLuck/Elemental HQ.md",
+    "backup/Universes/UniLuck/Freddy's Locations.md",
+    "backup/Universes/UniDust/UniDust.md",
+    "backup/Universes/UniDust/Locations in UniDust.md",
+    "backup/Universes/UniDark/UniDark.md",
+    "backup/Universes/UniDark/Locations of UniDark.md",
+    "backup/Universes/Dimensions/Angelic Pockets",
+    "backup/Universes/Dimensions/Hell's Pockets",
+    "backup/Universes/UniLuck",
+    "backup/Universes/UniDust",
+    "backup/Universes/UniDark",
+    "backup/Universes/Locations Outside Universes",
+    "backup/Universes/GLITCHING",
+    "backup/Universes/Dwarf Universes",
+    "backup/Universes/FILENAME00"
   ]
 }
