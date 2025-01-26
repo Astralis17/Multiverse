@@ -6,7 +6,6 @@ The Cloak is made of a shadowy material which flows and shifts constantly, it is
 
 It is currently owned by [[Xes]] and can be stored within [[#The Pendant]]
 
-
 #### The Pendant
 The Pendant was also just a piece of apparel which Xes's acquired during zer time in [[Externa]], until [[#The Shade Cloak]] decided to possess the pendant after the [[Demon Of Space]] attacked [[The Dojo]] 
 

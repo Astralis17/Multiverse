@@ -1,8 +1,10 @@
 #Incomplete 
 
 #### Family Members Include
-- [[Sev S. Wood]]
-- [[Maria Wood]]
-- [[Sev Wood]]
-- [[Ruby Wood]]
 - [[Isaac Wood]]
+- [[Jacob Vanater]]
+- [[Maria Wood]]
+- [[Ruby Wood]]
+- [[Sev S. Wood]]
+- [[Sev Wood]]
+
