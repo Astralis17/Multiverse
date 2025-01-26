@@ -10,9 +10,9 @@ Some are representative of concepts such as [[Time]] and [[Space]]. Others have 
 - [[#Related Factions]]
 
 ##### History
-Originally the Multiverse didn't exist (shock horror /s) as didn't the passage of time. With a spark, the first two Chaosics came into existence, [[Caelum]] and [[Gehenna]], the first two beings. From the ideals of those two came the Conjurer and the Destroyer, [[Vita]] and [[Mors]]. These four formless existences "lived" for the indefinite amount of time before came the arrival of the last four Chaosics, Bringers of Balance and of Instability, [[Nightmare]] and [[Characters/Character Files/Galactus|Galactus]], and the two Guardians of what would be [[Universes/Locations Outside Universes/THE PLANE|THE PLANE]] of the Multiverse, [[Space]] and [[Time]].
+Originally the Multiverse didn't exist (shock horror /s) as didn't the passage of time. With a spark, the first two Chaosics came into existence, [[Caelum]] and [[Gehenna]], the first two beings. From the ideals of those two came the Conjurer and the Destroyer, [[Vita]] and [[Mors]]. These four formless existences "lived" for the indefinite amount of time before came the arrival of the last four Chaosics, Bringers of Balance and of Instability, [[Nightmare]] and [[Characters/Character Files/Galactus|Galactus]], and the two Guardians of what would be [[THE PLAINE|THE PLAINE]] of the Multiverse, [[Space]] and [[Time]].
 
-After Space had brought creation to its namesake and named it [[Universes/Locations Outside Universes/THE PLANE|THE PLANE]], the eldest four Chaosics were reborn from their once metaphysical forms into physical ones. [[Vita]] and [[Mors]] were assigned to create and maintain the Universes inside the Multiverse, while [[Nightmare]] and [[Characters/Character Files/Galactus|Galactus]] worked to uphold it's inhabitants, they did so by creating and being the Guardians of two widespread imperfect mortal groups, the [[Elementals]] for [[Nightmare]], and the [[Afterborn]] for [[Galactus]].
+After Space had brought creation to its namesake and named it [[THE PLAINE|THE PLAINE]], the eldest four Chaosics were reborn from their once metaphysical forms into physical ones. [[Vita]] and [[Mors]] were assigned to create and maintain the Universes inside the Multiverse, while [[Nightmare]] and [[Characters/Character Files/Galactus|Galactus]] worked to uphold it's inhabitants, they did so by creating and being the Guardians of two widespread imperfect mortal groups, the [[Elementals]] for [[Nightmare]], and the [[Afterborn]] for [[Galactus]].
 
 ##### Goals
 - [[Caelum]] - Spreading Virtue and Selflessness among its fellow beings
@@ -36,8 +36,8 @@ In total there are 8 Chaosics, and they're usually mentioned in pairs. Each Chao
 - [[Mors]] - Destroyer of the Universes, Chaosic of the [[Universes/Locations Outside Universes/Outerverses|Outerverses]]
 - [[Nightmare]] - Neutral Protector of Balance, Chaosic of the [[Elementals]]
 - [[Characters/Character Files/Galactus|Galactus]] - Neutral Enforcer of Instability, Chaosic of the [[Afterborn]]
-- [[Space]] - Bringer of Creation to [[Universes/Locations Outside Universes/THE PLANE|THE PLANE]] of the Multiverse
-- [[Time]] - Bringer of Entropy to [[Universes/Locations Outside Universes/THE PLANE|THE PLANE]] of the Multiverse
+- [[Space]] - Bringer of Creation to [[THE PLAINE|THE PLAINE]] of the Multiverse
+- [[Time]] - Bringer of Entropy to [[THE PLAINE|THE PLAINE]] of the Multiverse
 
 ##### Related Factions
 - [[Nightmare]] is the Guardian of the [[Elementals]]

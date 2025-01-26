@@ -3,12 +3,12 @@
 ##### Linked with Golden
 
 #### Family Members Include
-- [[Belle Riddle]]
 - [[BSR]]
-- [[Del Riddle]]
-- [[Joanna Riddle]]
-- [[Lou Riddle]]
-- [[Lou J. Riddle]]
-- [[Rose Riddle]]
-- [[Thomas Riddle]]
 - [[TSR]]
+- [[Lou Riddle]]
+- [[Thomas Riddle]]
+- [[Del Riddle]]
+- [[Rose Riddle]]
+- [[Lou J. Riddle]]
+- [[Joanna Riddle]]
+- [[Belle Riddle]]

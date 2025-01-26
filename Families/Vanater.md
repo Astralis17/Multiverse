@@ -3,9 +3,9 @@
 ##### Linked with [[Elementals]] 
 
 #### Family Members Include
-- [[Finn Vanater]]
-- [[Foxer Vanater]]
 - [[Ignite Vanater]]
-- [[Jacob Vanater]]
+- [[Finn Vanater]]
 - [[Lucas Vanater]]
+- [[Jacob Vanater]]
 - [[Windsor Vanater]]
+- [[Foxer Vanater]]

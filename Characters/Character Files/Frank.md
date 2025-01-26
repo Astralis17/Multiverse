@@ -1,7 +1,7 @@
-#Complete #OC #Amber #Living 
+#Complete #OC #Amber #Living #UniLuck 
 
-Frank is from #UniLuck and they use any pronouns but most refer to them with he/him pronouns and they are Genderfluid
-They currently reside at the [[Elemental HQ]] in the [[THE PLANE|THE PLANE]]
+Frank is from [[UniLuck]] and they use any pronouns but most refer to them with he/him pronouns and they are Genderfluid
+They currently reside at the [[Elemental HQ]] in the [[THE PLAINE|THE PLAINE]]
 #### Contents
 - [[#Related Groups/Factions]]
 - [[#Early Life]]
