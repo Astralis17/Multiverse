@@ -108,7 +108,7 @@ This is a list of all characters that have been revealed to everyone who is play
 * [[Susan Golden]]
 * [[Susie Golden]]
 * [[Teddy McGuire]]
-* [[The Observant (NO)]]
+* [[The Observant]]
 * [[Thomas Riddle]]
 * [[Tobias]]
 * [[Tonks]]

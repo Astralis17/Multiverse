@@ -11,7 +11,7 @@ They currently reside at [[The Dojo]]
 ##### Related Groups/Factions
 Xes is part of {Current Affiliated Groups}
 ##### Early Life
-Xes was created in Externa by [UNKNOWN] (Like not even Xes knows) in 1988 [PlaceHolder Universe] time, they have a sibling called [[The Observant (NO)]]. Xes and zer sibling lived together conducting tests to assess the mental faculties and problem solving capabilities of the local population. During Xes's time in Externa where ze have spent most of their life, they acquired a pendant with a purple gem and black chain ([[The Shade Cloak and Pendant#The Pendant|See More]])
+Xes was created in Externa by [UNKNOWN] (Like not even Xes knows) in 1988 [PlaceHolder Universe] time, they have a sibling called [[The Observant]]. Xes and zer sibling lived together conducting tests to assess the mental faculties and problem solving capabilities of the local population. During Xes's time in Externa where ze have spent most of their life, they acquired a pendant with a purple gem and black chain ([[The Shade Cloak and Pendant#The Pendant|See More]])
 ##### Physical Description/Attributes
 Xes is 176cm/6'9" tall, has a slender build, ze have purple eyes but can change depending on emotion, they do not possess hair of any kind and has metallic grey skin, ze are currently missing their left hand
 {Insert Apparel}

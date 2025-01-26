@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Character Files/The Observant (NO).md",
+                "file": "Characters/Character Files/The Observant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Observant (NO)"
+              "title": "The Observant"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/The Observant (NO).md",
+                "file": "Characters/Character Files/The Observant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Observant (NO)"
+              "title": "Backlinks for The Observant"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/The Observant (NO).md",
+                "file": "Characters/Character Files/The Observant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Observant (NO)"
+              "title": "Outgoing links from The Observant"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Character Files/The Observant (NO).md"
+                "file": "Characters/Character Files/The Observant.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Observant (NO)"
+              "title": "Outline of The Observant"
             }
           }
         ]
@@ -165,7 +165,7 @@
   "active": "81c03d43b86076f3",
   "lastOpenFiles": [
     "Characters/Character Files/Xes.md",
-    "Characters/Character Files/The Observant (NO).md",
+    "Characters/Character Files/The Observant.md",
     "Universes/UniTube/UniTube.md",
     "Universes/UniTube/Locations in UniTube.md",
     "Universes/UniTube",
