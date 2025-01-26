@@ -41,9 +41,9 @@ Their parents are {Characters Parents}, their siblings include; {List of Sibling
 - #OC - Completely original character
 - #OCFromMedia - Character is altered from original media
 - #FromMedia - Character is used from an existing media
-- #Sketchpad - Character was created by Bee
+- #Sketchpad - Character was created by Harvey
 - #Amber - Character was created by Amber
-- #Aurora - Character was created by Aurora
+- #Astralis - Character was created by Aurora
 - #Midas  - Character was created by Midas
 - #Anty - Character was created by Anthony
 - #Dan - Character was created by Dan
