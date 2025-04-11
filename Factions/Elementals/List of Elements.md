@@ -1,7 +1,7 @@
 #Incomplete 
 
 ## There are 60 total Elementals in UniLuck
-====================================
+___
 
 #### Water Suit
 - Water
