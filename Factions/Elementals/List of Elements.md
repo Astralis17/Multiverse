@@ -50,7 +50,7 @@ ___
 - Balance
 - Gravity
 - Eclipse
-- Ceremics
+- Health
 - Chance
 - Knowledge
 - Arts
