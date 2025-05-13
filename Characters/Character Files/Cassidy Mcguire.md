@@ -1,6 +1,6 @@
 #Incomplete #OCFromMedia #UnDead #UniLuck #Sketchpad 
 
-Cassidy is {Age} years old, they are from {Universe} and they use {Pronouns} pronouns and they are {Gender}
+Cassidy is 15 years old, she is from UniLuck and she uses she/her.
 They are known as {Aliases} (Optional)
 They currently reside at {Place of Residence}
 #### Contents
