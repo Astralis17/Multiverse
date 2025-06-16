@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/Rander/The Federation.md",
+                "file": "Universes/Andria/Andria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Federation"
+              "title": "Andria"
             }
           }
         ]
@@ -163,11 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6c1fe480dcb2fe2",
+  "active": "39b0ccb19eb891f5",
   "lastOpenFiles": [
+    "Universes/Andria",
+    "Universes/Yndarium/Yndarium.md",
+    "Universes/Andria/Andria.md",
+    "Universes/Rander/The Federation.md",
+    "Universes/Yndarium",
     "Universes/Rander/The Conglomerate.md",
     "Universes/Rander/Rander.md",
-    "Universes/Rander/The Federation.md",
     "Universes/Dexana/Dexana.md",
     "Universes/Rander/Untitled.md",
     "Universes/Rander/Solar System/Untitled",
@@ -188,7 +192,6 @@
     "Universes/Dexana/The Solar System/Caladra",
     "Universes/Dexana/The Solar System/Planet 3",
     "Universes/Dexana/The Solar System",
-    "Universes/Dexana",
     "Characters/Important Accessories/Domius Gladia.md",
     "Characters/Character Files/Abigail McGuire.md",
     "Characters/Character Files/Cassidy Mcguire.md",
@@ -197,8 +200,6 @@
     "Characters/Character Files/Belle Riddle.md",
     "Events/Wars/Chaos Capture.md",
     "Events/Wars/Earth's Collapse.md",
-    "Events/Wars/Fight From Home.md",
-    "Events/Wars/Lunatics Against Psychopaths.md",
-    "Events/Wars/War Template.md"
+    "Events/Wars/Fight From Home.md"
   ]
 }
