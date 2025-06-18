@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5476859dd37a7438",
+        "id": "b918130f58289c3e",
         "type": "tabs",
         "children": [
           {
-            "id": "307877844832b4e4",
+            "id": "aa23b5974c1462c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NOTE TO EDITORS"
             }
           }
         ]
@@ -160,8 +164,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "307877844832b4e4",
+  "active": "aa23b5974c1462c8",
   "lastOpenFiles": [
+    "{NOTE TO EDITORS}/RULES OF THE GAME.md",
+    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Souls.md",
+    "Universes/Universes.md",
     "Characters/Character Files/Xes.md",
     "Characters/Character Files/Charlie Emily.md",
     "Factions/Elementals/Suits.md",
@@ -183,11 +192,6 @@
     "Characters/Character Files/Zuzu.md",
     "Characters/Character Files/{Character File Template}.md",
     "Characters/Character Files/Abigail McGuire.md",
-    "Characters/Character Files/Anakin (dragon).md",
-    "Characters/Character Files/Amanda Fitzsimmons-Afton.md",
-    "Characters/Character Files/Alice A..md",
-    "Characters/Character Files/Anakin Skywalker.md",
-    "Characters/Character Files/Anankin (cat).md",
     "Characters/Character Files/More Characters",
     "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
     "Universes/P-3ST2ES3-L3",
