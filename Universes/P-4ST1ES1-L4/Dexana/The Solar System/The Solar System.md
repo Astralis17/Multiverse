@@ -1,4 +1,4 @@
-#Incomplete #Astralis
+#Incomplete #Astralis #Dexana
 The Solar system is home to the main POIs within [[Dexana]], it is made up of 5 planets and its star 
 
 [[#The Star]]

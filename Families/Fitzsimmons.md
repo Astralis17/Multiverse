@@ -4,5 +4,5 @@
 
 #### Family Members Include
 - [[Raph Fitzsimmons-Afton]]
-- [[Amanda Fitzsimmons]]
+- [[Amanda Fitzsimmons-Afton]]
 - [[Millie Fitzsimmons-Afton]]
