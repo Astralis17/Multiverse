@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete
 This is a list of all characters that have been revealed to everyone who is playing currently
 
@@ -27,7 +30,7 @@ This is a list of all characters that have been revealed to everyone who is play
 * [[Draco M.]]
 * [[Elizabeth Afton]]
 * [[Elliot Star]]
-- [[Emira Jones]]
+* [[Emira Jones]]
 * [[Finn Vanater]]
 * [[Fox Byrne]]
 * [[Foxer Vanater]]

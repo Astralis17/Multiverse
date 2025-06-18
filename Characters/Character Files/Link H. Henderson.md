@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete #UniLuck #Midas #UnDead #OCFromMedia 
 
 Link is 16 years old, he is from [[UniLuck]] and uses he/him pronouns and they are cismale

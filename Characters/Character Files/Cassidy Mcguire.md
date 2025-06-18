@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete #OCFromMedia #UnDead #UniLuck #Sketchpad 
 
 Cassidy is 15 years old, she is from UniLuck and she uses she/her.

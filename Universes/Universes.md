@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete 
 Throughout the world of Multiverse there are many universes. (Shocker I know /s)
 There are also several Dimensions within said universes and also outside of them, some of these Dimensions are classified as [[Hell's Pockets]] and [[Angelic Pockets]] which are pocket dimensions that Angels and Demons cannot enter respectively
@@ -23,26 +26,19 @@ The Universes are as follows
 - [[Hyrule]]
 
 #### Classification & IDing Universes
-##### Steps
-1. [[#Step 1 Which part of the Multiverse does it exist in?|Which part of the Multiverse does it exist in?]]
-2. [[#Step 2 Determine the distance from the North Point in quadrants|Determine the distance from the North Point in quadrants]]
-3. [[#Step 3 Determine the Directional Co-ordinates (i)|Determine the Directional Co-ordinates (i)]]
-4. [[#Step 4 Determine the Directional Co-ordinates (ii)|Determine the Directional Co-ordinates (ii)]]
-5. [[#Step 5 Status|Status]]
-6. [[#Step 6 Amount of Universes in Geometric]]
-7. [[#Step 7 Add the MT-ID acronym to the end|Add the MT-ID acronym to the end]]
-###### Step 1: Which part of the Multiverse does it exist in?
+
+##### Step 1: Which part of the Multiverse does it exist in?
 ```Location
 PLAINE = P-
 Outerverses = O-
 Interverses = I-
 ```
-###### Step 2: Determine the distance from the North Point in quadrants
+##### Step 2: Determine the distance from the North Point in quadrants
 ```
 1-4
 ```
 ☆If not in the PLAINE, ignore this step
-###### Step 3: Determine the Directional Co-ordinates (i)
+##### Step 3: Determine the Directional Co-ordinates (i)
 ```Quadrant/ID
 Quadrant/ID
 1/NT1
@@ -51,13 +47,13 @@ Quadrant/ID
 4/ST1
 ```
 ☆If in the Outerverses, skip this step
-###### Step 4: Determine the Directional Co-ordinates (ii)
+##### Step 4: Determine the Directional Co-ordinates (ii)
 ```Distance-from-the-EzWiz-Line
 Distance from the EzWiz Line
 WS4 WS3 WS2 WS1 | ES1 ES2 ES3 ES4
 ```
 ☆Again, skip this if in the Outerverses
-###### Step 5: Status
+##### Step 5: Status
 ```Universe-Statuses
 Universe Statuses
 Living = -L
@@ -66,9 +62,9 @@ Living Cluster = -LC
 Dormant Cluster = -NLC
 ```
 
-###### Step 6: Amount of Universes in Geometric
+##### Step 6: Amount of Universes in Geometric
 ☆Skip this if in the Outerverses or Interverses
-###### Step 7: Add the MT-ID acronym to the end
+##### Step 7: Add the MT-ID acronym to the end
 
 
 ##### Example

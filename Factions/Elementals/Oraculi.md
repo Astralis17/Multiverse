@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete 
 
 Oraculi is the plural name given to the small magic companions of the Elementals.

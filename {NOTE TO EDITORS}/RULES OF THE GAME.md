@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Complete 
 ### ***MAIN RULES***
 #### **1:** No unkillable characters may be added for fairness reasons

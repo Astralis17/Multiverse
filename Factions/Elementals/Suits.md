@@ -1,7 +1,10 @@
+---
+dg-publish: true
+---
 #Incomplete 
 
 ### What are Suits?
-- Elemental Suits are the sub-catagories of Elements. Each Suit has a leader that is defined by their [[Power Levels]].
+- Elemental Suits are the sub-catagories of [[List of Elements|Elements]]. Each Suit has a leader that is defined by their [[Power Levels]].
 
 #### List of Suits
 - Water

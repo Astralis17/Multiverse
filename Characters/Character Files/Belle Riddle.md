@@ -1,8 +1,11 @@
+---
+dg-publish: true
+---
 #Complete  #OCFromMedia #UniLuck #Sketchpad #Living 
 
 Bellatrix Jr Riddle is 15 years old, she is from UniLuck, she uses she/her pronouns and is a ciswoman
-They are known as Belle, Water, B, Puddles or Puppet Master.
-They currently reside at [[The Dojo]]
+She is known as Belle, Water, B, Puddles or Puppet Master.
+She is currently reside at [[The Dojo]]
 #### Contents
 - [[#Related Groups/Factions]]
 - [[#Early Life]]
@@ -19,7 +22,7 @@ Belle grew up in [[Applewood]] and went between living with her parents and in [
 Belle is 5'9/175cm tall, has a stern, slim build, green eyes, black hair and pale skin. Her left eye is a ghostly white and she has major scarring on the arms, back of neck and up along the left leg. She walks with a limp and is half blind. Her typical apparrel includes her work [[The Dojo]] hoodie and/or oil stained jeans or her work button up shirt.
 
 ##### Training and Abilities
-Belle trained with two different mentors, [[Lou Riddle]] and [[Garcello Golden]] at the [[Elemental HQ]]. Due to them being the Elemental of Water, they have power over bodies of water in all forms. Her Oracula is named Fiji.
+Belle trained with two different mentors, [[Lou Riddle]] and [[Garcello Golden]] at the [[Elemental HQ]]. Due to them being the Elemental of Water, she has power over bodies of water in all forms. Her [[Oraculi|Oracula]] is named Fiji.
 ##### Family
 Belle is part of the Riddle family 
 Their parents are [[BSR]] and [[TSR]], their siblings include [[Lou Riddle]], [[Thomas Riddle]], and [[Del Riddle]] 

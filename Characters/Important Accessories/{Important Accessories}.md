@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete 
 This is a list of all important accessories that have been revealed to everyone who is playing currently, along with which character is in possession of it.
 

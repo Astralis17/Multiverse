@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 (Also acts as a template for Hell and Angelic Pockets)
 
 ### Torture Pockets

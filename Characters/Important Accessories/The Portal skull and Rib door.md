@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete #Amber #Living 
 The Portal Skull was made by [[Tula Ossa Hellsing]] to act as both a key and door to her grave being able to be used by anyone. 
 #### Type of tool

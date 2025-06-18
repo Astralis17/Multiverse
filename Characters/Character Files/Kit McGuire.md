@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete #Living #UniLuck #Midas #OCFromMedia 
 kit is {Age} years old, they are from {Universe} and they use {Pronouns} pronouns and they are {Gender}
 They are known as {Aliases} (Optional)

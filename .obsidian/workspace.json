@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/Universes.md",
+                "file": "Factions/Elementals/Suits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universes"
+              "title": "Suits"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UniLuck  ",
+                "query": "tag:#Incomplete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,38 +160,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "5207c2d184a6c520",
   "lastOpenFiles": [
-    "Universes/P-4ST1ES1-L4/Yndarium/Yndarium.md",
-    "Universes/P-4ST1ES1-L4/Rander/The Federation.md",
-    "Universes/P-4ST1ES1-L4/Rander/The Conglomerate.md",
-    "Universes/P-4ST1ES1-L4/Rander/Rander.md",
-    "Universes/P-4ST1ES1-L4/Andria/Andria.md",
-    "Characters/Character Files/The Observant (OB).md",
-    "Characters/Character Files/Xes.md",
-    "Characters/Character Files/Belle Riddle.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/The Solar System.md",
-    "Universes/P-4ST1ES1-L4/Dexana/Externa.md",
-    "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Caladra/Caladra.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 3/Planet 3.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 4/Planet 4.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5/Planet 5.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Pulara/Pulara.md",
-    "Families/Fitzsimmons.md",
-    "Families/Afton.md",
-    "Characters/Character Files/Amanda Fitzsimmons-Afton.md",
+    "Factions/Elementals/Oraculi.md",
+    "Factions/Elementals/Generation '99.md",
+    "Factions/Elementals/Elementals.md",
+    "Factions/Elementals/List of Elements.md",
     "Characters/Character Files/{All Characters}.md",
-    "Characters/Character Files/Amanda Fitzsimmons.md",
-    "Families/Riddle/Riddle.md",
+    "Characters/Character Files/Skye S. Golden.md",
+    "Characters/Character Files/Skye J. Golden.md",
+    "Characters/Character Files/Simon Drew.md",
+    "Characters/Character Files/Shadow Colton.md",
+    "Characters/Character Files/Shadow (hedgehog).md",
+    "Characters/Character Files/Sev Wood.md",
+    "Characters/Character Files/Sev S. Wood.md",
+    "Characters/Character Files/William Afton.md",
+    "Characters/Character Files/Windsor Vanater.md",
+    "Characters/Character Files/Xes.md",
+    "Characters/Character Files/Zelda Henderson.md",
+    "Characters/Character Files/Zuzu.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Characters/Character Files/Abigail McGuire.md",
+    "Characters/Character Files/Anakin (dragon).md",
+    "Characters/Character Files/Amanda Fitzsimmons-Afton.md",
+    "Characters/Character Files/Alice A..md",
+    "Characters/Character Files/Anakin Skywalker.md",
+    "Characters/Character Files/Anankin (cat).md",
+    "Characters/Character Files/Andrew Golden.md",
+    "Characters/Character Files/Andromache T..md",
+    "Characters/Character Files/More Characters",
     "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
-    "Families/Riddle/UniLuck Riddles.md",
-    "Families/Riddle/UniDust Riddles.md",
-    "Families/Riddle/UniDark Lances.md",
-    "Files (To Be Digitised)/List.md",
     "Universes/P-3ST2ES3-L3",
     "Universes/P-4ST1ES1-L4",
     "Universes/P-4ST1ES1-L4/Andria",
@@ -200,7 +202,6 @@
     "Universes/P-4ST1ES1-L4/Rander/Solar System",
     "Universes/P-4ST1ES1-L4/Rander",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Pulara",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 4"
+    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5"
   ]
 }

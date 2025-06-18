@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete 
 
 ## There are 60 total Elementals in UniLuck
@@ -82,5 +85,5 @@ ___
 - Obsession
 
 
-##### More on the [[Suits]] <- Here
+##### More on the [[Suits]]
 

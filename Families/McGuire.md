@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Incomplete
 
 ##### Linked with [[The Kindergarten Coup]]
