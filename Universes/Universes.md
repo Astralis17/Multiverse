@@ -10,18 +10,20 @@ There are also several Dimensions within said universes and also outside of them
 - [[#Notable Dimensions]]
 - [[#Classification & IDing Universes]]
 
-
-
 #### List of Universes 
 The Universes are as follows
-- [[FILENAME00]]
-- [[UniDark]] 
-- [[UniLuck]]
-- [[UniDust]]
-- [[Dexana]]
-- [[Andria]]
-- [[Rander]]
-- [[Yndarium]]
+
+| Universe       |     | Universe ID       |
+| -------------- | --- | ----------------- |
+| [[FILENAME00]] |     | P-2NT2ES4-LC31FNN |
+| [[UniDark]]    |     | P-3ST2ES3-L3UD    |
+| [[UniLuck]]    |     | P-3ST2ES3-L3UL    |
+| [[UniDust]]    |     | P-3ST2ES3-L3UDT   |
+| [[Dexana]]     |     | P-4ST1ES1-L4DX    |
+| [[Andria]]     |     | P-4ST1ES1-L4AN    |
+| [[Rander]]     |     | P-4ST1ES1-L4RD    |
+| [[Yndarium]]   |     | P-4ST1ES1-L4YN    |
+
 #### Notable Dimensions
 - [[Hyrule]]
 
@@ -90,19 +92,18 @@ P-3ST2ES3-L3UL - UniLuck
 
 
 
-
+%%
 # Universe IDs
 P-2NT2ES4-LC31FNN - FILENAMENULL
 
 **Geometric ID - P-3ST2ES3-L3**
-┳
-┝ P-3ST2ES3-L3UL - UniLuck
-┝ P-3ST2ES3-L3UD - UniDark
-┗ P-3ST2ES3-L3UDT - UniDust
+ 
+ P-3ST2ES3-L3UL - UniLuck
+ P-3ST2ES3-L3UD - UniDark
+ P-3ST2ES3-L3UDT - UniDust
 
- **Geometric ID - P-4ST1ES1-L4**
-┳ 
-┝ P-4ST1ES1-L4DX - Dexana
-┝ P-4ST1ES1-L4AD - Andria
-┝ P-4ST1ES1-L4YN - Yndarium
-┗ P-4ST1ES1-L4RD - Rander
+**Geometric ID - P-4ST1ES1-L4**
+P-4ST1ES1-L4DX - Dexana
+P-4ST1ES1-L4AD - Andria
+P-4ST1ES1-L4YN - Yndarium
+P-4ST1ES1-L4RD - Rander

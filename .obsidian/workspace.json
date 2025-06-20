@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b918130f58289c3e",
+        "id": "7645b19a433cc96f",
         "type": "tabs",
         "children": [
           {
-            "id": "aa23b5974c1462c8",
+            "id": "9896c8ec20f276b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+                "file": "Rules Of The Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOTE TO EDITORS"
+              "title": "Rules Of The Game"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#UniTube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,44 +164,44 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "aa23b5974c1462c8",
+  "active": "9896c8ec20f276b9",
   "lastOpenFiles": [
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Pulara/Pulara.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Caladra/Caladra.md",
+    "README.md",
+    "Rules Of The Game.md",
+    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "Factions/{Faction File Template}.md",
+    "Events/Wars/{War Template}.md",
+    "Characters/Character Files/{Character File Template}.md",
+    "Universes/{Universe File Template}.md",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5/Planet 5.md",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 4/Planet 4.md",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 3/Planet 3.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/The Solar System.md",
+    "Files (To Be Digitised)/Instructions.md",
+    "Files (To Be Digitised)/List.md",
+    "Universes/UniTube/Locations in UniTube.md",
+    "Universes/UniTube/UniTube.md",
+    "Universes/Universes.md",
+    "Characters/Character Files/Alice A..md",
+    "Characters/Character Files/Abigail McGuire.md",
+    "Home.md",
+    "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
+    "Universes/P-4ST1ES1-L4/Rander/Rander.md",
+    "Universes/P-4ST1ES1-L4/Rander/The Conglomerate.md",
+    "Characters/Character Files/Belle Riddle.md",
+    "Characters/Character Files/Belladonna.md",
+    "Characters/Character Files/Anakin Skywalker.md",
+    "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
+    "Universes/P-4ST1ES1-L4/Yndarium/Yndarium.md",
+    "Events/The Balance Trials/The Balance Trials.md",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Pulara",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Caladra",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 4",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 3",
-    "Universes/P-4ST1ES1-L4/Yndarium/Yndarium.md",
-    "Universes/P-4ST1ES1-L4/Rander/The Federation.md",
-    "Universes/P-4ST1ES1-L4/Rander/The Conglomerate.md",
     "Universes/P-4ST1ES1-L4/Rander/Solar System",
-    "Universes/P-4ST1ES1-L4/Rander/Rander.md",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System",
-    "Universes/P-4ST1ES1-L4/Dexana/Externa.md",
-    "Universes/P-4ST1ES1-L4/Andria/Andria.md",
-    "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/UniLuck.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/The Dojo.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/Locations of UniLuck.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/Jessie's Home for Children.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/Freddy's Locations.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/Elemental HQ.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/Applewood.md",
-    "Universes/P-3ST2ES3-L3/UniDust/UniDust.md",
-    "Universes/P-3ST2ES3-L3/UniDust/Locations in UniDust.md",
-    "Universes/P-3ST2ES3-L3/UniDark/UniDark.md",
-    "Universes/P-3ST2ES3-L3/UniDark/Locations of UniDark.md",
-    "Universes/Dimensions/Angelic Pockets/Angelic Pockets.md",
-    "Universes/Dimensions/Hell's Pockets/Types of Hell's Pocket.md",
     "Universes/P-4ST1ES1-L4/Yndarium",
     "Universes/P-4ST1ES1-L4/Rander",
-    "Universes/P-4ST1ES1-L4/Dexana",
-    "Universes/Universes Diagram & Inter-Outerverses Notes.jpg"
+    "Universes/P-4ST1ES1-L4/Dexana"
   ]
 }

@@ -1,3 +1,6 @@
+---
+dg-publish: false
+---
 This is a guide/template for creating and formatting character files 
 After the line is where the template begins
 There will be {} to signify character specific information which need to be replaced with relevant information

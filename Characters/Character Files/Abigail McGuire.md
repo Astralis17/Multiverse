@@ -1,8 +1,7 @@
 ---
 dg-publish: true
 ---
-#Incomplete #Sketchpad #UniLuck 
-#OC #Living 
+#Incomplete #Sketchpad #UniLuck #OC #Living 
 
 Abigail is 8 years old, she is from [[UniLuck]] and she uses she/her pronouns.
 She is known as Abigail, Abbie or Abbs.

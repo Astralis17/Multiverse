@@ -1,3 +1,6 @@
+---
+dg-publish: false
+---
 #Complete 
 Place images of any physical documentation in this folder to be digitised
 images can be attached on mobile from the mobile hot-bar
