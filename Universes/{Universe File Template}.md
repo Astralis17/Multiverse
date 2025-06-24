@@ -13,19 +13,14 @@ Also don’t change the links under [[#Contents]] they are for linking to headin
 Universe ID: *{ID}*
 #### Contents
 
-- [Base Information](app://obsidian.md/Dexana#Base%20Information)
-- [Significant People](app://obsidian.md/Dexana#Significant%20People)
-- [[{FileName}#Significant Locations]
+- [[#Base Information]]
+- [[#Significant Locations]]
 - [[Dexana#Important Factions|Important Factions]]
 
 ##### Base Information
 *{Brief description of where the universe is within the multiverse}*
 ==This universe==[^1] is home to *{Major Factions/Characters}* and is where the *{Major Events}* occurred
 
-##### Significant People
-- 
-- 
-- 
 ##### Significant Locations
 - 
 - 

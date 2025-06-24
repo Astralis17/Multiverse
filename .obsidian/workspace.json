@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
+                "file": "Universes/{Universe File Template}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dexana"
+              "title": "{Universe File Template}"
             }
           },
           {
@@ -180,8 +180,8 @@
   },
   "active": "5332bc1b63406dab",
   "lastOpenFiles": [
-    "Universes/{Universe File Template}.md",
     "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
+    "Universes/{Universe File Template}.md",
     "Universes/P-4ST1ES1-L4/Dexana/Externa.md",
     "Characters/Character Files/{Character File Template}.md",
     "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
