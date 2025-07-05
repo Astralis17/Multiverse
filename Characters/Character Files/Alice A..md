@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-#Incomplete #UniLuck #Midas #OCFromMedia #UnDead 
+#Complete  #UniLuck #Midas #OCFromMedia #UnDead 
 
 Alice Angel is of an unknown age, they are from UniLuck and they use she/her pronouns. They are known as Alice or A.A. in Dojo Radio Code.
 They currently reside in the treasury of the Slaughter Ace Dojo, in Applewood.
