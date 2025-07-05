@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-#Incomplete #Sketchpad #UniLuck #OC #Living 
+#Complete #Sketchpad #UniLuck #OC #Living 
 
 Abigail is 8 years old, she is from [[UniLuck]] and she uses she/her pronouns.
 She is known as Abigail, Abbie or Abbs.
@@ -14,7 +14,7 @@ She currently resides at [[The Dojo]]
 - [[#Family]]
 - [[#Resistances and Weaknesses]]
 ##### Related Groups/Factions
-Abigail is part of the [[The Kindergarten Coup]] and the [[The Slaughter Aces]]. She used to be part of the [[Multiversal Travellers]] group, but she's no longer part of this group because she travelled home with [[Belle Riddle]] in wake of [[The NRF]] preparations
+Abigail is part of the [[The Kindergarten Coup]] and the [[The Slaughter Aces]]. She used to be part of the [[Multiversal Travellers]] group, but she's no longer part of this group because she travelled home with [[Belle Riddle]] in wake of [[The NRF]] preparations.
 ##### Early Life
 Abbie spent most of her earl(ier) life going to the [[Freddy's Locations]] with [[Belle Riddle]], accompanied by her cousin [[Teddy McGuire]], before becoming a Multiversal Traveller as mentioned before. When she was around 4, word about [[Nightmare]]'s return was in full swing, this was when the three moved back to [[UniLuck]] to open [[The Dojo]]. She did not fight in the war but mainly hung around the reception and medic areas.
 ##### Physical Description/Attributes
