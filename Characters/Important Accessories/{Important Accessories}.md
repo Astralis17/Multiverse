@@ -6,7 +6,7 @@ This is a list of all important accessories that have been revealed to everyone 
 
 | Accessory                         | Owner                  |
 | --------------------------------- | ---------------------- |
-| [[Domius Gladia]]                 | Unknown                |
+| [[Dominus Gladia]]                 | Unknown                |
 | [[Grimm Shot]]                    | [[Tula Ossa Hellsing]] |
 | [[The Portal Skull and Rib Door]] | [[Tula Ossa Hellsing]] |
 | [[The Shade Cloak and Pendant]]   | [[Xes]]                |
