@@ -6,7 +6,7 @@ This is a list of all major factions within Multiverse
 - [[Afterborn]]
 - [[Elementals]]
 - [[Chaosics]]
-- [[Crystal Guards]]
+- [[Crystal Guard]]
 - [[Fazbear Workers]]
 - [[Hellsing Family]]
 - [[Hyrulian Kingdom]]
