@@ -3,7 +3,7 @@ dg-publish: true
 ---
 #Incomplete 
 
-The Balance Trials are a collection of events that happened due to geometric [[P-3ST2ES3-L3]] destabilising which would've lead to catastrophic results if the problem was not fixed
+The Balance Trials are a collection of events during the year 2013UL, that happened due to geometric [[P-3ST2ES3-L3]] destabilising which would've lead to catastrophic results if the problem was not fixed
 3 duo counterparts from the universes had to work together to progress through the trials to stabilise the geometric
 [[Belle Riddle]], [[Calypso Riddle]] and [[Dark Riddle]] are all counterparts from the universes making up one side of the three duos with [[Link H. Henderson]], [[Lee Riddle]] and [[Ben Schmit]][^1]
 
