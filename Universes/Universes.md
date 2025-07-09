@@ -94,16 +94,16 @@ P-3ST2ES3-L3UL - UniLuck
 
 %%
 # Universe IDs
-P-2NT2ES4-LC31FNN - FILENAMENULL
+P-2NT2ES4-LC31FNN - [[FILENAME00]]
 
 **Geometric ID - P-3ST2ES3-L3**
  
- P-3ST2ES3-L3UL - UniLuck
- P-3ST2ES3-L3UD - UniDark
- P-3ST2ES3-L3UDT - UniDust
+ P-3ST2ES3-L3UL - [[UniLuck]]
+ P-3ST2ES3-L3UD - [[UniDark]]
+ P-3ST2ES3-L3UDT - [[UniDust]]
 
 **Geometric ID - P-4ST1ES1-L4**
-P-4ST1ES1-L4DX - Dexana
-P-4ST1ES1-L4AD - Andria
-P-4ST1ES1-L4YN - Yndarium
-P-4ST1ES1-L4RD - Rander
+P-4ST1ES1-L4DX - [[Dexana]]
+P-4ST1ES1-L4AD - [[Andria]]
+P-4ST1ES1-L4YN - [[Yndarium]]
+P-4ST1ES1-L4RD - [[Rander]]
