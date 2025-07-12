@@ -4,7 +4,6 @@ dg-publish: true
 #Incomplete #Astralis #Dexana
 ### Contents
 - [[#Caerium]]
-- [[#Space Travel]]
 - [[#Spaceports]]
 - [[#Starliners]]
 	- [[#Commercial]]
@@ -25,9 +24,9 @@ Due to large quantities of Caerium causing gravity to warp, it is difficult to t
 Spaceports are similar to airports and seaports, except instead of serving as a travel point between air/sea and land, it's a travel point between the ground and space. Serving as an important location for any beings of [[Dexana]] that wish to travel through it's local [[The Solar System|Star System]].
 Typically there are several terminals in a Spaceport, in order to allow multiple [[#Starliners]] to dock and be boarded, though sometimes there may be a single terminal for smaller Spaceports in lower population areas.
 ##### Starliners
-Starliners are to [[#Spaceports]] as Airplanes are to Airports, they are spaceships that cruise the stars to bring passengers & cargo between [[#Spaceports]] on different planets within [[The Solar System]]. They are powered with [[#Caerium]] reactors and ion engines to provide the necessary propulsion
+Starliners are to [[#Spaceports]] as Airplanes are to Airports, they are spaceships that cruise the stars to bring passengers & cargo between [[#Spaceports]] on different planets within [[The Solar System]]. They are powered with [[#Caerium]] reactors and ion engines to provide the necessary propulsion, as well as exploiting [[#Caerium|Caerium's]] gravity warping properties, to provide lift in environments with gravity.
 ###### Commercial
-Commercial [[#Starliners]] are used to transport passengers and small amounts of cargo.
+Commercial [[#Starliners]] are used to transport passengers and small amounts of cargo. They're typically faster and smaller than [[#Freighters]].
 ###### Freighters
 Freighters are a type of [[#Starliners|Starliner]] explicitly used for transporting cargo.
 #### UVS Glass

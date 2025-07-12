@@ -3,7 +3,7 @@ dg-publish: true
 ---
 #Incomplete 
 
-##### Linked with Golden
+##### Linked with [[Golden]]
 
 #### Family Members Include
 - [[BSR]]

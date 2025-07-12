@@ -9,4 +9,4 @@ dg-publish: true
 - [[Isobel Drew]]
 - [[Tylor Drew]]
 - [[Simon Drew]]
--  [[Lilly Drew]]
+- [[Lilly Drew]]

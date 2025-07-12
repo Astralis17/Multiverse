@@ -60,7 +60,7 @@ Their parents are *{Characters Parents}*, their siblings include; *{List of Sibl
 - #UniLuck - Character is from [[UniLuck]]
 - #UniDust - Character is from [[UniDust]]
 - #UniTube - Character is from [[UniTube]]
-- #misc - Character is from and unnamed Universe
+- #Misc - Character is from and unnamed Universe
 - #FILENAME00 - Character is from [[FILENAME00]]
 - #Chaosic - Character is a Chaosic and/or related to [[THE PLAINE]]
 
