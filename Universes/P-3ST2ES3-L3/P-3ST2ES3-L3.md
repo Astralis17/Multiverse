@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 #Incomplete #Sketchpad #UniLuck #UniDark #UniDust
-P-3ST2ES3-L3 is the [[Geometrics|Geometric]] ID for the Geometric that contains the universes [[UniLuck]], [[UniDark]] and [[UniDust]]
+P-3ST2ES3-L3 is the Geometric ID for the Geometric that contains the universes [[UniLuck]], [[UniDark]] and [[UniDust]]
 
 | Position & Stats |                                    |
 | ---------------- | ---------------------------------- |

@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7eef86854fdf21c8",
+        "id": "9157f7dfbb1237b9",
         "type": "tabs",
         "children": [
           {
-            "id": "8132e90b9fa4c850",
+            "id": "5332bc1b63406dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universes/{Universe File Template}.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "{Universe File Template}"
+            }
+          },
+          {
+            "id": "2cfe94dd6549e7ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Welcome to the main file for the documentation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,17 +108,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universes/P-4ST1ES1-L4/Dexana/Documentation of Dexana's Fictional Objects & Concepts.md",
+                "file": "Characters/Character Files/Xes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Documentation of Dexana's Fictional Objects & Concepts"
+              "title": "Backlinks for Xes"
             }
           },
           {
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
+                "file": "Characters/Character Files/Xes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dexana"
+              "title": "Outgoing links from Xes"
             }
           },
           {
@@ -146,12 +160,11 @@
               "title": "Outline of Xes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -165,37 +178,35 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "8132e90b9fa4c850",
+  "active": "5332bc1b63406dab",
   "lastOpenFiles": [
-    "Universes/P-4ST1ES1-L4/Dexana/Documentation of Dexana's Fictional Objects & Concepts.md",
-    "Universes/P-4ST1ES1-L4/Dexana/Externa.md",
     "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
-    "Locations.md",
-    "Universes/Geometrics.md",
-    "Universes/Dimensions/Hell's Pockets/The Woods.md",
-    "Events/The Balance Trials/The Balance Trials.md",
-    "Universes/P-4ST1ES1-L4/P-4ST1ES1-L4.md",
-    "Universes/P-3ST2ES3-L3/P-3ST2ES3-L3.md",
-    "Universes/Locations Outside Universes/Interverses.md",
-    "Universes/Locations Outside Universes/Outerverses.md",
-    "Factions/Factions.md",
-    "Factions/Hellsing Family.md",
-    "Factions/Fazbear Workers.md",
-    "Factions/Chaosics.md",
-    "Factions/Crystal Guard.md",
-    "Factions/TCC.md",
-    "Characters/Important Accessories/The Golden Watches.md",
-    "Characters/Important Accessories/Ink Machine.md",
-    "Characters/Important Accessories/Grimm Shot.md",
-    "Characters/Important Accessories/Dominus Gladia.md",
-    "Characters/Important Accessories/The Shade Cloak and Pendant.md",
-    "Characters/Important Accessories/The Portal Skull and Rib Door.md",
-    "Characters/Power Levels/Power Levels.md",
-    "Characters/Power Levels/PL List.md",
-    "Characters/Power Levels/Frank's Razor.md",
+    "Universes/{Universe File Template}.md",
+    "Universes/P-4ST1ES1-L4/Dexana/Externa.md",
+    "Characters/Character Files/{Character File Template}.md",
     "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
-    "Universes/P-4ST1ES1-L4/Rander/Solar System/The Twins",
-    "Factions/Aces",
+    "Universes/P-4ST1ES1-L4/P-4ST1ES1-L4.md",
+    "Universes/P-3ST2ES3-L3/UniDust/UniDust.md",
+    "Universes/FILENAME00/FILENAME00.md",
+    "Universes/P-3ST2ES3-L3/UniLuck/UniLuck.md",
+    "Universes/P-3ST2ES3-L3/UniLuck/Locations of UniLuck.md",
+    "Universes/Universes.md",
+    "Characters/Important Accessories/Domius Gladia.md",
+    "Events/Wars/Wars.md",
+    "Events/The Balance Trials/The Balance Trials.md",
+    "Universes/P-3ST2ES3-L3/P-3ST2ES3-L3.md",
+    "Characters/Important Accessories/{Important Accessories}.md",
+    "Universes/UniTube/Locations in UniTube.md",
+    "Universes/UniTube/UniTube.md",
+    "README.md",
+    "Rules Of The Game.md",
+    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
+    "Factions/{Faction File Template}.md",
+    "Events/Wars/{War Template}.md",
+    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5/Planet 5.md",
+    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 4/Planet 4.md",
+    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 3/Planet 3.md",
+    "Files (To Be Digitised)/Instructions.md",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Pulara",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Caladra",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5",
@@ -203,6 +214,8 @@
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 3",
     "Universes/P-4ST1ES1-L4/Rander/Solar System",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System",
-    "Universes/P-4ST1ES1-L4/Yndarium"
+    "Universes/P-4ST1ES1-L4/Yndarium",
+    "Universes/P-4ST1ES1-L4/Rander",
+    "Universes/P-4ST1ES1-L4/Dexana"
   ]
 }

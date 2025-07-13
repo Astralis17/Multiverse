@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 #Incomplete
-There are many major factions within the world of Multiverse that have complex workings and activities and this is the list of all of the major ones, in alphabetical order
+This is a list of all major factions within Multiverse
 - [[Afterborn]]
 - [[Elementals]]
 - [[Chaosics]]

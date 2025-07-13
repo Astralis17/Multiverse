@@ -2,4 +2,4 @@
 dg-publish: true
 ---
 #Incomplete #UniDark 
-The important locations of UniLuck can be found in [[Locations of UniLuck]]
+Welcome to the main file for the documentation of UniDark

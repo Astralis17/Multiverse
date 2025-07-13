@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 #Incomplete #Astralis #Dexana #Andria #Rander #Yyndarium
-P-4ST1ES1-L4 is the [[Geometrics|Geometric]] ID for the Geometric that contains the universes [[Dexana]], [[Andria]], [[Rander]] and [[Yndarium]]
+P-4ST1ES1-L4 is the Geometric ID for the Geometric that contains the universes [[Dexana]], [[Andria]], [[Rander]] and [[Yndarium]]
 
 | Position & Stats |                                    |
 | ---------------- | ---------------------------------- |
