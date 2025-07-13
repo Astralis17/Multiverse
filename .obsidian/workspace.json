@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9157f7dfbb1237b9",
+        "id": "58eced0c94708571",
         "type": "tabs",
         "children": [
           {
-            "id": "5332bc1b63406dab",
+            "id": "d36d9457b3cc0bc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universes/{Universe File Template}.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "{Universe File Template}"
-            }
-          },
-          {
-            "id": "2cfe94dd6549e7ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dexana"
+              "title": "New tab"
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Welcome to the main file for the documentation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 293.5
   },
   "right": {
     "id": "91c635afa523e4c8",
@@ -108,17 +90,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Character Files/Xes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xes"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Character Files/Xes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Xes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -159,13 +139,23 @@
               "icon": "lucide-list",
               "title": "Outline of Xes"
             }
+          },
+          {
+            "id": "e1351ecde1983267",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,44 +168,44 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "5332bc1b63406dab",
+  "active": "d36d9457b3cc0bc2",
   "lastOpenFiles": [
-    "Universes/P-4ST1ES1-L4/Dexana/Dexana.md",
-    "Universes/{Universe File Template}.md",
-    "Universes/P-4ST1ES1-L4/Dexana/Externa.md",
-    "Characters/Character Files/{Character File Template}.md",
-    "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
-    "Universes/P-4ST1ES1-L4/P-4ST1ES1-L4.md",
-    "Universes/P-3ST2ES3-L3/UniDust/UniDust.md",
-    "Universes/FILENAME00/FILENAME00.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/UniLuck.md",
-    "Universes/P-3ST2ES3-L3/UniLuck/Locations of UniLuck.md",
+    "Untitled.md",
+    "Factions/Elementals/Suits.md",
+    "Factions/Elementals/List of Elements.md",
+    "Universes/Geometrics.md",
+    "Universes/P-3ST2ES3-L3/UniDust/Locations of UniDust.md",
+    "Universes/P-3ST2ES3-L3/UniDust/Locations in UniDust.md",
+    "Families/Families.md",
+    "Universes/P-4ST1ES1-L4/Rander/Solar System/The Twins/Dulan & Planet 2.md",
+    "Universes/P-4ST1ES1-L4/Rander/Solar System/The Twins",
+    "Universes/P-4ST1ES1-L4/Rander/Solar System",
+    "Universes/P-4ST1ES1-L4/Rander/The Outlands.md",
+    "Universes/P-4ST1ES1-L4/Dexana/Locations of Dexana.md",
+    "Universes/P-4ST1ES1-L4/Dexana/Documentation of Dexana's Fictional Objects & Concepts.md",
+    "Universes/Locations Outside Universes/MT HQ.md",
+    "Universes/Dimensions/Hell's Pockets/The Woods.md",
+    "Universes/Locations Outside Universes/Interverses.md",
+    "Universes/Locations Outside Universes/Outerverses.md",
+    "Characters/Character Files/Xes.md",
+    "Universes/P-3ST2ES3-L3/UniDark/Locations of UniDark.md",
+    "Universes/P-3ST2ES3-L3/UniDark/UniDark.md",
     "Universes/Universes.md",
-    "Characters/Important Accessories/Domius Gladia.md",
-    "Events/Wars/Wars.md",
+    "Families/Riddle/UniLuck Riddles.md",
+    "Factions/Multiversal Travellers.md",
+    "Factions/Factions.md",
     "Events/The Balance Trials/The Balance Trials.md",
-    "Universes/P-3ST2ES3-L3/P-3ST2ES3-L3.md",
-    "Characters/Important Accessories/{Important Accessories}.md",
-    "Universes/UniTube/Locations in UniTube.md",
-    "Universes/UniTube/UniTube.md",
-    "README.md",
-    "Rules Of The Game.md",
-    "{NOTE TO EDITORS}/NOTE TO EDITORS.md",
-    "Factions/{Faction File Template}.md",
-    "Events/Wars/{War Template}.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5/Planet 5.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 4/Planet 4.md",
-    "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 3/Planet 3.md",
-    "Files (To Be Digitised)/Instructions.md",
+    "Universes/P-4ST1ES1-L4/P-4ST1ES1-L4.md",
+    "Characters/Important Accessories/Grimm Shot.md",
+    "Characters/Character Files/Hannah Clark.md",
+    "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
+    "Factions/Aces",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Pulara",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Caladra",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 5",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 4",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Planet 3",
-    "Universes/P-4ST1ES1-L4/Rander/Solar System",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System",
-    "Universes/P-4ST1ES1-L4/Yndarium",
-    "Universes/P-4ST1ES1-L4/Rander",
-    "Universes/P-4ST1ES1-L4/Dexana"
+    "Universes/P-4ST1ES1-L4/Yndarium"
   ]
 }
