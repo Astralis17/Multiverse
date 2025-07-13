@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58eced0c94708571",
+        "id": "2d01cb2ea917b893",
         "type": "tabs",
         "children": [
           {
-            "id": "d36d9457b3cc0bc2",
+            "id": "ae8ad4165d68521b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Universes/P-4ST1ES1-L4/Dexana/Documentation of Dexana's Fictional Objects & Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Documentation of Dexana's Fictional Objects & Concepts"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Events/The Balance Trials/The Balance Trials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Balance Trials"
             }
           },
           {
@@ -150,8 +152,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,9 +169,8 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d36d9457b3cc0bc2",
+  "active": "2ad7bb42f68e7d7e",
   "lastOpenFiles": [
-    "Untitled.md",
     "Factions/Elementals/Suits.md",
     "Factions/Elementals/List of Elements.md",
     "Universes/Geometrics.md",
@@ -198,6 +198,7 @@
     "Universes/P-4ST1ES1-L4/P-4ST1ES1-L4.md",
     "Characters/Important Accessories/Grimm Shot.md",
     "Characters/Character Files/Hannah Clark.md",
+    "Characters/Important Accessories/The Portal skull and Rib door.md",
     "Universes/Universes Diagram & Inter-Outerverses Notes.jpg",
     "Factions/Aces",
     "Universes/P-4ST1ES1-L4/Dexana/The Solar System/Pulara",
