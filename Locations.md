@@ -8,8 +8,12 @@ In this is file there is [[#Locations Per Universe]] and [[#List of all Location
 
 #### Locations Per Universe
 - [[Locations of FILENAME00|FILENAME00]]
-- [[Locations of UniDark|UniDark]] 
+- [[Locations of UniDark|UniDark]]
 - [[Locations of UniLuck|UniLuck]]
+- [[Locations of UniDust|UniDust]]
+- [[Locations in UniTube|UniTube]]
+- [[Locations of Dexana|Dexana]]
+- [[locations of ]]
 #### List of all Locations
 - [[The Dojo|Slaughter Ace/The Dojo]]
 - [[Hyrule]]

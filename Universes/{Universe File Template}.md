@@ -12,25 +12,27 @@ Also don’t change the links under [[#Contents]] they are for linking to headin
 #Incomplete #{Author} #{Universe Name}
 Universe ID: *{ID}*
 #### Contents
-
 - [[#Base Information]]
-- [[#Significant Locations]]
+- [[#Signifcant People]]
 - [[Dexana#Important Factions|Important Factions]]
+- [[#Major Events]]
 
 ##### Base Information
 *{Brief description of where the universe is within the multiverse}*
 ==This universe==[^1] is home to *{Major Factions/Characters}* and is where the *{Major Events}* occurred
-
-##### Significant Locations
+*{Link to Locations of {Universe Name} File}*
+##### Significant People
 - 
 - 
 - 
-
 ##### Important Factions
 - 
 - 
 - 
-
+##### Major Events
+- 
+- 
+- 
 ---
 #### Tags
 ##### Meta Tags
