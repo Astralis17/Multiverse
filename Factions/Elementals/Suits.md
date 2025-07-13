@@ -27,6 +27,6 @@ dg-publish: true
 - Dark - Death - [[Mori Carney]]
 - Balance - Balance - [[Tula Ossa Hellsing]]
 - Resources - Gold - [[Garcello Golden]]
-- Sky - Wind - [[Windsor Vanater]]
+- Sky - Weather - [[Windsor Vanater]]
 - Behaviour - Emotion - [[Emira Jones]]
 
