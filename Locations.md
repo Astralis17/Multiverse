@@ -13,7 +13,6 @@ In this is file there is [[#Locations Per Universe]] and [[#List of all Location
 - [[Locations of UniDust|UniDust]]
 - [[Locations in UniTube|UniTube]]
 - [[Locations of Dexana|Dexana]]
-- [[locations of ]]
 #### List of all Locations
 - [[The Dojo|Slaughter Ace/The Dojo]]
 - [[Hyrule]]

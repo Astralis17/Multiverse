@@ -11,7 +11,7 @@ The Solar system is home to the main POIs within [[Dexana]], it is made up of 5 
 - [[#The Star]]
 - [[Pulara]]
 - [[Caladra]]
-- [[Planet 3]]
+- [[Kroto]]
 - [[Planet 4]]
 - [[Planet 5]]
 ##### The Star
